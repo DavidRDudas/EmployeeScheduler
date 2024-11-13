@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Project Management</title>
+    <link rel="stylesheet" href="../css/styles.css">
+</head>
+<body>
+    <div class="project-management">
+        <h3>Project Management</h3>
+        <div class="add-project-form">
+            <input type="text" id="newProjectId" placeholder="Project ID">
+            <input type="text" id="newProjectName" placeholder="Project Name">
+            <input type="number" id="newProjectDays" placeholder="Estimated Days">
+            <div class="market-search-container">
+                <input type="text" id="newProjectMarket" placeholder="Search market..." autocomplete="off">
+            </div>
+                <input type="color" id="newProjectColor" value="#4CAF50">
+            <button onclick="window.addProject()">Add Project</button>
+        </div>
+        
+        <div class="project-controls">
+            <input type="text" id="searchProjectInput" placeholder="Search projects..." oninput="window.filterProjects()">
+            <div class="sort-controls">
+                <button onclick="window.sortProjects('name')" class="sort-btn" data-sort="name">
+                    Sort by Name
+                    <span class="sort-icon">&updownarrow;</span>
+                </button>
+                <button onclick="window.sortProjects('market')" class="sort-btn" data-sort="market">
+                    Sort by Market
+                    <span class="sort-icon">&updownarrow;</span>
+                </button>
+                <button onclick="window.sortProjects('days')" class="sort-btn" data-sort="days">
+                    Sort by Days
+                    <span class="sort-icon">&updownarrow;</span>
+                </button>
+            </div>
+        </div>
+
+        <div id="projectList" class="project-list"></div>
+    </div>
+
+    <div id="editModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3>Edit Project</h3>
+                <span class="close-modal">&times;</span>
+            </div>
+            <div class="modal-body">
+                <div class="edit-form-group">
+                    <label for="editProjectId">Project ID:</label>
+                    <input type="text" id="editProjectId">
+                </div>
+                <div class="edit-form-group">
+                    <label for="editProjectName">Project Name:</label>
+                    <input type="text" id="editProjectName">
+                </div>
+                <div class="edit-form-group">
+                    <label for="editProjectDays">Estimated Days:</label>
+                    <input type="number" id="editProjectDays">
+                </div>
+                <div class="edit-form-group">
+                    <label for="editProjectMarket">Market:</label>
+                    <div class="market-search-container">
+                        <input type="text" id="editProjectMarket" placeholder="Search market..." autocomplete="off">
+                    </div>
+                </div>
+                <div class="edit-form-group">
+                    <label for="editProjectColor">Project Color:</label>
+                    <input type="color" id="editProjectColor">
+                </div>
+                <div class="modal-actions">
+                    <button id="saveProjectEdit" class="save-btn">Save Changes</button>
+                    <button class="cancel-btn">Cancel</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="../js/common.js"></script>
+    <script src="../js/projects.js"></script>
+</body>
+</html>

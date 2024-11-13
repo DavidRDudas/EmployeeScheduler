@@ -1,0 +1,88 @@
+{
+  "scheduleData": [
+    {
+      "startDate": "2024-11-12",
+      "endDate": "2024-11-15",
+      "employee": "David Dudas",
+      "projectId": "1",
+      "projectName": "Create RMP",
+      "marketProjectManager": "Yadi",
+      "entryType": "work"
+    },
+    {
+      "startDate": "2024-11-01",
+      "endDate": "2024-11-04",
+      "employee": "Michael Dudas",
+      "projectId": "2",
+      "projectName": "New F-16",
+      "marketProjectManager": "Yadi",
+      "entryType": "work"
+    },
+    {
+      "startDate": "2024-11-01",
+      "endDate": "2024-11-14",
+      "employee": "Yadi",
+      "projectId": "1",
+      "projectName": "Create RMP",
+      "marketProjectManager": "David Dudas",
+      "entryType": "pto"
+    }
+  ],
+  "projects": {
+    "1": {
+      "name": "Create RMP",
+      "days": 120,
+      "market": "Construction",
+      "color": "#4caf50",
+      "dateAdded": "2024-11-12T23:19:00.752Z"
+    },
+    "2": {
+      "name": "New F-16",
+      "days": 9999,
+      "market": "Aviation",
+      "color": "#008cb4",
+      "dateAdded": "2024-11-12T23:19:17.867Z"
+    }
+  },
+  "markets": [
+    {
+      "name": "Construction",
+      "region": "Midwest"
+    },
+    {
+      "name": "Aviation",
+      "region": "Mid-Atlantic"
+    }
+  ],
+  "employees": {
+    "1": {
+      "name": "David Dudas",
+      "role": "Engineer",
+      "market": "Construction",
+      "email": "DavidDudas@hotmail.com",
+      "color": "#3a88fe",
+      "active": true,
+      "dateAdded": "2024-11-12T23:17:36.009Z"
+    },
+    "2": {
+      "name": "Michael Dudas",
+      "role": "Manager",
+      "market": "Aviation",
+      "email": "MDudas@outlook.com",
+      "color": "#4caf50",
+      "active": true,
+      "dateAdded": "2024-11-12T23:18:33.265Z"
+    },
+    "3": {
+      "name": "Yadi",
+      "role": "Project Manager",
+      "market": "Construction",
+      "email": "Yadi@hotmail.com",
+      "color": "#e32400",
+      "active": true,
+      "dateAdded": "2024-11-12T23:20:36.337Z"
+    }
+  },
+  "ptoColor": "#f4a4c0",
+  "version": "1.0"
+}

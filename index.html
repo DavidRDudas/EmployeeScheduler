@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Schedule Manager</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <script src="js/common.js"></script>
+</head>
+<body>
+    <nav class="tab-nav">
+        <button class="tab-button active" onclick="switchTab('calendar', event)">Calendar</button>
+        <button class="tab-button" onclick="switchTab('assignments', event)">Assignments</button>
+        <button class="tab-button" onclick="switchTab('projects', event)">Projects</button>
+        <button class="tab-button" onclick="switchTab('markets', event)">Markets</button>
+        <button class="tab-button" onclick="switchTab('employees', event)">Employees</button>
+        <button class="tab-button" onclick="switchTab('settings', event)">Settings</button>
+        <!-- <button class="tab-button" onclick="switchTab('reports', event)">Reports</button> -->
+    </nav>
+
+    <div id="content-container">
+        <iframe id="content-frame" src="pages/calendar.html" onload="handleIframeLoad()"></iframe>
+    </div>
+
+    <script>
+        function handleIframeLoad() {
+            const frame = document.getElementById('content-frame');
+            // Trigger initialization in the iframe content
+            if (frame.contentWindow.initializePage) {
+                frame.contentWindow.initializePage();
+            }
+        }
+
+        function switchTab(page, event) {
+            // Update active tab
+            document.querySelectorAll('.tab-button').forEach(btn => {
+                btn.classList.remove('active');
+            });
+            event.target.classList.add('active');
+
+            // Load content
+            const frame = document.getElementById('content-frame');
+            frame.onerror = () => {
+                console.error(`Failed to load ${page}.html`);
+                frame.src = 'pages/error.html';
+            };
+            frame.src = `pages/${page}.html`;
+        }
+    </script>
+</body>
+</html>

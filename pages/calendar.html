@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Calendar View</title>
+    <link rel="stylesheet" href="../css/styles.css">
+</head>
+<body>
+    <div class="controls">
+        <button onclick="window.previousMonth()">&lt;</button>
+        <div class="month-year-selector">
+            <select id="monthSelect" onchange="window.changeMonth()">
+                <option value="0">January</option>
+                <option value="1">February</option>
+                <option value="2">March</option>
+                <option value="3">April</option>
+                <option value="4">May</option>
+                <option value="5">June</option>
+                <option value="6">July</option>
+                <option value="7">August</option>
+                <option value="8">September</option>
+                <option value="9">October</option>
+                <option value="10">November</option>
+                <option value="11">December</option>
+            </select>
+            <select id="yearSelect" onchange="window.changeMonth()">
+                <!-- Years will be populated by JavaScript -->
+            </select>
+        </div>
+        <button onclick="window.nextMonth()">&gt;</button>
+    </div>
+
+    <div class="calendar-controls">
+        <div class="search-form">
+            <div class="search-grid">
+                <div class="search-container">
+                    <input type="text" id="searchEmployee" placeholder="Search employee..." autocomplete="off">
+                    <div id="employee-search-results" class="search-results-dropdown"></div>
+                </div>
+                <div class="search-container">
+                    <input type="text" id="searchProject" placeholder="Search project..." autocomplete="off">
+                    <div id="project-search-results" class="search-results-dropdown"></div>
+                </div>
+                <div class="search-container">
+                    <input type="text" id="searchMarket" placeholder="Search market..." autocomplete="off">
+                    <div id="market-search-results" class="search-results-dropdown"></div>
+                </div>
+                <select id="searchEntryType">
+                    <option value="">All Types</option>
+                    <option value="work">Work</option>
+                    <option value="pto">PTO</option>
+                </select>
+                <div class="date-range">
+                    <input type="date" id="searchStartDate">
+                    <span>to</span>
+                    <input type="date" id="searchEndDate">
+                </div>
+                <div class="button-group">
+                    <button onclick="window.searchSchedule()" class="primary-btn">Search</button>
+                    <button onclick="window.findAvailableUsers()" class="secondary-btn">Find Available Users</button>
+                    <button onclick="window.clearSearch()" class="clear-btn">Clear</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="calendar" class="calendar"></div>
+
+    <script src="../js/common.js"></script>
+    <script src="../js/calendar.js"></script>
+    <script>
+        window.initializePage();
+    </script>
+</body>
+</html>

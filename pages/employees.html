@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Employee Management</title>
+    <link rel="stylesheet" href="../css/styles.css">
+</head>
+<body>
+    <div class="employee-management">
+        <h3>Employee Management</h3>
+        <div class="add-employee-form">
+            <div class="form-grid">
+                <input type="text" id="employeeId" placeholder="Employee ID">
+                <input type="text" id="employeeName" placeholder="Employee Name">
+                <input type="text" id="employeeRole" placeholder="Role">
+                <div class="market-search-container">
+                    <input type="text" id="employeeMarket" placeholder="Search market..." autocomplete="off">
+                    <div id="employeeMarket-search-results" class="search-results-dropdown"></div>
+                </div>
+                <input type="email" id="employeeEmail" placeholder="Email">
+                <div class="color-input-group">
+                    <input type="color" id="employeeColor" value="#4CAF50" title="Choose employee color">
+                </div>
+                <button onclick="window.addEmployee()" class="add-btn">Add Employee</button>
+            </div>
+        </div>
+
+        <div class="pto-settings">
+            <h4>PTO Settings</h4>
+            <div class="color-setting-group">
+                <label for="ptoColor">Default PTO Entry Color:</label>
+                <input type="color" id="ptoColor" value="#ff9999">
+                <button onclick="window.savePTOColor()" class="save-btn">Save Color</button>
+                <small>This color will be used for all PTO entries in the calendar view</small>
+            </div>
+        </div>
+
+        <div class="employee-controls">
+            <input type="text" id="searchEmployeeInput" placeholder="Search employees..." oninput="window.filterEmployees()">
+            <div class="sort-controls">
+                <button onclick="window.sortEmployees('name')" class="sort-btn" data-sort="name">
+                    Sort by Name
+                    <span class="sort-icon">&updownarrow;</span>
+                </button>
+                <button onclick="window.sortEmployees('market')" class="sort-btn" data-sort="market">
+                    Sort by Market
+                    <span class="sort-icon">&updownarrow;</span>
+                </button>
+                <button onclick="window.sortEmployees('role')" class="sort-btn" data-sort="role">
+                    Sort by Role
+                    <span class="sort-icon">&updownarrow;</span>
+                </button>
+            </div>
+        </div>
+
+        <div id="employees-grid" class="employees-grid">
+            <!-- Employee cards will be rendered here -->
+        </div>
+    </div>
+
+    <div id="editEmployeeModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3>Edit Employee</h3>
+                <span class="close-modal">&times;</span>
+            </div>
+            <div class="modal-body">
+                <div class="edit-form-group">
+                    <label for="editEmployeeId">ID:</label>
+                    <input type="text" id="editEmployeeId">
+                </div>
+                <div class="edit-form-group">
+                    <label for="editName">Name:</label>
+                    <input type="text" id="editName">
+                </div>
+                <div class="edit-form-group">
+                    <label for="editRole">Role:</label>
+                    <input type="text" id="editRole">
+                </div>
+                <div class="edit-form-group">
+                    <label for="editMarket">Market:</label>
+                    <div class="market-search-container">
+                        <input type="text" id="editMarket" placeholder="Search market..." autocomplete="off">
+                        <div id="editMarket-search-results" class="search-results-dropdown"></div>
+                    </div>
+                </div>
+                <div class="edit-form-group">
+                    <label for="editEmail">Email:</label>
+                    <input type="email" id="editEmail">
+                </div>
+                <div class="edit-form-group">
+                    <label for="editColor">Color:</label>
+                    <input type="color" id="editColor">
+                </div>
+                <div class="modal-actions">
+                    <button id="saveEmployeeEdit" class="save-btn">Save Changes</button>
+                    <button class="cancel-btn">Cancel</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="../js/common.js"></script>
+    <script src="../js/employees.js"></script>
+    <script>
+        window.initializePage();
+    </script>
+</body>
+</html>

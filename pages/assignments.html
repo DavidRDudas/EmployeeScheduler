@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Assignment Management</title>
+    <link rel="stylesheet" href="../css/styles.css">
+</head>
+<body>
+    <div class="assignment-management">
+        <h3>Assignment Management</h3>
+        
+        <!-- Add Assignment Form -->
+        <div class="add-assignment-form">
+            <div class="form-grid">
+                <input type="date" id="date">
+                <div class="employee-search-container">
+                    <input type="text" id="employee" placeholder="Search employee..." autocomplete="off">
+                    <div id="employee-search-results" class="search-results-dropdown"></div>
+                </div>
+                <select id="projectId">
+                    <option value="">Select Project</option>
+                </select>
+                <input type="number" id="estimatedTime" placeholder="Estimated Time (days)">
+                <input type="text" id="marketProjectManager" placeholder="Market Project Manager">
+                <select id="entryType">
+                    <option value="work">Work</option>
+                    <option value="pto">PTO</option>
+                </select>
+                <button onclick="window.addAssignment()" class="add-btn">Add Assignment</button>
+            </div>
+        </div>
+        
+        <!-- Search Controls -->
+        <div class="assignment-controls">
+            <input type="text" id="searchAssignmentInput" placeholder="Search assignments..." oninput="window.filterAssignments()">
+            <div class="sort-controls">
+                <button onclick="window.sortAssignments('date')" class="sort-btn" data-sort="date">
+                    Sort by Date
+                    <span class="sort-icon">&updownarrow;</span>
+                </button>
+                <button onclick="window.sortAssignments('employee')" class="sort-btn" data-sort="employee">
+                    Sort by Employee
+                    <span class="sort-icon">&updownarrow;</span>
+                </button>
+                <button onclick="window.sortAssignments('project')" class="sort-btn" data-sort="project">
+                    Sort by Project
+                    <span class="sort-icon">&updownarrow;</span>
+                </button>
+            </div>
+        </div>
+
+        <!-- Assignments Table -->
+        <div class="assignments-table-container">
+            <table class="assignments-table">
+                <thead>
+                    <tr>
+                        <th>Date</th>
+                        <th>Employee</th>
+                        <th>Project</th>
+                        <th>Market</th>
+                        <th>Market PM</th>
+                        <th>Type</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody id="assignmentsList">
+                    <!-- Assignments will be populated here -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <!-- Add this before the closing body tag -->
+    <div id="editAssignmentModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3>Edit Assignment</h3>
+                <span class="close-modal">&times;</span>
+            </div>
+            <div class="modal-body">
+                <div class="edit-form-group">
+                    <label>Date Range:</label>
+                    <div class="date-range">
+                        <input type="date" id="editStartDate" required>
+                        <span>to</span>
+                        <input type="date" id="editEndDate" required>
+                    </div>
+                </div>
+                <div class="edit-form-group">
+                    <label for="editEmployee">Employee:</label>
+                    <div class="employee-search-container">
+                        <input type="text" id="editEmployee" placeholder="Search employee..." 
+                               autocomplete="off" required>
+                        <div id="editEmployee-search-results" class="search-results-dropdown"></div>
+                    </div>
+                </div>
+                <div class="edit-form-group">
+                    <label for="editProjectId">Project:</label>
+                    <div class="project-search-container">
+                        <input type="text" id="editProjectId" placeholder="Search project..." 
+                               autocomplete="off" required>
+                        <div id="edit-project-search-results" class="search-results-dropdown"></div>
+                    </div>
+                </div>
+                <div class="edit-form-group">
+                    <label for="editMarketProjectManager">Market Project Manager:</label>
+                    <div class="employee-search-container">
+                        <input type="text" id="editMarketProjectManager" 
+                               placeholder="Search Market PM..." autocomplete="off" required>
+                        <div id="editMarketProjectManager-search-results" class="search-results-dropdown"></div>
+                    </div>
+                </div>
+                <div class="edit-form-group">
+                    <label for="editEntryType">Entry Type:</label>
+                    <select id="editEntryType" required>
+                        <option value="work">Work</option>
+                        <option value="pto">PTO</option>
+                    </select>
+                </div>
+                <div class="modal-actions">
+                    <button class="save-btn">Save Changes</button>
+                    <button class="cancel-btn">Cancel</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="../js/common.js"></script>
+    <script src="../js/assignments.js"></script>
+</body>
+</html>

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Settings</title>
+    <link rel="stylesheet" href="../css/styles.css">
+</head>
+<body>
+    <div class="settings-management">
+        <h3>Settings</h3>
+        
+        <div class="calendar-settings">
+            <h4>Calendar Display Settings</h4>
+            <div class="color-preference">
+                <label>Calendar Color Scheme:</label>
+                <select id="colorPreference" onchange="window.setColorPreference(this.value)">
+                    <option value="employee">Employee Colors</option>
+                    <option value="project">Project Colors</option>
+                </select>
+                <small>Choose whether to display assignments by employee colors or project colors. PTO entries will always use the designated PTO color.</small>
+            </div>
+            
+            <div class="block-display-preference">
+                <label>Assignment Block Display:</label>
+                <div class="setting-option">
+                    <input type="checkbox" id="continuousBlocks" onchange="window.setContinuousBlocks(this.checked)">
+                    <span>Use continuous blocks for assignments</span>
+                </div>
+                <small>When enabled, assignments spanning multiple days will show as continuous blocks with text only at the start and end. When disabled, text will appear in every block.</small>
+            </div>
+        </div>
+
+        <div class="backup-section">
+            <h4>Data Backup and Restore</h4>
+            
+            <div class="backup-controls">
+                <div class="export-section">
+                    <h5>Export Data</h5>
+                    <p>Download a backup of all your data</p>
+                    <button onclick="window.exportData()" class="export-btn">Export Data</button>
+                </div>
+
+                <div class="import-section">
+                    <h5>Import Data</h5>
+                    <p>Restore data from a backup file</p>
+                    <input type="file" id="importFile" accept=".json" style="display: none;">
+                    <button onclick="document.getElementById('importFile').click()" class="import-btn">Select Backup File</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="../js/common.js"></script>
+    <script>
+        // Setup file input handler
+        document.getElementById('importFile').addEventListener('change', function(e) {
+            if (e.target.files.length > 0) {
+                window.importData(e.target.files[0]);
+            }
+        });
+
+        // Initialize PTO color input
+        //document.getElementById('ptoColor').value = window.getPTOColor();
+
+        document.addEventListener('DOMContentLoaded', function() {
+            // Set initial color preference value
+            document.getElementById('colorPreference').value = window.getColorPreference();
+            
+            // Set initial continuous blocks preference
+            document.getElementById('continuousBlocks').checked = window.getContinuousBlocks();
+        });
+    </script>
+</body>
+</html>

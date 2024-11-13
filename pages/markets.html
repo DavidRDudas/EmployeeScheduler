@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Market Management</title>
+    <link rel="stylesheet" href="../css/styles.css">
+</head>
+<body>
+    <div class="market-management">
+        <h3>Market Management</h3>
+        <div class="add-market-form">
+            <input type="text" id="newMarketName" placeholder="Market Name">
+            <input type="text" id="newMarketRegion" placeholder="Region">
+            <button onclick="window.addMarket()">Add Market</button>
+        </div>
+        
+        <div class="market-controls">
+            <input type="text" id="searchMarketInput" placeholder="Search markets..." oninput="window.filterMarkets()">
+            <div class="sort-controls">
+                <button onclick="window.sortMarkets('name')" class="sort-btn" data-sort="name">
+                    Sort by Name
+                    <span class="sort-icon">&updownarrow;</span>
+                </button>
+                <button onclick="window.sortMarkets('region')" class="sort-btn" data-sort="region">
+                    Sort by Region
+                    <span class="sort-icon">&updownarrow;</span>
+                </button>
+            </div>
+        </div>
+
+        <div id="marketList" class="market-list"></div>
+    </div>
+
+    <!-- Add Edit Modal -->
+    <div id="editMarketModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3>Edit Market</h3>
+                <span class="close-modal">&times;</span>
+            </div>
+            <div class="modal-body">
+                <div class="edit-form-group">
+                    <label for="editMarketName">Market Name:</label>
+                    <input type="text" id="editMarketName">
+                </div>
+                <div class="edit-form-group">
+                    <label for="editMarketRegion">Region:</label>
+                    <input type="text" id="editMarketRegion">
+                </div>
+                <div class="modal-actions">
+                    <button id="saveMarketEdit" class="save-btn">Save Changes</button>
+                    <button class="cancel-btn">Cancel</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="../js/common.js"></script>
+    <script src="../js/markets.js"></script>
+</body>
+
+</html>
