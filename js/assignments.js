@@ -1,1 +1,557 @@
-const aX=m;(function(d,N){const a7=m,P=d();while(!![]){try{const o=parseInt(a7(0x214))/(-0x5*-0x2a0+0x112a+0x1e49*-0x1)+-parseInt(a7(0x26d))/(0x7*-0x1d2+0x1333+-0x673)+-parseInt(a7(0x34c))/(0x1a58+0x11fc*0x1+-0x2c51)*(parseInt(a7(0x28c))/(0x1*-0xd79+-0x2a*0x11+-0x1047*-0x1))+parseInt(a7(0x177))/(0x23fc+-0xd*-0x16b+-0x3666)*(parseInt(a7(0x409))/(-0x1d4+0xb*0xbe+-0x650))+-parseInt(a7(0x1bf))/(0x1961+0x2028+-0x3982)+parseInt(a7(0x3a4))/(0x3a*-0x8+-0xbdb+0xdb3)*(-parseInt(a7(0x36f))/(-0x1c12*-0x1+-0xe36+-0xdd3*0x1))+parseInt(a7(0x3ba))/(-0x148a+-0x11d7*0x1+0x266b)*(parseInt(a7(0x121))/(-0x378+0x64e*0x3+-0x1*0xf67));if(o===N)break;else P['push'](P['shift']());}catch(w){P['push'](P['shift']());}}}(Q,-0x23642+-0x41b65+0x969a2));function m(a,s){const n=Q();return m=function(g,x){g=g-(-0x1df6+0x109d+0xe6a);let C=n[g];return C;},m(a,s);}const C=(function(){const a8=m,N={};N[a8(0x23d)]=a8(0x322),N[a8(0x3c3)]=function(w,E){return w!==E;},N['PapBn']=a8(0x1a4),N[a8(0x1f3)]=a8(0x421),N['aaCwc']=a8(0x3cb),N[a8(0x28f)]='zicpc',N[a8(0x2b3)]=function(w,E){return w+E;},N[a8(0x114)]=a8(0x1a5),N[a8(0x157)]='gger',N['YLRNT']='stateObject',N['eFlVu']=a8(0x1c9),N[a8(0x1b2)]=function(w,E){return w===E;},N['LbubV']=a8(0x1d7),N['EdFMB']=a8(0x2b1);const P=N;let o=!![];return function(w,E){const aa=a8,B={'SUvUi':function(V,T){const a9=m;return P[a9(0x2b3)](V,T);},'qikrg':P[aa(0x114)],'IFbtm':P['UcdUR'],'XaiSW':P[aa(0x310)],'DJSiS':P['eFlVu']};if(P['jnsIO'](P[aa(0x112)],P[aa(0x1bc)]))(function(){return![];}[aa(0x21e)](B[aa(0x142)](B['qikrg'],B[aa(0x380)]))[aa(0x41b)](B[aa(0x1aa)]));else{const T=o?function(){const as=aa,U={};U['DwGKp']=P[as(0x23d)];const z=U;if(P[as(0x3c3)](P[as(0x3e3)],P[as(0x1f3)])){if(E){if(P[as(0x3c3)](P['aaCwc'],P['qhVlE'])){const A=E[as(0x41b)](w,arguments);return E=null,A;}else!E[as(0x3fe)](B['target'])&&!V[as(0x3fe)](T['target'])&&z[as(0x405)]['remove'](B[as(0x170)]);}}else U[as(0x31c)]=z[as(0x32b)];}:function(){};return o=![],T;}};}()),x=C(this,function(){const an=m,N={};N[an(0x2f7)]=an(0x3c2);const P=N;return x[an(0x34b)]()[an(0x3d4)](P[an(0x2f7)])[an(0x34b)]()[an(0x21e)](x)[an(0x3d4)](P[an(0x2f7)]);});x();const g=(function(){const ag=m,d={'bJWzK':function(P){return P();},'fCjrW':function(P,o,w,E){return P(o,w,E);},'jusBX':function(P,o){return P(o);},'ZRdua':function(P,o){return P(o);},'iGRel':function(P,o){return P+o;},'twHzG':ag(0x199),'XWNnG':ag(0x41f),'bTuFG':function(P,o){return P!==o;},'TzZbj':ag(0x3ff),'HOsho':'UsDWG','OWVnA':ag(0x3fd),'fosXA':ag(0x161)};let N=!![];return function(P,o){const aN=ag,w={'QXZZV':function(E){const ax=m;return d[ax(0x134)](E);},'QTihF':function(E,B,V,T){const aC=m;return d[aC(0x379)](E,B,V,T);},'HAAnP':function(E,B){const aQ=m;return d[aQ(0x191)](E,B);},'xpLVQ':function(E,B){const am=m;return d[am(0x2da)](E,B);},'bjpRL':function(E,B){const ad=m;return d[ad(0x238)](E,B);},'elQEW':d[aN(0x190)],'gqqpA':d['XWNnG'],'aCCXB':function(E,B){const aP=aN;return d[aP(0x2ab)](E,B);},'zzBOn':d[aN(0x2d4)],'ZjZlB':d[aN(0x19c)],'xqPjq':d[aN(0x30b)]};if(d['bTuFG'](d['fosXA'],d['fosXA']))w['QXZZV'](N);else{const B=N?function(){const aw=aN,V={'SaCRm':function(T,U){const ao=m;return w[ao(0x274)](T,U);},'TAyaU':function(T,U){return w['bjpRL'](T,U);},'yKcjY':w[aw(0x2f2)],'INFbs':w[aw(0x1d2)]};if(w['aCCXB'](w[aw(0x434)],w['zzBOn'])){const U=w['QTihF'](E,B,V,T);if(!w[aw(0x2b8)](U,U))return;}else{if(o){if(w[aw(0x40c)](w[aw(0x203)],w[aw(0x226)])){const U=o[aw(0x41b)](P,arguments);return o=null,U;}else{let A;try{A=V[aw(0x397)](w,V[aw(0x289)](V[aw(0x289)](V[aw(0x27d)],V['INFbs']),');'))();}catch(J){A=B;}return A;}}}}:function(){};return N=![],B;}};}());(function(){const aE=m,d={'VlCLb':aE(0x1c9),'VuRna':aE(0x3bf),'Zcskq':'editAssignmentModal','HxArN':'flex','GJCdY':aE(0x286),'UtCNF':aE(0x2e2),'xCore':aE(0x376),'QEpTS':'editProjectId','AvWSe':aE(0x20c),'iRXnR':'editEntryType','RPreZ':function(N,P){return N(P);},'BIvzg':function(N,P){return N(P);},'adoWG':function(N){return N();},'FMvIA':function(N,P){return N===P;},'nsZCF':'MmIHv','ieYMV':'isbVu','BqRjP':aE(0x201),'OUSne':aE(0x1b0),'YbKmK':function(N,P){return N(P);},'ascnY':aE(0x1bb),'ePZqd':function(N,P){return N+P;},'GtRCj':'chain','TwIXE':function(N,P){return N+P;},'NyOcC':aE(0x1d0),'VBWkd':function(N,P){return N===P;},'leFeu':aE(0x340),'waanr':aE(0x2de),'PdCWg':function(N,P){return N(P);},'SqmIy':function(N,P){return N!==P;},'kNVHs':aE(0x1cf),'ZfdEe':aE(0x1f1),'ifmjl':function(N){return N();},'GVEGM':function(N,P,o){return N(P,o);}};d[aE(0x234)](g,this,function(){const aB=aE,N={'Zgjvs':d[aB(0x3dc)],'OJlOr':d[aB(0x33c)],'cLumv':d[aB(0x2fb)],'qBUwC':d[aB(0x137)],'suNcM':d['UtCNF'],'npItl':d[aB(0x32e)],'NlPAs':d['QEpTS'],'UMxJO':d[aB(0x334)],'fFGEA':d['iRXnR'],'tDgDW':function(P,o){const aV=aB;return d[aV(0x3d7)](P,o);},'JhUdT':function(P,o){const aT=aB;return d[aT(0x2db)](P,o);},'bpnUy':function(P){return d['adoWG'](P);}};if(d[aB(0x278)](d['nsZCF'],d['ieYMV']))N[aB(0x2d9)][aB(0x2a6)]=N[aB(0x371)];else{const o=new RegExp(d['BqRjP']),w=new RegExp(d[aB(0x3b6)],'i'),E=d[aB(0x12d)](n,d['ascnY']);if(!o['test'](d[aB(0x3d1)](E,d[aB(0x19e)]))||!w[aB(0x328)](d[aB(0x330)](E,d[aB(0x21a)]))){if(d[aB(0x185)](d[aB(0x195)],d['waanr'])){const V=Y['scheduleData'][M];if(!V)return;const T=q[aB(0x273)](N[aB(0x3de)]);T[aB(0x2d9)][aB(0x2a6)]=N[aB(0x31a)],c[aB(0x273)](N[aB(0x420)])['value']=V[aB(0x111)],K[aB(0x273)](N[aB(0x236)])['value']=V[aB(0x33b)],i[aB(0x273)](N[aB(0x2c5)])[aB(0x3df)]=V['employee'],r[aB(0x273)](N[aB(0x12e)])['value']=v[aB(0x1bd)][V[aB(0x2a7)]]?.[aB(0x147)]||'',G['getElementById'](N['NlPAs'])['dataset']['id']=V[aB(0x2a7)],t['getElementById'](N[aB(0x245)])['value']=V[aB(0x123)],j[aB(0x273)](N[aB(0x1fd)])[aB(0x3df)]=V[aB(0x279)],T['dataset']['editIndex']=Z,N[aB(0x2cc)](S,N[aB(0x2c5)]),N[aB(0x1ea)](L,N['UMxJO']),N[aB(0x3f1)](F);}else d[aB(0x382)](E,'0');}else{if(d['SqmIy'](d[aB(0x3a6)],d[aB(0x186)]))d['ifmjl'](n);else{P[aB(0x31c)]='',o[aB(0x405)][aB(0x3e2)](d[aB(0x2e3)]);return;}}}})();}());const s=(function(){const aU=m,d={'ObHXd':function(P,o){return P===o;},'JdXbA':aU(0x1c7),'ENjgq':'Mcbra','FDnud':aU(0x387),'BsbJK':function(P,o){return P(o);},'yGyjV':'none','cfJBv':'TfArQ'};let N=!![];return function(P,o){const aA=aU,w={'IUeFJ':d['FDnud'],'RPXfB':function(E,B){const az=m;return d[az(0x28e)](E,B);},'ENJtM':d[aA(0x410)]};if(d['ObHXd'](d[aA(0x2e1)],d['cfJBv'])){const E=N?function(){const aJ=aA;if(d[aJ(0x29f)](d[aJ(0x2a9)],d['JdXbA'])){if(o){if(d[aJ(0x29f)](d[aJ(0x242)],d['ENjgq'])){const B=o[aJ(0x41b)](P,arguments);return o=null,B;}else{const T={};T[aJ(0x147)]=w[aJ(0x1c2)];const U=z[aJ(0x1bd)][A[aJ(0x2a7)]]||T;J+='-\x20'+U[aJ(0x147)]+'\x0a',y+='\x20\x20'+w[aJ(0x219)](X,Y[aJ(0x111)])+'\x20-\x20'+w[aJ(0x219)](M,q[aJ(0x33b)])+'\x0a',c+=aJ(0x23a)+K[aJ(0x279)]+'\x0a\x0a';}}}else{const U=o[aJ(0x41b)](w,arguments);return E=null,U;}}:function(){};return N=![],E;}else N['style']['display']=w[aA(0x3d5)];};}()),a=s(this,function(){const ay=m,d={'vBWYS':'active','fMyWf':function(w,E){return w>E;},'jFjSl':'<div\x20class=\x22search-result-item\x22>No\x20matching\x20projects\x20found</div>','rMFnN':function(w,E){return w(E);},'cEffh':'Please\x20fill\x20in\x20all\x20fields','kyDij':function(w,E){return w===E;},'QNvuJ':ay(0x25c),'vjBah':function(w,E){return w+E;},'pycQA':function(w,E){return w+E;},'CLziY':ay(0x199),'HUEdm':ay(0x41f),'vjWhi':function(w){return w();},'eutmj':ay(0x1ff),'RjeWw':ay(0x2d8),'OPuSr':ay(0x3c5),'PTTSX':ay(0x302),'wrhfu':ay(0x169),'aTyGl':ay(0x38b),'wQiBL':ay(0x16a),'DsdCd':ay(0x14c),'gdfNS':ay(0x187),'DncBM':function(w,E){return w<E;},'BeuRJ':function(w,E){return w===E;},'XOUQx':'BIOzs'};let N;try{if(d[ay(0x1f6)](d[ay(0x19d)],d[ay(0x19d)])){const w=d[ay(0x298)](Function,d[ay(0x216)](d['pycQA'](d[ay(0x2df)],d['HUEdm']),');'));N=d['vjWhi'](w);}else{const B=U[ay(0x3b0)][ay(0x3df)][ay(0x427)]();if(!B){c[ay(0x31c)]='',K[ay(0x405)][ay(0x3e2)](d[ay(0x372)]);return;}const V=J[ay(0x115)](y[ay(0x1bd)])[ay(0x424)](([L,F])=>F[ay(0x147)]['toLowerCase']()['includes'](B)||L[ay(0x427)]()[ay(0x1e1)](B)||F[ay(0x268)][ay(0x427)]()[ay(0x1e1)](B))[ay(0x183)](-0x5*-0x557+-0x1ec4+0x411,0x1177*-0x1+-0x484*-0x2+-0x2*-0x43a);d[ay(0x3c6)](V[ay(0x206)],0x53c+-0x1c9c+0x1760)?(i[ay(0x31c)]=V[ay(0x15b)](([L,F])=>ay(0x3e7)+L+ay(0x1e6)+F[ay(0x147)]+ay(0x2f1)+L+ay(0x22b)+F['market']+ay(0x231))[ay(0x34e)](''),r[ay(0x405)][ay(0x25e)](d[ay(0x372)])):(v['innerHTML']=d[ay(0x31b)],G[ay(0x405)][ay(0x25e)](d[ay(0x372)]));}}catch(B){if(d['kyDij'](d[ay(0x16e)],d[ay(0x291)])){d[ay(0x298)](N,d[ay(0x327)]);return;}else N=window;}const P=N['console']=N['console']||{},o=[d['OPuSr'],d[ay(0x358)],d[ay(0x166)],d['aTyGl'],d[ay(0x38a)],d[ay(0x230)],d[ay(0x2f9)]];for(let T=0x7d5+-0x112e+0x959;d['DncBM'](T,o[ay(0x206)]);T++){if(d[ay(0x34f)](d[ay(0x168)],d[ay(0x168)])){const U=s[ay(0x21e)][ay(0x354)][ay(0x21f)](s),z=o[T],A=P[z]||U;U[ay(0x339)]=s[ay(0x21f)](s),U[ay(0x34b)]=A[ay(0x34b)][ay(0x21f)](A),P[z]=U;}else{const y=o['values'](w[ay(0x317)])['find'](X=>X[ay(0x147)]===y['employee']);return y&&y[ay(0x1c9)];}}});function Q(){const sh=['__proto__','while\x20(true)\x20{}','endDate','Zcskq','NMFZF','yiDVd','yjZyz','GHkam','opMYf','YGuIC','ACiyl','Conflicts\x20found\x20for\x20','dGFUF','YEhUJ','oXZrm','parentNode','xOlti','qclVC','toString','7716IOBcpu','igYQG','join','BeuRJ','reVIr','color','BzAxd','KlrDu','prototype','OxXfs','sxZnq','DnfrG','PTTSX','sjRTX','jykRU','zGIou','IFXxS','PwoNH','MxFtY','ZxUFI','RPFnb','ZOqus','sfeYc','ADsMq','hUMIx','sort','jxTfA','MawYH','sNDbU','dohxh','jRRBM','Jkwdt','pbHso','&darr;','role','18NsNwFK','TNcQX','Zgjvs','vBWYS','qMEEz','OZRaP','ZDxVi','editEmployee','wXUWx','CqaSH','fCjrW','HwXJE','TTECT','NByLP','ejmge','WHSpa','.sort-icon','IFbtm','Byhaa','PdCWg','ZBkjJ','Dcfpb','AbMWs','FhhGB','Unknown\x20Project','gQfhE','PGwqz','wQiBL','error','hoeQS','weYlj','eeEhp','UpDGZ','RlSSW','SBrZS','iXRhl','sDkNb','DCZTC','HMwLJ','vmpLZ','SaCRm','xNdlo','tpQZr','kAmZN','lYiZE','.form-grid','aYdXn','rGhnO','mKThT','selectEmployee','GMWbI','console','paGtf','189368OIooOy','psybY','kNVHs','FbBkk','GeAaj','RUFvm','IvAEf','jbhOR','vaYQR','PsAjB','teOvq','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22search-result-item\x22\x20onclick=\x22window.selectEmployee(\x27','target','prfxm','#ffffff','kplSg','setupEmployeeSearch','aqMIA','OUSne','SFepj','DwXIV','counter','30GUVoWN','OVVdo','XhvKt','qBIlS','eEbiU','none','gwhZO','OjkJa','(((.+)+)+)+$','dYkfd','UtkGS','log','fMyWf','nhEHo','tIETB','IQjRf','hdvUi','ryODb','WpyGb','zGemC','VNDzU','lvsee','CwTZx','ePZqd','dgWJj','gsKRc','search','ENJtM','pKsxm','RPreZ','ovfUJ','editAssignment','querySelector','iguzJ','VuRna','bokSb','OJlOr','value','xFylG','hyvPB','remove','PapBn','call','oCABJ','RUtDH','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22search-result-item\x22\x20onclick=\x22window.selectProject(\x27','UqQBW','pciDt','ePjPk','XNjsW','cLkuT','MzcND','</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20style=\x22background-color:\x20','zRWdC','YITsP','bpnUy','WUzyG','BwmAL','KBXkx','HVzkT','gger','GGfBE','values','iJmWe','JdSyp','tOxjT','RPoPN','BlUin','contains','lTwNf','ofGwY','teyCy','CKQDp','AeqVN','appendChild','classList','getElementsByTagName','JpOgP','MNtkH','848952XWilOu','N/A','OMvUv','aCCXB','uJcNw','fsVTI','avZHU','yGyjV','JpHAZ','editAssignmentModal','ypbJg','ceFtM','filterAssignments','rKVCi','SiuNz','SAKoL','ZOIPg','getTime','apply','zXoFN','FZliq','Yiaqo','{}.constructor(\x22return\x20this\x22)(\x20)','qBUwC','KKGzT','ONZmx','BHFvb','filter','olXua','dvqpy','toLowerCase','QTikm','setInterval','qTovh','nBsNw','Qvplz','EWghn','ZvkNB','IjtmS','fvspG','tjmQr','PAirX','saveData','zzBOn','\x0aDo\x20you\x20want\x20to\x20continue\x20anyway?','sjbxb','startDate','LbubV','CQWAH','SHvup','entries','HumsE','fIgjb','sMqmh','hiajY','INrWt','date','NtTaL','gPdBA','GKrMY','QGEEf','iuIXh','958221bOTFNz','pcLZU','marketProjectManager','zEXzo','PoRSa','KpCrH','Nrhrp','YfpHT','sxQpM','wMoLW','AQYPy','ESPja','YbKmK','NlPAs','</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>','NmpEs','OVJwo','JYgbG','VVIFX','bJWzK','oXpIv','Ouwjh','GJCdY','klLGy','nubLy','cPAHi','mZePr','tKAmv','PfeVH','YQxjr','XifEV','UzPHo','LYnhI','SUvUi','Rjiep','HBpwL','lNHEI','tfUQz','name','find','Hicxn','jKPuU','bJdhk','table','zMgOO','fgmAf','rYQXY','action','akpYW','editEntryType','iCreB','kFqEC','XZyTd','gWVXe','UcdUR','getDate','FYNDz','cells','map','IyeDH','BBfKg','ArGpM','hRlLI',')\x22>Delete</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20','KyIOX','kuNTP','azdUM','QtAix','aIdNV','wrhfu','bGpgV','XOUQx','info','exception','VfMvv','tSHDd','GPPUE','eutmj','idIWE','DJSiS','kaJBz','Zlppq','faPYS','aFQUD','Szcbp','idAik','5dgPRBB','trim','editProjectId','LLobR','bXxAq','XZYIC','odiZY','direction','jFIdp','zaiNp','wqxDJ','WmPdT','slice','bkQHe','VBWkd','ZfdEe','trace','ozXZF','yDzoj','yIqRa','kSkix','kFpja','hzKzK','renderAssignments','vTcnc','twHzG','jusBX','function','xXAkP','EutcF','leFeu','sEThI','OWFDM','CGpya','return\x20(function()\x20','Jkfsj','-search-results','HOsho','QNvuJ','GtRCj','hoOKl','EeJyU','oVrRq','HTITf','pvSqG','iwOKu','debu','Yuabw','flex','dataset','gLwmE','XaiSW','qBdxw','OBxHW','NqTtW','DcODn','editIndex','\x5c+\x5c+\x20*(?:[a-zA-Z_$][0-9a-zA-Z_$]*)','\x27,\x20\x27','jnsIO','EADRT','ELVNK','AJuwR','PtaUl','renderCalendar','XRCVy','.save-btn','jmXWo','init','EdFMB','projects','sortAssignments','1133118euXklo','stateObject','lAzeF','IUeFJ','JGwNS','LBAIw','usYWY','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22date-range\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22date\x22\x20id=\x22startDate\x22\x20required>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span>to</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22date\x22\x20id=\x22endDate\x22\x20required>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22employee-search-container\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22text\x22\x20id=\x22employee\x22\x20placeholder=\x22Search\x20employee...\x22\x20autocomplete=\x22off\x22\x20required>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22employee-search-results\x22\x20class=\x22search-results-dropdown\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22project-search-container\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22text\x22\x20id=\x22projectId\x22\x20placeholder=\x22Search\x20project...\x22\x20autocomplete=\x22off\x22\x20required>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22project-search-results\x22\x20class=\x22search-results-dropdown\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22employee-search-container\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22text\x22\x20id=\x22marketProjectManager\x22\x20placeholder=\x22Search\x20Market\x20PM...\x22\x20autocomplete=\x22off\x22\x20required>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22marketProjectManager-search-results\x22\x20class=\x22search-results-dropdown\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<select\x20id=\x22entryType\x22\x20required>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<option\x20value=\x22work\x22>Work</option>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<option\x20value=\x22pto\x22>PTO</option>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</select>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20onclick=\x22window.addAssignment()\x22\x20class=\x22add-btn\x22>Add\x20Assignment</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20','GKRXi','yHwSO','active','End\x20date\x20cannot\x20be\x20before\x20start\x20date','Zfxtf','LkAyo','WZxGA','className','iAPva','input','qFERL','gqqpA','yoKqY','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>','KTtFR','HdLaM','zFepm','LVyTQ','Are\x20you\x20sure\x20you\x20want\x20to\x20delete\x20this\x20assignment?','ktPSp','BgZpB','pFaic','xVZCS','PBNFg','JpCDI','DOMContentLoaded','includes','muzuS','xuZnD','desc','yNSQk','\x27)\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>','Umdhz','cXfgq','dAJyN','JhUdT','MzIcL','GDEks','RJxjZ','sQLMJ','GoGxD','qjtGd','xKdIO','VWQYd','CcILM','bkOho','work','kyDij','<div\x20class=\x22search-result-item\x22>No\x20matching\x20projects\x20found</div>','QECWh','fsiOu','Sffxm','GIRwC','bCkYW','fFGEA','lPTRe','TJgrV','UlnVg','function\x20*\x5c(\x20*\x5c)','cGfQx','ZjZlB','xCnDb','GMFtQ','length','lOaxV','project','lCHBC','XDZnl','splice','editMarketProjectManager','InLOA','wFAQH','TxIFi','lkygU','uZJmZ','fHNfM','ctQKO','232090qcSMYp','oJuBw','vjBah','EHqeO','iqaOt','RPXfB','NyOcC','sDezO','ujcjF','UyNwq','constructor','bind','ufSAK','PrAnS','click','jljCi','RqemU','T12:00:00','xqPjq','VtWUK','searchAssignmentInput','akozj','ohYVs','\x20|\x20Market:\x20','kqYPz','QYfxD','jxOmr','whvhE','DsdCd','</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','OuAAs','ChQea','GVEGM','WNWdH','suNcM','LjZhg','iGRel','aGKpK','\x20\x20Type:\x20','fxaCO','esukZ','aYKMu','KWoST','psukI','yeGHH','gYdpu','ENjgq','ckyGm','FCScE','UMxJO','ksztA','WiHFE','EzRQc','Your\x20new\x20assignment:\x20','pIHMP','SutMS','dhSLR','Rwvwh','OULFl','from','project-search-results','DtyNv','kuscG','PqaZf','string','viEAX','bXJzc','JcCxe','yNbUh','Conflicts\x20with:\x0a\x0a','Gntfy','ULvtw','oCpoa','GVFPu','add','WrOEg','CYhob','hGASL','LafjW','employee','OAOUb','kACUR','push','MePfs','market','YvCay','createElement','</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22edit-btn\x22\x20onclick=\x22window.editAssignment(','yXZhX','204136Gsxxay','</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22employee-details\x22>','NYWBI','dyKSh','DCkHl','ExJwS','getElementById','xpLVQ','.cancel-btn','zohRD','eNPdw','FMvIA','entryType','rUFbt','oOxAd','EVpmq','yKcjY','eFhpi','OmxDj','xeTcY','\x20-\x20','sdehx','NcJZZ','ftfSZ','bilXp','editStartDate','rHums','QqHVn','TAyaU','AOMHt','PloxC','188TWLyLh','IHBYf','BsbJK','qhVlE','addAssignment','RjeWw','edit-project-search-results','Please\x20fill\x20in\x20all\x20fields','gEUce','Xxnbr','assignmentsList','CrqPs','rMFnN','vTRCk','QyKyo','laNIn','WeIFS','BQKEV','EbXZy','ObHXd','FnCmD','sgmdU','toISOString','vCAgq','tmZcD','sJjPI','display','projectId','ZaVnE','JdXbA','KOOTL','bTuFG','GnUZQ','div','ozFup','zVByb','ZpcHb','ZqaJJ','VbNeE','GShgt','Gjmei','GFdVb','eMevU','addEventListener','HAAnP','vDGep','WpXBu','GKxqL','prkCt','ZANta','sGkPH','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22search-result-item\x22\x20onclick=\x22window.selectEditProject(\x27','pjSAa','NeALG','KmXel','xHjul','setDate','npItl','Pbkxx',';\x22>','kTIGs','qihqa','asc','gmYUT','tDgDW','IxQym','KVTwd','DVUyT','BBgEU','uUNMk','FqXsT','TXjPF','TzZbj','uaYPe','NSBCj','UVEEH','PUaou','style','ZRdua','BIvzg','ipjVR','OnfPN','jXIHn','CLziY','WXKSg','cfJBv','editEndDate','VlCLb','qDjMZ','BOxlx','lkRtr','GHcaf','SSRHR','EmjOM','impnv',':\x0a\x0a','TojPg','QhJiP','gatjt','pfxAT','mEJmh','</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22project-details\x22>ID:\x20','elQEW','scheduleData',')\x22>Edit</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22delete-btn\x22\x20onclick=\x22window.deleteAssignment(','field','SgQsm','hXtOM','YsrPx','gdfNS','ONnKv','HxArN','&uarr;','fkPCG','tiUwF','search-results-dropdown','XFhYZ','vzgTu','warn','Jbfxs','TytaV','split','AgcCm','PSQRR','BgjkK','FEWwF','tYSGq','OWVnA','textContent','SVrIi','chain','forEach','YLRNT','GjeAE','SRUJM','sifjg','NihbR','RcCfB','kvOrg','employees','jcffL','iBXzS','cLumv','jFjSl','innerHTML','fKYBQ','gXhyy','VwZTc','bbKKG','UCxwF','&updownarrow;','jzVkj','LxnXX','XpumU','wBxlk','cEffh','test','ylFNh','WyRtt','DwGKp','jSZQb','YsDQA','xCore','UFBNG','TwIXE','<div\x20class=\x22search-result-item\x22>No\x20matching\x20employees\x20found</div>','jiElQ','Ewnsl','AvWSe','ewGKQ','kWpPJ','toLocaleDateString','xzvLf'];Q=function(){return sh;};return Q();}a(),window[aX(0x18e)]=function(){const aY=aX,N={};N[aY(0x23f)]=function(E,B){return E<=B;},N[aY(0x128)]=function(E,B){return E+B;},N[aY(0x180)]=function(E,B){return E===B;},N[aY(0x3ac)]=aY(0x233),N[aY(0x135)]='uczIi',N['JpCDI']=aY(0x1c9),N['QtAix']=function(E,B){return E===B;},N[aY(0x2c2)]=aY(0x3c0),N['odiZY']=aY(0x387),N[aY(0x284)]=aY(0x3b2),N['QmlnX']=function(E,B){return E+B;},N['QyKyo']=aY(0x225),N[aY(0x13c)]=function(E,B){return E+B;},N[aY(0x1ee)]=aY(0x40a),N[aY(0x3ae)]='assignmentsList',N['sgmdU']=function(E,B){return E!==B;},N[aY(0x21d)]='zvUjn';const P=N,o=document[aY(0x273)](P[aY(0x3ae)]);o[aY(0x31c)]='';if(!window[aY(0x2f3)]){if(P[aY(0x2a1)](P['UyNwq'],P[aY(0x21d)])){const B=[];let V=new w(E);const A=new B(V);while(P[aY(0x23f)](V,A)){B[aY(0x266)](V['toISOString']()['split']('T')[-0x2241+-0x1e*-0xf+0x207f]),V['setDate'](P[aY(0x128)](V[aY(0x158)](),0x5a7*0x1+0x7f*0x43+-0xb*0x389));}return B;}else window['scheduleData']=[];}const w=window['scheduleData'][aY(0x424)](B=>{const aM=aY;if(P[aM(0x180)](P['vaYQR'],P['oXpIv']))w[aM(0x2f3)][aM(0x20b)](E,-0x6f1*-0x1+0x2217+-0x3*0xdad),B[aM(0x433)](),V[aM(0x18e)]();else{const T=Object[aM(0x3f8)](window[aM(0x317)])['find'](U=>U[aM(0x147)]===B['employee']);return T&&T[aM(0x1c9)];}});w['forEach']((B,V)=>{const aq=aY;if(P[aq(0x164)](P[aq(0x2c2)],P['KmXel'])){const T={};T[aq(0x147)]=P[aq(0x17d)],T['color']=P[aq(0x284)];const U=window[aq(0x1bd)][B['projectId']]||T,z={};z['color']=P[aq(0x284)];const A=Object[aq(0x3f8)](window[aq(0x317)])[aq(0x148)](Y=>Y[aq(0x147)]===B[aq(0x263)])||z,J=document[aq(0x26a)]('tr'),y=new Date(P['QmlnX'](B[aq(0x111)],P['QyKyo'])),X=new Date(P[aq(0x13c)](B[aq(0x33b)],P[aq(0x29a)]));J[aq(0x31c)]=aq(0x1d4)+y[aq(0x337)]()+aq(0x281)+X[aq(0x337)]()+aq(0x3ee)+A[aq(0x351)]+aq(0x2c7)+B[aq(0x263)]+aq(0x3ee)+U['color']+aq(0x2c7)+U[aq(0x147)]+aq(0x12f)+(U[aq(0x268)]||P[aq(0x1ee)])+'</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>'+(B[aq(0x123)]||P[aq(0x1ee)])+aq(0x12f)+B[aq(0x279)]+'</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22edit-btn\x22\x20onclick=\x22window.editAssignment('+V+aq(0x2f4)+V+aq(0x160),o[aq(0x404)](J);}else E[aq(0x273)](B)['value']=V,T[aq(0x273)](U+'-search-results')[aq(0x405)][aq(0x3e2)](P[aq(0x1df)]);});},window[aX(0x290)]=function(){const ac=aX,d={'ylFNh':ac(0x1c9),'ZxUFI':function(A,J){return A+J;},'OVJwo':ac(0x1a5),'jRRBM':ac(0x3f6),'ADsMq':ac(0x150),'WmPdT':function(A,J){return A===J;},'GeeTx':'rGfls','Zlppq':ac(0x19f),'gWVXe':'T12:00:00','rzjKd':function(A,J){return A+J;},'lCHBC':function(A,J){return A===J;},'ctQKO':function(A,J){return A>=J;},'CqaSH':function(A,J){return A<=J;},'JyIyz':function(A,J){return A<=J;},'WrOEg':ac(0x387),'OBxHW':'#ffffff','XDZnl':function(A,J){return A+J;},'NqTtW':ac(0x40a),'WpyGb':ac(0x296),'UtxVL':ac(0x3bf),'tDDkm':ac(0x228),'zohRD':ac(0x111),'idIWE':'endDate','RJxjZ':ac(0x263),'DcODn':ac(0x2a7),'EVpmq':ac(0x123),'InLOA':ac(0x279),'rGhnO':function(A,J){return A||J;},'TNcQX':function(A,J){return A===J;},'GGfBE':ac(0x12b),'tSHDd':function(A,J){return A(J);},'WNWdH':'Please\x20fill\x20in\x20all\x20fields','hSoPO':function(A,J){return A+J;},'ACiyl':function(A,J){return A<J;},'ohYVs':function(A,J){return A!==J;},'CrqPs':ac(0x2c6),'FxmwY':ac(0x3a8),'sGkPH':ac(0x1ca),'NPLQR':function(A,J){return A>J;},'reVIr':ac(0x22e),'xNdlo':function(A,J,y,X){return A(J,y,X);},'SutMS':function(A,J){return A(J);},'ipjVR':function(A,J){return A!==J;},'FhhGB':ac(0x39b),'kACUR':ac(0x1f5)},N=document[ac(0x273)](d['zohRD'])[ac(0x3df)],P=document[ac(0x273)](d[ac(0x16f)])['value'],o=document['getElementById'](d[ac(0x1ed)])['value'],w=document[ac(0x273)](d[ac(0x1ae)]),E=w[ac(0x1a8)]['id'],B=document[ac(0x273)](d['EVpmq'])[ac(0x3df)],V=document[ac(0x273)](d[ac(0x20d)])[ac(0x3df)];if(d[ac(0x39e)](!N,!P)||!o||!E||!B){if(d[ac(0x370)](d['GGfBE'],d[ac(0x3f7)])){d[ac(0x16c)](alert,d[ac(0x235)]);return;}else w['innerHTML']=E[ac(0x15b)](([J,y])=>ac(0x3af)+y[ac(0x147)]+'\x27,\x20\x27'+T+ac(0x1e6)+y['name']+ac(0x26e)+y[ac(0x36e)]+'\x20-\x20'+y[ac(0x268)]+ac(0x231))[ac(0x34e)](''),V[ac(0x405)][ac(0x25e)](d[ac(0x329)]);}const T=new Date(d['hSoPO'](N,d[ac(0x156)])),U=new Date(d['rzjKd'](P,d[ac(0x156)]));if(d[ac(0x343)](U,T)){if(d[ac(0x22a)](d[ac(0x297)],d['FxmwY'])){d['tSHDd'](alert,d[ac(0x2be)]);return;}else N[ac(0x2f3)]=[];}const z=window['scheduleData']['filter'](y=>{const aK=ac;if(d[aK(0x182)](d['GeeTx'],d[aK(0x172)]))(function(){return!![];}[aK(0x21e)](aIerhk['ZxUFI'](aIerhk[aK(0x131)],aIerhk[aK(0x36a)]))[aK(0x3e4)](aIerhk[aK(0x363)]));else{const Y=new Date(d[aK(0x35f)](y['startDate'],d[aK(0x156)])),M=new Date(d['rzjKd'](y[aK(0x33b)],d[aK(0x156)]));return d[aK(0x209)](y[aK(0x263)],o)&&(d[aK(0x213)](T,Y)&&d[aK(0x378)](T,M)||d['ctQKO'](U,Y)&&d['JyIyz'](U,M)||d[aK(0x378)](T,Y)&&d[aK(0x213)](U,M));}});if(d['NPLQR'](z[ac(0x206)],-0x10b1+0xf5*0xa+0x71f)){if(d['ohYVs'](d[ac(0x350)],d['reVIr'])){const X={'IvAEf':d[ac(0x25f)],'HVzkT':d[ac(0x1ac)],'GMFtQ':function(q,c){const ai=ac;return d[ai(0x20a)](q,c);},'ONZmx':d[ac(0x156)],'mEJmh':d[ac(0x1ad)]},Y=J[ac(0x273)](d[ac(0x3cc)]);Y['innerHTML']='';!y[ac(0x2f3)]&&(t['scheduleData']=[]);const M=Y[ac(0x2f3)][ac(0x424)](F=>{const ar=ac,k=Y[ar(0x3f8)](M[ar(0x317)])[ar(0x148)](O=>O['name']===F[ar(0x263)]);return k&&k['active'];});M[ac(0x30f)]((I,p)=>{const av=ac,l={};l[av(0x147)]=X[av(0x3aa)],l[av(0x351)]=X[av(0x3f5)];const a0=Y['projects'][I[av(0x2a7)]]||l,a1={};a1[av(0x351)]=X[av(0x3f5)];const a2=M['values'](S[av(0x317)])[av(0x148)](a6=>a6[av(0x147)]===I[av(0x263)])||a1,a3=L[av(0x26a)]('tr'),a4=new F(X[av(0x205)](I[av(0x111)],X[av(0x422)])),a5=new k(X[av(0x205)](I[av(0x33b)],X[av(0x422)]));a3[av(0x31c)]=av(0x1d4)+a4[av(0x337)]()+'\x20-\x20'+a5[av(0x337)]()+av(0x3ee)+a2['color']+av(0x2c7)+I['employee']+av(0x3ee)+a0[av(0x351)]+av(0x2c7)+a0[av(0x147)]+av(0x12f)+(a0[av(0x268)]||X['mEJmh'])+'</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>'+(I['marketProjectManager']||X[av(0x2f0)])+av(0x12f)+I[av(0x279)]+av(0x26b)+p+av(0x2f4)+p+av(0x160),Y[av(0x404)](a3);});}else{const X=d[ac(0x398)](createConflictMessage,z,T,U);if(!d[ac(0x24b)](confirm,X)){if(d[ac(0x2dc)](d[ac(0x386)],d[ac(0x386)])){const M={};M['knHUn']=d['UtxVL'];const q=M,c=o[ac(0x273)](d['tDDkm'])[ac(0x3df)][ac(0x427)](),K=w[ac(0x273)](d[ac(0x3cc)])['getElementsByTagName']('tr');E[ac(0x24f)](K)[ac(0x30f)](i=>{const aG=ac,r=i[aG(0x30c)][aG(0x427)]();i[aG(0x2d9)][aG(0x2a6)]=r[aG(0x1e1)](c)?'':q['knHUn'];});}else return;}}}window[ac(0x2f3)][ac(0x266)]({'startDate':T[ac(0x2a2)]()[ac(0x305)]('T')[-0x1804+-0x946+-0x2*-0x10a5],'endDate':U[ac(0x2a2)]()[ac(0x305)]('T')[0xb41+0x257e*0x1+-0x30bf],'employee':o,'projectId':E,'projectName':window[ac(0x1bd)][E]?.[ac(0x147)]||d[ac(0x25f)],'marketProjectManager':B,'entryType':V}),window[ac(0x433)](),window[ac(0x18e)](),window[ac(0x1b7)](),document[ac(0x273)](d[ac(0x276)])['value']='',document['getElementById'](d['idIWE'])['value']='',document['getElementById'](d[ac(0x1ed)])[ac(0x3df)]='',document[ac(0x273)](d['DcODn'])[ac(0x3df)]='',document['getElementById'](d[ac(0x27c)])['value']='',document[ac(0x273)](d[ac(0x20d)])[ac(0x3df)]=d[ac(0x265)];};function createConflictMessage(d,N,P){const at=aX,o={'WpXBu':function(B,V){return B!==V;},'MzcND':at(0x3ce),'fcOWi':'nfGmt','qclVC':at(0x387),'XFhYZ':function(B,V){return B(V);},'INrWt':function(B,V){return B(V);},'JDVkL':at(0x259),'PeCCC':at(0x435)},w=B=>new Date(B+at(0x225))[at(0x337)]();let E=at(0x344)+d[0x1*0x69+-0xd03+0x64d*0x2][at(0x263)]+at(0x2eb);return E+=at(0x249)+o['XFhYZ'](w,N[at(0x2a2)]()[at(0x305)]('T')[0x2*-0x129e+0x324+0x886*0x4])+at(0x281)+o[at(0x11a)](w,P[at(0x2a2)]()[at(0x305)]('T')[-0x307+0x3*0xb4+0xeb*0x1])+'\x0a\x0a',E+=o['JDVkL'],d[at(0x30f)](B=>{const aj=at;if(o[aj(0x2ba)](o[aj(0x3ed)],o['fcOWi'])){const V={};V[aj(0x147)]=o[aj(0x34a)];const T=window['projects'][B['projectId']]||V;E+='-\x20'+T['name']+'\x0a',E+='\x20\x20'+o[aj(0x300)](w,B[aj(0x111)])+'\x20-\x20'+o[aj(0x300)](w,B[aj(0x33b)])+'\x0a',E+=aj(0x23a)+B[aj(0x279)]+'\x0a\x0a';}else return!![];}),E+=o['PeCCC'],E;}window['deleteAssignment']=function(d){const aZ=aX,N={'xHjul':function(P,o,w,E){return P(o,w,E);},'Ewnsl':function(P,o){return P(o);},'ZKHUs':function(P,o){return P(o);},'yiDVd':aZ(0x1d9),'sjRTX':function(P,o){return P===o;},'OuAAs':'QWqsr','XZyTd':aZ(0x3e0)};if(N['ZKHUs'](confirm,N[aZ(0x33e)])){if(N[aZ(0x359)](N[aZ(0x232)],N[aZ(0x155)])){const o=N[aZ(0x2c3)](E,B,V,T);if(!N[aZ(0x333)](U,o))return;}else window[aZ(0x2f3)]['splice'](d,-0x21b9+-0x11ad+0x3367),window[aZ(0x433)](),window['renderAssignments']();}},window[aX(0x415)]=function(){const aS=aX,N={};N[aS(0x352)]=function(E,B){return E===B;},N[aS(0x29c)]=aS(0x2ca),N[aS(0x241)]=function(E,B){return E<B;},N[aS(0x3dd)]=function(E,B){return E>B;},N[aS(0x3d6)]=function(E,B){return E>B;},N[aS(0x2c0)]=function(E,B){return E!==B;},N[aS(0x416)]=aS(0x2d2),N['jzVkj']=aS(0x3bf),N['oCABJ']=aS(0x228),N[aS(0x15e)]=aS(0x296);const P=N,o=document[aS(0x273)](P[aS(0x3e5)])[aS(0x3df)]['toLowerCase'](),w=document[aS(0x273)](P['ArGpM'])[aS(0x406)]('tr');Array[aS(0x24f)](w)[aS(0x30f)](E=>{const aF=aS,B={'UFBNG':function(V,T){const aL=m;return P[aL(0x352)](V,T);},'QqHVn':P[aF(0x29c)],'uaYPe':function(V,T){const ak=aF;return P[ak(0x241)](V,T);},'nhEHo':function(V,T){const aO=aF;return P[aO(0x3dd)](V,T);},'eeEhp':function(V,T){const ae=aF;return P[ae(0x3d6)](V,T);}};if(P[aF(0x2c0)](P[aF(0x416)],P[aF(0x416)]))return B[aF(0x32f)](U[aF(0x17e)],B[aF(0x288)])?B[aF(0x2d5)](c,K)?-(0x1e59+-0xbd*0x21+0x5fb*-0x1):B[aF(0x3c7)](i,r)?0x17*0x16f+0xaaf+0x5*-0x8bb:0x58*-0x5e+0x13ff+0xc51:B[aF(0x38e)](v,G)?-(-0x14ec+0x168+-0x1385*-0x1):B['uaYPe'](t,j)?-0xe65*-0x1+-0x6cd*0x5+-0x139d*-0x1:-0x1832+0xa94+0xd9e;else{const T=E[aF(0x30c)]['toLowerCase']();E[aF(0x2d9)][aF(0x2a6)]=T['includes'](o)?'':P[aF(0x323)];}});};const u={};u[aX(0x2f5)]=null,u[aX(0x17e)]=aX(0x2ca);let currentSort=u;window[aX(0x1be)]=function(d){const aR=aX,N={'xbdta':function(w,E){return w(E);},'tmZcD':'active','HezrY':'Unknown\x20Project','HwgQt':aR(0x3b2),'RcCfB':function(w,E){return w+E;},'SgQsm':aR(0x225),'bGpgV':'N/A','YsDQA':aR(0x222),'PqaZf':function(w,E){return w===E;},'sfeYc':function(w,E){return w+E;},'CGpya':function(w,E){return w>=E;},'Byhaa':function(w,E){return w<=E;},'wsOgp':function(w,E){return w<=E;},'ZANta':function(w,E){return w>=E;},'qBdxw':aR(0x3bf),'akpYW':function(w,E){return w!==E;},'pbHso':'pZdym','LafjW':'.sort-icon','uUJGb':function(w,E){return w===E;},'ESPja':function(w,E){return w===E;},'lPTRe':'lUPhe','LLobR':function(w,E){return w===E;},'ZBkjJ':aR(0x2ca),'snCCN':aR(0x2fc),'XUEhy':aR(0x36d),'PGwqz':function(w,E){return w!==E;},'KpCrH':aR(0x346),'iuIXh':aR(0x322),'oJuBw':function(w,E){return w(E);},'wOMMk':aR(0x1d9),'PSQRR':aR(0x33a),'gsKRc':aR(0x3b9),'Gjmei':function(w,E){return w!==E;},'PoRSa':aR(0x431),'Yiaqo':aR(0x11b),'lAade':aR(0x263),'kplSg':aR(0x208),'OVVdo':function(w,E){return w===E;},'dcvAR':function(w,E){return w===E;},'gatjt':'eFvkI','RUtDH':'oBGPE','JpHAZ':function(w,E){return w===E;},'RUFvm':function(w,E){return w-E;},'qihqa':function(w,E){return w-E;},'WyRtt':aR(0x21b),'VVIFX':aR(0x430),'SFepj':function(w,E){return w===E;},'ONnKv':aR(0x3e9),'squfg':function(w,E){return w<E;},'HTITf':function(w,E){return w>E;},'PsAjB':function(w,E){return w===E;},'NcfWM':aR(0x2c1),'lkygU':'aHNGU','BQKEV':function(w,E){return w<E;},'skjHE':aR(0x296),'PBNFg':function(w,E){return w===E;},'yXZhX':function(w,E){return w!==E;},'BOxlx':aR(0x1b4),'Jkwdt':'desc','iJmWe':aR(0x42f),'mNcLH':'.sort-btn'},P=document['getElementById'](N['skjHE']),o=Array[aR(0x24f)](P[aR(0x406)]('tr'));if(N[aR(0x1de)](currentSort['field'],d)){if(N[aR(0x26c)](N[aR(0x2e5)],N[aR(0x2e5)])){if(o)return B;else VXKdfR['xbdta'](V,0xf02+-0x2294*-0x1+-0xb*0x482);}else currentSort['direction']=N[aR(0x3bb)](currentSort[aR(0x17e)],N[aR(0x383)])?N[aR(0x36b)]:N['ZBkjJ'];}else N[aR(0x151)](N[aR(0x3f9)],N[aR(0x3f9)])?N[aR(0x405)]['remove'](N[aR(0x2a4)]):(currentSort[aR(0x2f5)]=d,currentSort[aR(0x17e)]=N[aR(0x383)]);document['querySelectorAll'](N['mNcLH'])[aR(0x30f)](B=>{const ah=aR,V={'hdvUi':function(T,U){return N['PqaZf'](T,U);},'AGkyA':function(T,U){const aH=m;return N[aH(0x362)](T,U);},'ovfUJ':N[ah(0x2f6)],'RPoPN':function(T,U){const ab=ah;return N[ab(0x253)](T,U);},'sDkNb':function(T,U){const af=ah;return N[af(0x198)](T,U);},'rUFbt':function(T,U){const aD=ah;return N[aD(0x381)](T,U);},'hKgth':function(T,U){const aW=ah;return N[aW(0x381)](T,U);},'lAzeF':function(T,U){return N['wsOgp'](T,U);},'SSRHR':function(T,U){const au=ah;return N[au(0x2bd)](T,U);},'BgjkK':N[ah(0x1ab)]};if(N[ah(0x151)](N['pbHso'],N[ah(0x36c)])){const U={};U[ah(0x147)]=N['HezrY'],U[ah(0x351)]=N['HwgQt'];const z=M[ah(0x1bd)][q['projectId']]||U,A={};A[ah(0x351)]=N['HwgQt'];const J=c[ah(0x3f8)](K[ah(0x317)])['find'](D=>D[ah(0x147)]===z[ah(0x263)])||A,y=r[ah(0x26a)]('tr'),X=new v(N[ah(0x315)](G[ah(0x111)],N[ah(0x2f6)])),Y=new t(N[ah(0x315)](j[ah(0x33b)],N[ah(0x2f6)]));y[ah(0x31c)]='\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>'+X[ah(0x337)]()+'\x20-\x20'+Y[ah(0x337)]()+ah(0x3ee)+J[ah(0x351)]+ah(0x2c7)+Z[ah(0x263)]+ah(0x3ee)+z[ah(0x351)]+ah(0x2c7)+z['name']+ah(0x12f)+(z[ah(0x268)]||N[ah(0x167)])+ah(0x12f)+(S[ah(0x123)]||N[ah(0x167)])+ah(0x12f)+L[ah(0x279)]+ah(0x26b)+F+ah(0x2f4)+k+ah(0x160),O[ah(0x404)](y);}else{const U=B[ah(0x3da)](N[ah(0x262)]);if(N['uUJGb'](B[ah(0x1a8)][ah(0x365)],d)){if(N[ah(0x12c)](N[ah(0x1fe)],N[ah(0x1fe)]))U[ah(0x31c)]=N[ah(0x17a)](currentSort[ah(0x17e)],N[ah(0x383)])?N['snCCN']:N['XUEhy'];else{if(V[ah(0x3ca)](X,Y))return![];const A=new M(V['AGkyA'](q[ah(0x111)],V[ah(0x3d8)])),J=new c(V['AGkyA'](K['endDate'],V['ovfUJ']));return V[ah(0x3fc)](i[ah(0x263)],r)&&(V[ah(0x393)](v,A)&&V[ah(0x27a)](G,J)||V[ah(0x393)](t,A)&&V['hKgth'](j,J)||V[ah(0x1c1)](Z,A)&&V[ah(0x2e8)](S,J));}}else N['PGwqz'](N[ah(0x126)],N['KpCrH'])?P[ah(0x2b7)](N[ah(0x32d)],function(){const aI=ah;w[aI(0x2d9)][aI(0x2a6)]=V[aI(0x308)];}):U[ah(0x31c)]=N[ah(0x120)];}}),o['sort']((B,V)=>{const al=aR,T={'kZnEe':function(U,z){const ap=m;return N[ap(0x215)](U,z);},'yNSQk':N['wOMMk'],'NByLP':N[al(0x307)],'ropxv':N[al(0x3d3)]};if(N[al(0x2b4)](N[al(0x125)],N[al(0x125)]))T['kZnEe'](E,T[al(0x1e5)])&&(z['scheduleData'][al(0x20b)](A,-0x2508+-0x377*-0x2+0x1e1b),J[al(0x433)](),y[al(0x18e)]());else{let z,A;switch(d){case N[al(0x41e)]:z=new Date(B['cells'][0x1eed+0x262d+-0x451a][al(0x30c)]['split']('-')[-0x19aa+-0x17*-0x98+0xc02]['trim']()),A=new Date(V['cells'][0x1*0x1d74+0x21fe+0x3*-0x1526]['textContent']['split']('-')[0x79*0x19+0x1*0xa7+0x1c*-0x72][al(0x178)]());break;case N['lAade']:z=B['cells'][0x1eeb*-0x1+-0x520+0x903*0x4][al(0x30c)],A=V['cells'][-0x41*0x3c+0x715*0x1+0xae*0xc][al(0x30c)];break;case N[al(0x3b3)]:z=B[al(0x15a)][0x1541*0x1+-0x12b8+-0x287][al(0x30c)],A=V[al(0x15a)][-0x22f0+-0x1f2c+0x421e*0x1][al(0x30c)];break;}if(N[al(0x3bb)](d,N['Yiaqo'])){if(N['dcvAR'](N[al(0x2ee)],N[al(0x3e6)]))return;else return N[al(0x411)](currentSort[al(0x17e)],N[al(0x383)])?N[al(0x3a9)](z[al(0x41a)](),A[al(0x41a)]()):N[al(0x2c9)](A[al(0x41a)](),z['getTime']());}else{if(N[al(0x389)](N[al(0x32a)],N[al(0x133)])){if(N['OVVdo'](currentSort[al(0x17e)],N[al(0x383)]))return N[al(0x3b7)](N[al(0x2fa)],N[al(0x2fa)])?N['squfg'](z,A)?-(0x1*0x1621+0x125*-0x1+-0x14fb):N[al(0x1a2)](z,A)?-0x3*0x363+0x1236+-0x80c*0x1:0x15ac+0x1e01+-0x33ad:function(X){}[al(0x21e)](crELEq[al(0x37c)])[al(0x41b)](crELEq['ropxv']);else{if(N[al(0x3ad)](N['NcfWM'],N[al(0x210)])){if(w){const Y=T[al(0x41b)](U,arguments);return z=null,Y;}}else return N[al(0x1a2)](z,A)?-(-0x1*0x9fd+0xc2d+0x1*-0x22f):N[al(0x29d)](z,A)?-0x231f+-0x54e+-0x1437*-0x2:-0xe57*0x2+-0x1877*-0x1+0x437;}}else N[al(0x405)][al(0x3e2)](N[al(0x2a4)]);}}}),P[aR(0x31c)]='',o[aR(0x30f)](B=>P[aR(0x404)](B));},window[aX(0x3b4)]=function(){const s0=aX,d={'SRUJM':function(N,P){return N(P);},'KTtFR':s0(0x263),'CAKnM':function(N,P){return N(P);},'aFQUD':s0(0x123)};d[s0(0x312)](setupEmployeeField,d[s0(0x1d5)]),d['CAKnM'](setupEmployeeField,d[s0(0x174)]);},(function(){const s1=aX,d={'gQfhE':function(o,w){return o===w;},'YQxjr':'asc','olXua':function(o,w){return o-w;},'DnfrG':function(o,w){return o-w;},'UHQpj':function(o,w){return o===w;},'zXoFN':s1(0x3bf),'qDjMZ':function(o,w){return o(w);},'FtMkS':s1(0x263),'yoKqY':s1(0x123),'OMvUv':function(o,w){return o!==w;},'mZePr':s1(0x35c),'BjvQK':s1(0x39a),'BHFvb':s1(0x2ed),'yjZyz':function(o,w){return o(w);},'kaJBz':function(o,w){return o+w;},'fHNfM':s1(0x199),'dvqpy':s1(0x41f),'XZYIC':function(o,w){return o===w;},'vTRCk':s1(0x14b),'GRcmw':function(o){return o();}},N=function(){const s2=s1;if(d[s2(0x40b)](d[s2(0x13b)],d['BjvQK'])){let o;try{if(d[s2(0x40b)](d['BHFvb'],d[s2(0x423)]))return d[s2(0x388)](E[s2(0x17e)],d[s2(0x13e)])?d[s2(0x425)](B['getTime'](),V[s2(0x41a)]()):d[s2(0x357)](T['getTime'](),U[s2(0x41a)]());else o=d[s2(0x33f)](Function,d[s2(0x171)](d[s2(0x171)](d[s2(0x212)],d[s2(0x426)]),');'))();}catch(E){d[s2(0x17c)](d[s2(0x299)],d[s2(0x299)])?o=window:d['UHQpj'](o['target'],w)&&(B[s2(0x2d9)]['display']=d[s2(0x41c)]);}return o;}else d[s2(0x2e4)](P,d['FtMkS']),d[s2(0x2e4)](o,d[s2(0x1d3)]);},P=d['GRcmw'](N);P[s1(0x429)](n,0x114*-0x19+0x2*-0xe6b+0x9*0x6a2);}());function setupEmployeeField(d){const s3=aX,N={'sdehx':function(w,E){return w(E);},'XNjsW':s3(0x293),'jmXWo':s3(0x201),'KWoST':'\x5c+\x5c+\x20*(?:[a-zA-Z_$][0-9a-zA-Z_$]*)','yNbUh':function(w,E){return w(E);},'Bdtfd':s3(0x1bb),'kvOrg':function(w,E){return w+E;},'dGFUF':s3(0x30e),'cGfQx':s3(0x1d0),'JdSyp':function(w,E){return w(E);},'UVEEH':function(w){return w();},'DCZTC':s3(0x1c9),'klLGy':function(w,E){return w!==E;},'WZxGA':s3(0x2ea),'qMEEz':function(w,E){return w!==E;},'qjtGd':s3(0x175),'ejmge':function(w,E){return w!==E;},'ApfpH':'pPYij','aHJki':'EgENL','xuZnD':function(w,E){return w>E;},'esukZ':function(w,E){return w!==E;},'XpumU':s3(0x2a3),'sEThI':s3(0x1ef),'tOxjT':s3(0x143),'Rwvwh':s3(0x331),'hGASL':function(w,E){return w===E;},'EzRQc':'asc','JpOgP':s3(0x1e4),'paGtf':s3(0x3bf),'GVFPu':'OggVN','AbMWs':'jVzuo','yeGHH':function(w,E){return w===E;},'tHBwR':'KafhJ','sxQpM':s3(0x255),'VXEvc':s3(0x2ad),'weYlj':s3(0x2ff),'azdUM':'click'},P=document[s3(0x273)](d),o=document[s3(0x26a)](N['VXEvc']);o['id']=d+s3(0x19b),o['className']=N[s3(0x38d)],P[s3(0x348)][s3(0x404)](o),P['addEventListener'](N[s3(0x202)],function(w){const s4=s3,E={'aqMIA':N[s4(0x1ba)],'AOMHt':N[s4(0x23e)],'NYWBI':function(B,V){const s5=s4;return N[s5(0x258)](B,V);},'bCkYW':N['Bdtfd'],'HdLaM':function(B,V){const s6=s4;return N[s6(0x316)](B,V);},'ZvkNB':N[s4(0x345)],'UPmCM':N[s4(0x202)],'HwXJE':function(B,V){const s7=s4;return N[s7(0x3fa)](B,V);},'muzuS':function(B){const s8=s4;return N[s8(0x2d7)](B);},'qTovh':N[s4(0x394)],'fZjvn':function(B,V){const s9=s4;return N[s9(0x138)](B,V);},'dgWJj':N[s4(0x1cd)]};if(N[s4(0x373)](N['qjtGd'],N[s4(0x1f0)])){const V=new w(dSnJpP[s4(0x3b5)]),T=new E(dSnJpP[s4(0x28a)],'i'),J=dSnJpP[s4(0x26f)](B,dSnJpP[s4(0x1fc)]);!V[s4(0x328)](dSnJpP['HdLaM'](J,dSnJpP[s4(0x42e)]))||!T[s4(0x328)](dSnJpP[s4(0x1d6)](J,dSnJpP['UPmCM']))?dSnJpP[s4(0x37a)](J,'0'):dSnJpP[s4(0x1e2)](T);}else{const V=w['target'][s4(0x3df)][s4(0x427)]();if(!V){if(N[s4(0x37d)](N['ApfpH'],N['aHJki'])){o[s4(0x31c)]='',o['classList'][s4(0x3e2)](N['DCZTC']);return;}else{if(w){const z=T['apply'](U,arguments);return z=null,z;}}}const T=Object[s4(0x115)](window[s4(0x317)])['filter'](([z,A])=>{const sa=s4,J={};J[sa(0x31d)]=E[sa(0x42a)];const y=J;if(E['fZjvn'](E[sa(0x3d2)],E['dgWJj']))!E[sa(0x3fe)](B[sa(0x3b0)])&&!V[sa(0x3fe)](T['target'])&&z[sa(0x405)][sa(0x3e2)](y['fKYBQ']);else return A[sa(0x1c9)]&&(A[sa(0x147)][sa(0x427)]()[sa(0x1e1)](V)||A[sa(0x36e)][sa(0x427)]()[sa(0x1e1)](V)||A[sa(0x268)][sa(0x427)]()['includes'](V));})['slice'](-0x1*0x2aa+-0x1f31+0x21db,-0xe95*0x2+-0x2*-0x5d9+0x117d);if(N[s4(0x1e3)](T[s4(0x206)],0x21d9+0x5*0x2f3+-0x3098)){if(N[s4(0x23c)](N[s4(0x325)],N[s4(0x196)]))o[s4(0x31c)]=T[s4(0x15b)](([z,A])=>s4(0x3af)+A[s4(0x147)]+s4(0x1b1)+d+s4(0x1e6)+A['name']+s4(0x26e)+A['role']+s4(0x281)+A['market']+s4(0x231))['join'](''),o['classList'][s4(0x25e)](N[s4(0x394)]);else{N[s4(0x282)](N,N[s4(0x3eb)]);return;}}else N[s4(0x37d)](N['tOxjT'],N[s4(0x3fb)])?P=o:(o[s4(0x31c)]=N[s4(0x24d)],o[s4(0x405)][s4(0x25e)](N[s4(0x394)]));}}),document[s3(0x2b7)](N[s3(0x163)],function(w){const sn=s3,E={'arZkj':function(B,V){const ss=m;return N[ss(0x261)](B,V);},'fkPCG':N[sn(0x248)],'wUTIC':N[sn(0x407)],'lcVoQ':N[sn(0x3a3)]};if(N[sn(0x261)](N[sn(0x25d)],N[sn(0x385)]))P[sn(0x17e)]=E['arZkj'](o['direction'],E[sn(0x2fd)])?E['wUTIC']:E[sn(0x2fd)];else{if(!P[sn(0x3fe)](w[sn(0x3b0)])&&!o[sn(0x3fe)](w[sn(0x3b0)])){if(N[sn(0x240)](N['tHBwR'],N[sn(0x129)])){const T=o[sn(0x30c)][sn(0x427)]();w[sn(0x2d9)][sn(0x2a6)]=T[sn(0x1e1)](E)?'':E['lcVoQ'];}else o[sn(0x405)][sn(0x3e2)](N['DCZTC']);}}});}window[aX(0x3a0)]=function(N,P){const sg=aX,o={};o[sg(0x311)]=sg(0x1c9);const w=o;document[sg(0x273)](P)['value']=N,document[sg(0x273)](P+sg(0x19b))[sg(0x405)][sg(0x3e2)](w[sg(0x311)]);},window['setupProjectSearch']=function(){const sx=aX,d={'zVByb':function(o,w){return o(w);},'iBXzS':sx(0x1ca),'xzvLf':sx(0x387),'GKxqL':function(o,w){return o(w);},'AJuwR':function(o,w){return o(w);},'uhxHn':sx(0x259),'aIdNV':sx(0x435),'YITsP':sx(0x1c9),'tYSGq':function(o,w){return o!==w;},'bkOho':sx(0x318),'Ouwjh':function(o,w){return o===w;},'IxQym':sx(0x2cf),'vDGep':function(o,w){return o>w;},'wFAQH':function(o,w){return o!==w;},'UCxwF':sx(0x271),'uZJmZ':sx(0x356),'ksztA':sx(0x140),'PwoNH':sx(0x1f7),'cPAHi':function(o,w,E){return o(w,E);},'TTECT':function(o,w){return o(w);},'GnUZQ':sx(0x201),'RpYVu':sx(0x1b0),'JGwNS':'init','hzKzK':function(o,w){return o+w;},'dAJyN':'chain','hAwTL':function(o,w){return o+w;},'Xxnbr':sx(0x1d0),'WiHFE':function(o){return o();},'ReeEQ':function(o,w){return o===w;},'ofGwY':'ANFFp','HumsE':function(o,w){return o!==w;},'fgmAf':sx(0x244),'hoeQS':sx(0x16d),'ePjPk':sx(0x2a7),'SAKoL':sx(0x2ad),'kFpja':sx(0x250),'xVZCS':sx(0x2ff),'yYFIE':sx(0x222)},N=document[sx(0x273)](d[sx(0x3ea)]),P=document[sx(0x26a)](d[sx(0x418)]);P['id']=d[sx(0x18c)],P[sx(0x1ce)]=d[sx(0x1dd)],N['parentNode']['appendChild'](P),N[sx(0x2b7)](d[sx(0x295)],function(o){const sC=sx,w={};w[sC(0x367)]=d['YITsP'];const E=w;if(d['tYSGq'](d['bkOho'],d[sC(0x1f4)])){d[sC(0x2af)](N,d[sC(0x319)]);return;}else{const V=o[sC(0x3b0)][sC(0x3df)][sC(0x427)]();if(!V){if(d[sC(0x136)](d[sC(0x2cd)],d[sC(0x2cd)])){P['innerHTML']='',P[sC(0x405)]['remove'](d['YITsP']);return;}else{const z=B?function(){const sQ=sC;if(z){const i=M[sQ(0x41b)](q,arguments);return c=null,i;}}:function(){};return A=![],z;}}const T=Object[sC(0x115)](window['projects'])[sC(0x424)](([z,A])=>A[sC(0x147)]['toLowerCase']()[sC(0x1e1)](V)||z[sC(0x427)]()['includes'](V)||A[sC(0x268)][sC(0x427)]()[sC(0x1e1)](V))['slice'](-0x178a*-0x1+0x95d+-0x20e7*0x1,0x1c53+-0x7*-0x1de+-0x2960);if(d[sC(0x2b9)](T[sC(0x206)],0x234d*-0x1+-0x17e*0x8+0x2f3d*0x1)){if(d[sC(0x20e)](d['UCxwF'],d[sC(0x321)])){const A={'IQjRf':d[sC(0x338)],'XhvKt':function(M,q){const sm=sC;return d[sm(0x2af)](M,q);},'Zfxtf':function(M,q){const sd=sC;return d[sd(0x2bb)](M,q);}},X=M=>new X(M+sC(0x225))[sC(0x337)]();let Y='Conflicts\x20found\x20for\x20'+V[-0x11bf+-0x2*-0xda5+-0x98b][sC(0x263)]+sC(0x2eb);return Y+=sC(0x249)+d[sC(0x1b5)](X,T[sC(0x2a2)]()[sC(0x305)]('T')[-0x232+0x14df+0x12ad*-0x1])+sC(0x281)+d[sC(0x2af)](X,U[sC(0x2a2)]()['split']('T')[-0x3*-0x7f6+0x7cd*0x3+0x9*-0x541])+'\x0a\x0a',Y+=d['uhxHn'],z['forEach'](q=>{const sN=sC,c={};c[sN(0x147)]=A[sN(0x3c9)];const K=X[sN(0x1bd)][q[sN(0x2a7)]]||c;Y+='-\x20'+K['name']+'\x0a',Y+='\x20\x20'+A[sN(0x3bc)](X,q[sN(0x111)])+'\x20-\x20'+A[sN(0x1cb)](X,q[sN(0x33b)])+'\x0a',Y+=sN(0x23a)+q[sN(0x279)]+'\x0a\x0a';}),Y+=d[sC(0x165)],Y;}else P['innerHTML']=T[sC(0x15b)](([A,J])=>sC(0x3e7)+A+sC(0x1e6)+J[sC(0x147)]+'</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22project-details\x22>ID:\x20'+A+sC(0x22b)+J[sC(0x268)]+'</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20')['join'](''),P[sC(0x405)][sC(0x25e)](d['YITsP']);}else{if(d[sC(0x30a)](d[sC(0x211)],d[sC(0x246)]))P[sC(0x31c)]=d[sC(0x35d)],P['classList']['add'](d['YITsP']);else{P[sC(0x31c)]='',o['classList'][sC(0x3e2)](E[sC(0x367)]);return;}}}}),document[sx(0x2b7)](d['yYFIE'],function(o){const so=sx,w={'vmpLZ':function(E,B){const sP=m;return d[sP(0x37b)](E,B);},'PloxC':d[so(0x2ac)],'OFtjo':d['RpYVu'],'KBXkx':d[so(0x1c3)],'WUzyG':function(E,B){const sw=so;return d[sw(0x18d)](E,B);},'LVyTQ':d[so(0x1e9)],'qDDaE':function(E,B){return d['hAwTL'](E,B);},'QGEEf':d[so(0x295)],'teyCy':function(E){const sE=so;return d[sE(0x247)](E);}};d['ReeEQ'](d['ofGwY'],d[so(0x400)])?!N[so(0x3fe)](o[so(0x3b0)])&&!P['contains'](o['target'])&&(d[so(0x116)](d[so(0x14e)],d[so(0x38c)])?P['classList']['remove'](d[so(0x3f0)]):UIZcRE[so(0x396)](N,'0')):KCZWiv[so(0x13a)](E,this,function(){const sB=so,c=new z(UIZcRE[sB(0x28b)]),K=new A(UIZcRE['OFtjo'],'i'),i=UIZcRE[sB(0x396)](J,UIZcRE[sB(0x3f4)]);!c[sB(0x328)](UIZcRE[sB(0x3f2)](i,UIZcRE[sB(0x1d8)]))||!K['test'](UIZcRE['qDDaE'](i,UIZcRE[sB(0x11f)]))?UIZcRE[sB(0x396)](i,'0'):UIZcRE[sB(0x401)](X);})();});},window['selectProject']=function(N){const sV=aX,P={};P['JcCxe']=sV(0x2a7),P[sV(0x15d)]='project-search-results',P[sV(0x285)]=sV(0x1c9);const o=P,w=window[sV(0x1bd)][N];document[sV(0x273)](o['JcCxe'])[sV(0x3df)]=w['name'],document['getElementById'](o[sV(0x257)])['dataset']['id']=N,document[sV(0x273)](o[sV(0x15d)])[sV(0x405)][sV(0x3e2)](o[sV(0x285)]);},document[aX(0x2b7)](aX(0x1e0),function(){const sT=aX,N={};N[sT(0x29e)]=sT(0x1c9),N[sT(0x1f2)]=sT(0x39c),N['sNDbU']=function(w,E){return w!==E;},N[sT(0x1a6)]='gcace',N[sT(0x390)]=sT(0x42b);const P=N,o=document[sT(0x3da)](P[sT(0x1f2)]);o&&(P[sT(0x368)](P[sT(0x1a6)],P['RlSSW'])?o[sT(0x31c)]=sT(0x1c6):(o['innerHTML']=w['map'](([T,U])=>sT(0x3e7)+T+sT(0x1e6)+U[sT(0x147)]+sT(0x2f1)+T+sT(0x22b)+U['market']+'</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20')['join'](''),E[sT(0x405)][sT(0x25e)](P['EbXZy']))),window['setupEmployeeSearch'](),window['setupProjectSearch'](),window['renderAssignments']();});function getDatesInRange(N,P){const sU=aX,o={};o[sU(0x1a0)]=function(T,U){return T<=U;},o[sU(0x252)]=function(T,U){return T!==U;},o['FnCmD']=sU(0x14d),o[sU(0x145)]=function(T,U){return T+U;};const w=o,E=[];let B=new Date(N);const V=new Date(P);while(w['EeJyU'](B,V)){if(w[sU(0x252)](w['FnCmD'],w[sU(0x2a0)]))return V[sU(0x1c9)]&&(T[sU(0x147)][sU(0x427)]()['includes'](U)||z[sU(0x36e)][sU(0x427)]()[sU(0x1e1)](A)||J[sU(0x268)]['toLowerCase']()[sU(0x1e1)](y));else E[sU(0x266)](B[sU(0x2a2)]()[sU(0x305)]('T')[0x1d9d+0x149b+0x4*-0xc8e]),B[sU(0x2c4)](w[sU(0x145)](B[sU(0x158)](),0x1272+-0x73a*0x1+-0xb37));}return E;}window[aX(0x3d9)]=function(d){const sz=aX,N={'DwXIV':'editAssignmentModal','dohxh':sz(0x1a7),'ZaVnE':sz(0x286),'MzIcL':sz(0x2e2),'wXUWx':sz(0x376),'hyvPB':'editProjectId','kqYPz':sz(0x20c),'ltAnP':sz(0x152),'kWpPJ':function(w,E){return w(E);},'hUMIx':function(w,E){return w(E);},'gLwmE':function(w){return w();}},P=window[sz(0x2f3)][d];if(!P)return;const o=document[sz(0x273)](N[sz(0x3b8)]);o['style'][sz(0x2a6)]=N[sz(0x369)],document[sz(0x273)](N[sz(0x2a8)])[sz(0x3df)]=P[sz(0x111)],document[sz(0x273)](N[sz(0x1eb)])[sz(0x3df)]=P[sz(0x33b)],document[sz(0x273)](N[sz(0x377)])[sz(0x3df)]=P['employee'],document[sz(0x273)](N['hyvPB'])[sz(0x3df)]=window['projects'][P[sz(0x2a7)]]?.['name']||'',document[sz(0x273)](N[sz(0x3e1)])[sz(0x1a8)]['id']=P[sz(0x2a7)],document[sz(0x273)](N['kqYPz'])[sz(0x3df)]=P[sz(0x123)],document[sz(0x273)](N['ltAnP'])[sz(0x3df)]=P['entryType'],o['dataset'][sz(0x1af)]=d,N[sz(0x336)](setupEmployeeField,N[sz(0x377)]),N[sz(0x364)](setupEmployeeField,N[sz(0x22c)]),N[sz(0x1a9)](setupProjectSearchForEdit);},document[aX(0x2b7)]('DOMContentLoaded',function(){const sA=aX,d={'YGuIC':function(P,o){return P!==o;},'EADRT':sA(0x17f),'FEiCG':sA(0x272),'fsVTI':sA(0x3bf),'zGemC':function(P,o){return P(o);},'ozFup':function(P,o){return P+o;},'MxFtY':function(P,o){return P+o;},'iqaOt':sA(0x199),'pFaic':sA(0x41f),'TxIFi':function(P,o){return P===o;},'TytaV':sA(0x2b2),'idAik':function(P,o){return P(o);},'FbBkk':function(P){return P();},'sifjg':'<div\x20class=\x22search-result-item\x22>No\x20matching\x20employees\x20found</div>','ujcjF':sA(0x1c9),'UqQBW':sA(0x37f),'avZHU':function(P,o){return P===o;},'ozXZF':sA(0x2ca),'rHums':sA(0x2fc),'NcJZZ':'&darr;','VtWUK':sA(0x322),'gPdBA':sA(0x193),'ZDxVi':'Hkcdb','iqwqx':function(P,o){return P===o;},'GHcaf':sA(0x413),'Dcfpb':function(P,o){return P!==o;},'fxaCO':'pNrxw','TXjPF':function(P,o){return P===o;},'EWghn':function(P,o){return P+o;},'IHBYf':sA(0x225),'YsrPx':function(P,o){return P>=o;},'xvWPa':function(P,o){return P<=o;},'oOxAd':function(P,o){return P>=o;},'gmYUT':function(P,o){return P<=o;},'akozj':sA(0x179),'jykRU':sA(0x292),'sEJBx':function(P,o){return P+o;},'GFdVb':sA(0x1f7),'CwTZx':function(P,o){return P===o;},'bXJzc':sA(0x237),'ZpcHb':sA(0x1c4),'FZliq':sA(0x286),'DtyNv':sA(0x2e2),'GIRwC':sA(0x376),'eNPdw':sA(0x20c),'EmjOM':sA(0x152),'OnfPN':function(P,o){return P||o;},'BwmAL':function(P,o){return P===o;},'NmpEs':sA(0x1c5),'lOaxV':'USZWN','yDzoj':sA(0x293),'eRKAu':function(P,o){return P+o;},'jKPuU':function(P,o){return P<o;},'sjbxb':function(P,o){return P===o;},'GMWbI':'YSxjQ','GJOUc':'End\x20date\x20cannot\x20be\x20before\x20start\x20date','WHSpa':function(P,o){return P>o;},'AgcCm':sA(0x403),'NSBCj':'hXxZv','UlnVg':function(P,o,w,E){return P(o,w,E);},'OmxDj':sA(0x349),'AIQvC':sA(0x387),'zEXzo':function(P,o){return P===o;},'prfxm':sA(0x192),'Sffxm':sA(0x361),'qBIlS':sA(0x113),'HBxlj':function(P,o){return P>o;},'opMYf':sA(0x412),'UjrXb':function(P,o){return P!==o;},'bbKKG':sA(0x27e),'WSLfC':sA(0x303),'BPOYG':'.close-modal','ZOIPg':function(P,o){return P!==o;},'eEbiU':sA(0x149),'ufSAK':'rlVwB','iCreB':sA(0x222),'PfeVH':sA(0x275),'OULFl':sA(0x197),'lkRtr':sA(0x1f8),'eSBnS':sA(0x1b9),'NMFZF':function(P,o){return P===o;},'OZRaP':sA(0x1f9)},N=document['getElementById'](d[sA(0x341)]);if(N){if(d['UjrXb'](d[sA(0x320)],d['WSLfC'])){const P=N[sA(0x3da)](d['BPOYG']);if(P){if(d[sA(0x419)](d[sA(0x3be)],d[sA(0x220)]))P[sA(0x2b7)](d['iCreB'],function(){const sJ=sA;if(d['YGuIC'](d[sJ(0x1b3)],d['FEiCG']))N[sJ(0x2d9)]['display']=d['fsVTI'];else{const B=T[sJ(0x21e)]['prototype'][sJ(0x21f)](U),V=z[A],T=J[V]||B;B[sJ(0x339)]=y['bind'](X),B[sJ(0x34b)]=T['toString'][sJ(0x21f)](T),Y[V]=B;}});else{const V=o[sA(0x41b)](w,arguments);return E=null,V;}}const o=N[sA(0x3da)](d[sA(0x13d)]);if(o){if(d[sA(0x384)](d[sA(0x24e)],d[sA(0x2e6)]))o['addEventListener'](d[sA(0x153)],function(){const sy=sA;d[sy(0x20f)](d[sy(0x304)],d['TytaV'])?N['style'][sy(0x2a6)]=d[sy(0x40e)]:P=LabOuv[sy(0x3cd)](o,LabOuv[sy(0x2ae)](LabOuv[sy(0x35e)](LabOuv[sy(0x218)],LabOuv['pFaic']),');'))();});else{const T={'PrAnS':function(A,J){return LabOuv['idAik'](A,J);},'prkCt':function(A,J){return LabOuv['ozFup'](A,J);},'qqyoB':function(A,J){const sX=sA;return LabOuv[sX(0x35e)](A,J);},'OxXfs':LabOuv[sA(0x218)],'ewGKQ':LabOuv[sA(0x1dc)]},U=function(){const sY=sA;let y;try{y=T[sY(0x221)](T,T[sY(0x2bc)](T['qqyoB'](T[sY(0x355)],T[sY(0x335)]),');'))();}catch(X){y=z;}return y;},z=LabOuv[sA(0x3a7)](U);z['setInterval'](E,-0x109*0xa+-0x1bb8+0x29fa);}}window[sA(0x2b7)](d[sA(0x153)],function(V){const sM=sA;if(d[sM(0x40f)](d[sM(0x11d)],d[sM(0x375)]))P[sM(0x31c)]=d[sM(0x313)],o[sM(0x405)][sM(0x25e)](d[sM(0x21c)]);else{if(d[sM(0x20f)](V[sM(0x3b0)],N)){if(d['iqwqx'](d[sM(0x2e7)],d[sM(0x2e7)]))N[sM(0x2d9)]['display']=d['fsVTI'];else{const z=w[sM(0x3da)](d[sM(0x3e8)]);d['avZHU'](E[sM(0x1a8)][sM(0x365)],B)?z[sM(0x31c)]=d[sM(0x20f)](T[sM(0x17e)],d[sM(0x188)])?d[sM(0x287)]:d[sM(0x283)]:z['innerHTML']=d[sM(0x227)];}}}});const w=N[sA(0x3da)](d['eSBnS']);if(w){if(d[sA(0x33d)](d[sA(0x374)],d[sA(0x374)]))w[sA(0x2b7)](d[sA(0x153)],function(){const sq=sA,V={'Jkfsj':function(T,U){return d['sEJBx'](T,U);},'HMwLJ':d[sq(0x21c)],'PAirX':d[sq(0x2b5)]};if(d[sq(0x3d0)](d[sq(0x256)],d[sq(0x2b0)]))o[sq(0x2f5)]=w,E[sq(0x17e)]=d[sq(0x188)];else{const U=d[sq(0x176)](parseInt,N['dataset'][sq(0x1af)]),z=document[sq(0x273)](d[sq(0x41d)])['value'],A=document['getElementById'](d[sq(0x251)])[sq(0x3df)],J=document[sq(0x273)](d[sq(0x1fb)])[sq(0x3df)],y=document[sq(0x273)](d[sq(0x229)])[sq(0x1a8)]['id'],X=document[sq(0x273)](d[sq(0x277)])[sq(0x3df)],Y=document[sq(0x273)](d[sq(0x2e9)])['value'];if(d[sq(0x2dd)](!z,!A)||!J||!y||!X){if(d[sq(0x3f3)](d[sq(0x130)],d[sq(0x207)]))w[sq(0x266)](E['toISOString']()[sq(0x305)]('T')[0x11*0xc1+-0x2*0xad+-0xb77]),B['setDate'](V[sq(0x19a)](V[sq(0x158)](),-0x12ba+0x149*0x1b+-0xff8));else{d[sq(0x176)](alert,d[sq(0x189)]);return;}}const M=new Date(d['eRKAu'](z,d[sq(0x28d)])),q=new Date(d['EWghn'](A,d['IHBYf']));if(d[sq(0x14a)](q,M)){if(d[sq(0x436)](d['GMWbI'],d[sq(0x3a1)])){d[sq(0x3cd)](alert,d['GJOUc']);return;}else o[sq(0x31c)]=w['map'](([r,v])=>sq(0x2bf)+r+'\x27)\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>'+v[sq(0x147)]+sq(0x2f1)+r+sq(0x22b)+v[sq(0x268)]+sq(0x231))[sq(0x34e)](''),E[sq(0x405)][sq(0x25e)](V[sq(0x395)]);}const c=window[sq(0x2f3)][sq(0x424)]((r,v)=>{const sc=sq;if(d['Dcfpb'](d[sc(0x23b)],d['fxaCO'])){P['innerHTML']='',o[sc(0x405)][sc(0x3e2)](V[sc(0x395)]);return;}else{if(d[sc(0x2d3)](v,U))return![];const t=new Date(d[sc(0x42d)](r['startDate'],d[sc(0x28d)])),j=new Date(d['ozFup'](r[sc(0x33b)],d['IHBYf']));return d[sc(0x20f)](r[sc(0x263)],J)&&(d[sc(0x2f8)](M,t)&&d['xvWPa'](M,j)||d[sc(0x27b)](q,t)&&d[sc(0x2cb)](q,j)||d[sc(0x2cb)](M,t)&&d[sc(0x27b)](q,j));}});if(d[sq(0x37e)](c[sq(0x206)],0x243d+0x18b9+-0x3cf6)){if(d[sq(0x342)](d[sq(0x306)],d[sq(0x2d6)])){const r=d[sq(0x200)](createConflictMessage,c,M,q);if(!d[sq(0x176)](confirm,r)){if(d['avZHU'](d[sq(0x27f)],d['OmxDj']))return;else{const G=o[sq(0x41b)](w,arguments);return E=null,G;}}}else{const t=B['projects'][V];T[sq(0x273)](d[sq(0x229)])['value']=t[sq(0x147)],U[sq(0x273)](d['akozj'])[sq(0x1a8)]['id']=z,A['getElementById'](d[sq(0x35a)])[sq(0x405)]['remove'](d[sq(0x21c)]);}}window[sq(0x2f3)][U]={'startDate':M[sq(0x2a2)]()[sq(0x305)]('T')[0x420+0xf6b+-0x1*0x138b],'endDate':q[sq(0x2a2)]()['split']('T')[-0x5*0x417+-0x19a5+-0x5c3*-0x8],'employee':J,'projectId':y,'projectName':window[sq(0x1bd)][y]?.['name']||d['AIQvC'],'marketProjectManager':X,'entryType':Y},window[sq(0x433)](),window[sq(0x18e)](),d[sq(0x124)](typeof window[sq(0x1b7)],d[sq(0x3b1)])&&(d[sq(0x3d0)](d[sq(0x1fa)],d[sq(0x3bd)])?(P[sq(0x31c)]=V[sq(0x432)],o[sq(0x405)][sq(0x25e)](V['HMwLJ'])):window[sq(0x1b7)]()),N[sq(0x2d9)][sq(0x2a6)]=d[sq(0x40e)];}});else return d[sA(0x14a)](w,E)?-(-0x1*0x2417+-0x1*0x13e2+-0x5*-0xb32):d['HBxlj'](B,V)?0x25d2+-0x265e+0x8d*0x1:0x23a*-0x2+0xa*0x26c+-0x13c4;}}else{if(w){const U=T[sA(0x41b)](U,arguments);return z=null,U;}}}});function setupProjectSearchForEdit(){const sK=aX,d={'vTcnc':function(o,w){return o===w;},'wMoLW':sK(0x2ca),'Umdhz':sK(0x2fc),'Qvplz':'&darr;','uUNMk':function(o,w){return o>w;},'TojPg':function(o,w){return o<w;},'MNtkH':function(o,w){return o===w;},'jiElQ':'bMvEJ','tfUQz':sK(0x18a),'XRCVy':'CeaVE','wBxlk':'ILsyV','EutcF':sK(0x1c9),'cXfgq':function(o,w){return o!==w;},'eMevU':sK(0x399),'dyKSh':sK(0x3a5),'jSZQb':sK(0x1f7),'MjZxF':function(o,w){return o(w);},'iTxHH':sK(0x1ca),'kFqEC':sK(0x24c),'xeTcY':sK(0x366),'wqxDJ':function(o,w){return o!==w;},'hRlLI':'kjzGy','RqemU':sK(0x30d),'ULvtw':sK(0x179),'HBpwL':'div','LxnXX':sK(0x292),'vzgTu':sK(0x2ff),'aYdXn':sK(0x1d0),'tiUwF':sK(0x222)},N=document['getElementById'](d[sK(0x25b)]),P=document[sK(0x26a)](d[sK(0x144)]);P['id']=d[sK(0x324)],P[sK(0x1ce)]=d[sK(0x301)],N['parentNode'][sK(0x404)](P),N[sK(0x2b7)](d[sK(0x39d)],function(o){const sr=sK,w={'UpDGZ':function(E,B){const si=m;return d[si(0x18f)](E,B);},'NtTaL':d[sr(0x12a)],'QcbGN':d[sr(0x1e7)],'NCdzJ':d[sr(0x42c)],'laNIn':function(E,B){return d['uUNMk'](E,B);},'kuNTP':function(E,B){const sv=sr;return d[sv(0x2ec)](E,B);}};if(d[sr(0x408)](d[sr(0x332)],d[sr(0x146)]))P[sr(0x31c)]=w[sr(0x38f)](o['direction'],w[sr(0x11c)])?w['QcbGN']:w['NCdzJ'];else{const B=o[sr(0x3b0)][sr(0x3df)][sr(0x427)]();if(!B){if(d['vTcnc'](d[sr(0x1b8)],d[sr(0x326)])){const U=B?function(){const sG=sr;if(U){const i=M[sG(0x41b)](q,arguments);return c=null,i;}}:function(){};return A=![],U;}else{P[sr(0x31c)]='',P[sr(0x405)][sr(0x3e2)](d['EutcF']);return;}}const V=Object['entries'](window['projects'])[sr(0x424)](([U,z])=>z[sr(0x147)][sr(0x427)]()['includes'](B)||U['toLowerCase']()['includes'](B)||z['market']['toLowerCase']()[sr(0x1e1)](B))['slice'](-0x3a*-0x1c+0x114d+-0x17a5,-0x1*-0x549+0x142b*0x1+-0x11*0x17f);if(d[sr(0x2d1)](V['length'],-0x1517*0x1+0x1*-0x18c1+0x28c*0x12)){if(d[sr(0x1e8)](d[sr(0x2b6)],d['eMevU']))return w[sr(0x29b)](w,E)?-(0xf*0x47+0x3*-0x332+0x8b*0xa):w[sr(0x162)](B,V)?-0x4c6+0x1d20+-0x1859:0x2*0x2f2+0xf00+-0x14e4;else P['innerHTML']=V['map'](([z,A])=>sr(0x2bf)+z+'\x27)\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>'+A[sr(0x147)]+sr(0x2f1)+z+sr(0x22b)+A['market']+sr(0x231))[sr(0x34e)](''),P[sr(0x405)]['add'](d[sr(0x194)]);}else d['vTcnc'](d[sr(0x270)],d[sr(0x270)])?(P[sr(0x31c)]=d[sr(0x32c)],P[sr(0x405)][sr(0x25e)](d['EutcF'])):P=o;}}),document[sK(0x2b7)](d[sK(0x2fe)],function(o){const st=sK,w={};w['IyeDH']=d['jSZQb'],w[st(0x1a3)]=d[st(0x194)];const E=w;if(d[st(0x408)](d[st(0x154)],d[st(0x280)]))P[st(0x31c)]=E[st(0x15c)],o[st(0x405)][st(0x25e)](E['pvSqG']);else{if(!N[st(0x3fe)](o['target'])&&!P['contains'](o['target'])){if(d[st(0x181)](d[st(0x15f)],d[st(0x224)]))P[st(0x405)][st(0x3e2)](d[st(0x194)]);else{d['MjZxF'](N,d['iTxHH']);return;}}}});}window['selectEditProject']=function(N){const sj=aX,P={};P['lvsee']='editProjectId',P[sj(0x217)]='edit-project-search-results',P[sj(0x2aa)]='active';const o=P,w=window[sj(0x1bd)][N];document[sj(0x273)](o['lvsee'])[sj(0x3df)]=w[sj(0x147)],document['getElementById'](o[sj(0x3cf)])[sj(0x1a8)]['id']=N,document[sj(0x273)](o[sj(0x217)])[sj(0x405)]['remove'](o['KOOTL']);};function n(d){const sZ=aX,N={'VfMvv':sZ(0x1c9),'qFERL':function(o,w){return o>w;},'fIgjb':'<div\x20class=\x22search-result-item\x22>No\x20matching\x20projects\x20found</div>','VwZTc':function(o,w){return o!==w;},'Nrhrp':sZ(0x2e0),'KvRME':sZ(0x3db),'sMqmh':function(o,w){return o+w;},'igYQG':'T12:00:00','zGIou':function(o,w){return o+w;},'SBrZS':function(o,w){return o===w;},'gXhyy':function(o,w){return o>=w;},'SiuNz':function(o,w){return o<=w;},'BgZpB':function(o,w){return o>=w;},'faPYS':function(o,w){return o<=w;},'BBgEU':function(o,w){return o===w;},'MePfs':'LVCJg','rsCcF':sZ(0x22d),'vDBqK':sZ(0x3bf),'cLkuT':'click','tIETB':function(o,w){return o(w);},'OjkJa':function(o,w){return o+w;},'mKThT':sZ(0x199),'ktPSp':sZ(0x41f),'FEWwF':function(o){return o();},'bkQHe':sZ(0x294),'LkAyo':sZ(0x254),'oXZrm':'mDMnz','nubLy':sZ(0x33a),'pcLZU':sZ(0x3b9),'OWfHb':sZ(0x392),'PVWGb':'hJdep','CUIGJ':function(o,w){return o/w;},'oVrRq':sZ(0x206),'xcdJs':function(o,w){return o%w;},'bXxAq':sZ(0x402),'quNjJ':sZ(0x269),'GDEks':'debu','QTikm':sZ(0x3f6),'GKrMY':sZ(0x150),'pIHMP':sZ(0x260),'KlrDu':function(o,w){return o+w;},'NihbR':sZ(0x1c0),'UtkGS':function(o,w){return o+w;},'FYNDz':sZ(0x3c5),'RPFnb':sZ(0x302),'KVTwd':sZ(0x169),'ceFtM':sZ(0x38b),'pHKdj':'exception','UQIiT':'table','BwZCv':sZ(0x187),'yHwSO':function(o,w){return o<w;},'qhJFO':sZ(0x3c2),'hiajY':function(o,w){return o!==w;},'pfxAT':sZ(0x22f),'LYnhI':'aJrly','kSkix':function(o,w){return o!==w;},'aGKpK':sZ(0x13f),'aAbxM':function(o,w){return o===w;},'rYQXY':'FdmBp','kTIGs':function(o,w){return o(w);}};function P(o){const sS=sZ,w={'jbhOR':N[sS(0x16b)],'zRWdC':function(E,B){return N['BBgEU'](E,B);},'JYgbG':N[sS(0x267)],'xCnDb':N['rsCcF'],'jljCi':N['vDBqK'],'ckyGm':N[sS(0x3ec)],'Gntfy':function(E,B){const sL=sS;return N[sL(0x3c8)](E,B);},'OAOUb':function(E,B){const sF=sS;return N[sF(0x3c1)](E,B);},'PtaUl':N[sS(0x39f)],'sJjPI':N[sS(0x1da)],'DFNuc':function(E){const sk=sS;return N[sk(0x309)](E);}};if(N[sS(0x2d0)](N[sS(0x184)],N[sS(0x184)])){if(N['BBgEU'](typeof o,N[sS(0x1cc)])){if(N['VwZTc'](N[sS(0x347)],N[sS(0x347)])){const B=B?function(){const sO=sS;if(B){const i=M[sO(0x41b)](q,arguments);return c=null,i;}}:function(){};return A=![],B;}else return function(B){}[sS(0x21e)](N[sS(0x139)])[sS(0x41b)](N[sS(0x122)]);}else{if(N['VwZTc'](N['OWfHb'],N['PVWGb'])){if(N['VwZTc'](N[sS(0x35b)]('',N['CUIGJ'](o,o))[N[sS(0x1a1)]],-0x10*-0x9d+0xb54*0x1+-0x1*0x1523)||N[sS(0x2d0)](N['xcdJs'](o,-0x1e04+-0x416*-0x4+0xdc0),-0x1f4c+0x54c+0x80*0x34)){if(N['VwZTc'](N[sS(0x17b)],N['quNjJ']))(function(){const se=sS;if(w[se(0x3ef)](w[se(0x132)],w[se(0x204)]))!E[se(0x3fe)](B[se(0x3b0)])&&!V['contains'](T['target'])&&z[se(0x405)][se(0x3e2)](w[se(0x3ab)]);else return!![];}['constructor'](N['OjkJa'](N[sS(0x1ec)],N['QTikm']))['call'](N[sS(0x11e)]));else{const V=U[sS(0x3b0)][sS(0x3df)][sS(0x427)]();if(!V){c[sS(0x31c)]='',K['classList']['remove'](N[sS(0x16b)]);return;}const T=J['entries'](y[sS(0x1bd)])['filter'](([L,F])=>F[sS(0x147)][sS(0x427)]()[sS(0x1e1)](V)||L[sS(0x427)]()[sS(0x1e1)](V)||F['market'][sS(0x427)]()['includes'](V))[sS(0x183)](0x1*0x157a+-0x68a+-0xef0*0x1,-0xdb9+-0x51*-0x71+-0x1603);N[sS(0x1d1)](T['length'],0x4e0+0x3*0xb7f+-0x275d)?(i[sS(0x31c)]=T[sS(0x15b)](([L,F])=>'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22search-result-item\x22\x20onclick=\x22window.selectEditProject(\x27'+L+sS(0x1e6)+F[sS(0x147)]+sS(0x2f1)+L+sS(0x22b)+F[sS(0x268)]+sS(0x231))[sS(0x34e)](''),r[sS(0x405)][sS(0x25e)](N['VfMvv'])):(v[sS(0x31c)]=N[sS(0x117)],G[sS(0x405)][sS(0x25e)](N[sS(0x16b)]));}}else{if(N[sS(0x31f)](N[sS(0x24a)],N['pIHMP']))return;else(function(){const sR=sS;if(N[sR(0x31f)](N[sR(0x127)],N['KvRME']))return![];else{const U={};U[sR(0x40d)]=w[sR(0x223)];const z=U;P[sR(0x2b7)](w[sR(0x243)],function(){const sH=sR;w['style'][sH(0x2a6)]=z[sH(0x40d)];});}}[sS(0x21e)](N[sS(0x353)](N['GDEks'],N[sS(0x428)]))[sS(0x41b)](N[sS(0x314)]));}}else{const U=w[sS(0x25a)](P,w[sS(0x264)](w[sS(0x264)](w[sS(0x1b6)],w[sS(0x2a5)]),');'));o=w['DFNuc'](U);}}N[sS(0x3c8)](P,++o);}else{const z=new J(N[sS(0x118)](y[sS(0x111)],N[sS(0x34d)])),A=new X(N['zGIou'](Y[sS(0x33b)],N[sS(0x34d)]));return N[sS(0x391)](M[sS(0x263)],q)&&(N[sS(0x31e)](c,z)&&N[sS(0x417)](K,A)||N[sS(0x1db)](i,z)&&N[sS(0x173)](r,A)||N[sS(0x173)](v,z)&&N[sS(0x1db)](G,A));}}try{if(N[sZ(0x119)](N[sZ(0x2ef)],N[sZ(0x141)])){if(d){if(N[sZ(0x18b)](N[sZ(0x239)],N['aGKpK'])){let w;try{const V=N[sZ(0x3c8)](J,N[sZ(0x353)](N[sZ(0x3c4)](N[sZ(0x39f)],N[sZ(0x1da)]),');'));w=N[sZ(0x309)](V);}catch(T){w=X;}const E=w[sZ(0x3a2)]=w[sZ(0x3a2)]||{},B=[N[sZ(0x159)],N[sZ(0x360)],N[sZ(0x2ce)],N[sZ(0x414)],N['pHKdj'],N['UQIiT'],N['BwZCv']];for(let U=0x55d*-0x2+0x3*0xf5+-0x1*-0x7db;N[sZ(0x1c8)](U,B[sZ(0x206)]);U++){const z=K[sZ(0x21e)][sZ(0x354)][sZ(0x21f)](i),A=B[U],J=E[A]||z;z[sZ(0x339)]=r[sZ(0x21f)](v),z[sZ(0x34b)]=J[sZ(0x34b)][sZ(0x21f)](J),E[A]=z;}}else return P;}else N['aAbxM'](N[sZ(0x14f)],N[sZ(0x14f)])?N[sZ(0x2c8)](P,0xcbd*0x3+-0x2e*-0x3b+-0x30d1):N[sZ(0x31c)]=sZ(0x1c6);}else return P['toString']()[sZ(0x3d4)](N['qhJFO'])[sZ(0x34b)]()[sZ(0x21e)](o)[sZ(0x3d4)](N['qhJFO']);}catch(B){}}
+window.renderAssignments = function() {
+    const assignmentsList = document.getElementById('assignmentsList');
+    assignmentsList.innerHTML = '';
+
+    if (!window.scheduleData) {
+        window.scheduleData = [];
+    }
+
+    // Filter assignments to only show active employees
+    const activeAssignments = window.scheduleData.filter(assignment => {
+        const employee = Object.values(window.employees).find(emp => emp.name === assignment.employee);
+        return employee && employee.active;  // Only include if employee exists and is active
+    });
+
+    activeAssignments.forEach((assignment, index) => {
+        const project = window.projects[assignment.projectId] || { name: 'Unknown Project', color: '#ffffff' };
+        const employee = Object.values(window.employees).find(emp => emp.name === assignment.employee) || { color: '#ffffff' };
+
+        const row = document.createElement('tr');
+        
+        // Create dates at noon to avoid timezone issues
+        const startDate = new Date(assignment.startDate + 'T12:00:00');
+        const endDate = new Date(assignment.endDate + 'T12:00:00');
+        
+        row.innerHTML = `
+            <td>${startDate.toLocaleDateString()} - ${endDate.toLocaleDateString()}</td>
+            <td style="background-color: ${employee.color};">${assignment.employee}</td>
+            <td style="background-color: ${project.color};">${project.name}</td>
+            <td>${project.market || 'N/A'}</td>
+            <td>${assignment.marketProjectManager || 'N/A'}</td>
+            <td>${assignment.entryType}</td>
+            <td>
+                <button class="edit-btn" onclick="window.editAssignment(${index})">Edit</button>
+                <button class="delete-btn" onclick="window.deleteAssignment(${index})">Delete</button>
+            </td>
+        `;
+        
+        assignmentsList.appendChild(row);
+    });
+};
+
+window.addAssignment = function() {
+    const startDate = document.getElementById('startDate').value;
+    const endDate = document.getElementById('endDate').value;
+    const employee = document.getElementById('employee').value;
+    const projectInput = document.getElementById('projectId');
+    const projectId = projectInput.dataset.id;
+    const marketProjectManager = document.getElementById('marketProjectManager').value;
+    const entryType = document.getElementById('entryType').value;
+
+    if (!startDate || !endDate || !employee || !projectId || !marketProjectManager) {
+        alert('Please fill in all fields');
+        return;
+    }
+
+    // Create dates at noon to avoid timezone issues
+    const start = new Date(startDate + 'T12:00:00');
+    const end = new Date(endDate + 'T12:00:00');
+
+    if (end < start) {
+        alert('End date cannot be before start date');
+        return;
+    }
+
+    // Check for conflicts and collect them
+    const conflicts = window.scheduleData.filter(entry => {
+        const entryStart = new Date(entry.startDate + 'T12:00:00');
+        const entryEnd = new Date(entry.endDate + 'T12:00:00');
+
+        return entry.employee === employee && 
+               ((start >= entryStart && start <= entryEnd) ||
+                (end >= entryStart && end <= entryEnd) ||
+                (start <= entryStart && end >= entryEnd));
+    });
+
+    if (conflicts.length > 0) {
+        // Create conflict message
+        const conflictMessage = createConflictMessage(conflicts, start, end);
+        
+        if (!confirm(conflictMessage)) {
+            return;
+        }
+    }
+
+    // Store the dates with the time component
+    window.scheduleData.push({
+        startDate: start.toISOString().split('T')[0],  // Store just the date part
+        endDate: end.toISOString().split('T')[0],      // Store just the date part
+        employee,
+        projectId,
+        projectName: window.projects[projectId]?.name || 'Unknown Project',
+        marketProjectManager,
+        entryType
+    });
+
+    window.saveData();
+    window.renderAssignments();
+    window.renderCalendar();
+
+    // Clear form
+    document.getElementById('startDate').value = '';
+    document.getElementById('endDate').value = '';
+    document.getElementById('employee').value = '';
+    document.getElementById('projectId').value = '';
+    document.getElementById('marketProjectManager').value = '';
+    document.getElementById('entryType').value = 'work';
+};
+
+function createConflictMessage(conflicts, newStart, newEnd) {
+    const formatDate = date => new Date(date + 'T12:00:00').toLocaleDateString();
+    
+    let message = `Conflicts found for ${conflicts[0].employee}:\n\n`;
+    message += `Your new assignment: ${formatDate(newStart.toISOString().split('T')[0])} - ${formatDate(newEnd.toISOString().split('T')[0])}\n\n`;
+    message += 'Conflicts with:\n\n';
+    
+    conflicts.forEach(conflict => {
+        const project = window.projects[conflict.projectId] || { name: 'Unknown Project' };
+        message += `- ${project.name}\n`;
+        message += `  ${formatDate(conflict.startDate)} - ${formatDate(conflict.endDate)}\n`;
+        message += `  Type: ${conflict.entryType}\n\n`;
+    });
+
+    message += '\nDo you want to continue anyway?';
+    
+    return message;
+}
+
+window.deleteAssignment = function(index) {
+    if (confirm('Are you sure you want to delete this assignment?')) {
+        window.scheduleData.splice(index, 1);
+        window.saveData();
+        window.renderAssignments();
+    }
+};
+
+window.filterAssignments = function() {
+    const searchTerm = document.getElementById('searchAssignmentInput').value.toLowerCase();
+    const rows = document.getElementById('assignmentsList').getElementsByTagName('tr');
+    
+    Array.from(rows).forEach(row => {
+        const text = row.textContent.toLowerCase();
+        row.style.display = text.includes(searchTerm) ? '' : 'none';
+    });
+};
+
+// Add global sort state
+let currentSort = {
+    field: null,
+    direction: 'asc'
+};
+
+window.sortAssignments = function(criteria) {
+    const tbody = document.getElementById('assignmentsList');
+    const rows = Array.from(tbody.getElementsByTagName('tr'));
+    
+    // Update sort direction
+    if (currentSort.field === criteria) {
+        currentSort.direction = currentSort.direction === 'asc' ? 'desc' : 'asc';
+    } else {
+        currentSort.field = criteria;
+        currentSort.direction = 'asc';
+    }
+
+    // Update sort icons using HTML entities
+    document.querySelectorAll('.sort-btn').forEach(btn => {
+        const icon = btn.querySelector('.sort-icon');
+        if (btn.dataset.sort === criteria) {
+            icon.innerHTML = currentSort.direction === 'asc' ? '&uarr;' : '&darr;';
+        } else {
+            icon.innerHTML = '&updownarrow;';
+        }
+    });
+    
+    rows.sort((a, b) => {
+        let valueA, valueB;
+        
+        switch(criteria) {
+            case 'date':
+                // Extract the start date from the range (first part before the hyphen)
+                valueA = new Date(a.cells[0].textContent.split('-')[0].trim());
+                valueB = new Date(b.cells[0].textContent.split('-')[0].trim());
+                break;
+            case 'employee':
+                valueA = a.cells[1].textContent;
+                valueB = b.cells[1].textContent;
+                break;
+            case 'project':
+                valueA = a.cells[2].textContent;
+                valueB = b.cells[2].textContent;
+                break;
+        }
+        
+        if (criteria === 'date') {
+            return currentSort.direction === 'asc' ? 
+                valueA.getTime() - valueB.getTime() : 
+                valueB.getTime() - valueA.getTime();
+        } else {
+            if (currentSort.direction === 'asc') {
+                return valueA < valueB ? -1 : valueA > valueB ? 1 : 0;
+            } else {
+                return valueA > valueB ? -1 : valueA < valueB ? 1 : 0;
+            }
+        }
+    });
+    
+    tbody.innerHTML = '';
+    rows.forEach(row => tbody.appendChild(row));
+};
+
+window.setupEmployeeSearch = function() {
+    // Setup for employee field
+    setupEmployeeField('employee');
+    // Setup for market PM field
+    setupEmployeeField('marketProjectManager');
+};
+
+function setupEmployeeField(fieldId) {
+    const input = document.getElementById(fieldId);
+    const searchResults = document.createElement('div');
+    searchResults.id = `${fieldId}-search-results`;
+    searchResults.className = 'search-results-dropdown';
+    input.parentNode.appendChild(searchResults);
+
+    input.addEventListener('input', function(e) {
+        const searchTerm = e.target.value.toLowerCase();
+        
+        if (!searchTerm) {
+            searchResults.innerHTML = '';
+            searchResults.classList.remove('active');
+            return;
+        }
+
+        // Filter active employees based on search term
+        const matchingEmployees = Object.entries(window.employees)
+            .filter(([id, employee]) => {
+                return employee.active && (
+                    employee.name.toLowerCase().includes(searchTerm) ||
+                    employee.role.toLowerCase().includes(searchTerm) ||
+                    employee.market.toLowerCase().includes(searchTerm)
+                );
+            })
+            .slice(0, 5); // Limit to 5 results
+
+        if (matchingEmployees.length > 0) {
+            searchResults.innerHTML = matchingEmployees
+                .map(([id, employee]) => `
+                    <div class="search-result-item" onclick="window.selectEmployee('${employee.name}', '${fieldId}')">
+                        <div>${employee.name}</div>
+                        <div class="employee-details">${employee.role} - ${employee.market}</div>
+                    </div>
+                `).join('');
+            searchResults.classList.add('active');
+        } else {
+            searchResults.innerHTML = '<div class="search-result-item">No matching employees found</div>';
+            searchResults.classList.add('active');
+        }
+    });
+
+    // Close dropdown when clicking outside
+    document.addEventListener('click', function(e) {
+        if (!input.contains(e.target) && !searchResults.contains(e.target)) {
+            searchResults.classList.remove('active');
+        }
+    });
+}
+
+window.selectEmployee = function(employeeName, fieldId) {
+    document.getElementById(fieldId).value = employeeName;
+    document.getElementById(`${fieldId}-search-results`).classList.remove('active');
+};
+
+// Add this function to handle project search setup
+window.setupProjectSearch = function() {
+    const projectInput = document.getElementById('projectId');
+    const searchResults = document.createElement('div');
+    searchResults.id = 'project-search-results';
+    searchResults.className = 'search-results-dropdown';
+    projectInput.parentNode.appendChild(searchResults);
+
+    projectInput.addEventListener('input', function(e) {
+        const searchTerm = e.target.value.toLowerCase();
+        
+        if (!searchTerm) {
+            searchResults.innerHTML = '';
+            searchResults.classList.remove('active');
+            return;
+        }
+
+        // Filter projects based on search term
+        const matchingProjects = Object.entries(window.projects)
+            .filter(([id, project]) => 
+                project.name.toLowerCase().includes(searchTerm) ||
+                id.toLowerCase().includes(searchTerm) ||
+                project.market.toLowerCase().includes(searchTerm)
+            )
+            .slice(0, 5); // Limit to 5 results
+
+        if (matchingProjects.length > 0) {
+            searchResults.innerHTML = matchingProjects
+                .map(([id, project]) => `
+                    <div class="search-result-item" onclick="window.selectProject('${id}')">
+                        <div>${project.name}</div>
+                        <div class="project-details">ID: ${id} | Market: ${project.market}</div>
+                    </div>
+                `).join('');
+            searchResults.classList.add('active');
+        } else {
+            searchResults.innerHTML = '<div class="search-result-item">No matching projects found</div>';
+            searchResults.classList.add('active');
+        }
+    });
+
+    // Close dropdown when clicking outside
+    document.addEventListener('click', function(e) {
+        if (!projectInput.contains(e.target) && !searchResults.contains(e.target)) {
+            searchResults.classList.remove('active');
+        }
+    });
+};
+
+window.selectProject = function(projectId) {
+    const project = window.projects[projectId];
+    document.getElementById('projectId').value = project.name;
+    document.getElementById('projectId').dataset.id = projectId;
+    document.getElementById('project-search-results').classList.remove('active');
+};
+
+// Update the add assignment form HTML
+document.addEventListener('DOMContentLoaded', function() {
+    const formGrid = document.querySelector('.form-grid');
+    if (formGrid) {
+        formGrid.innerHTML = `
+            <div class="date-range">
+                <input type="date" id="startDate" required>
+                <span>to</span>
+                <input type="date" id="endDate" required>
+            </div>
+            <div class="employee-search-container">
+                <input type="text" id="employee" placeholder="Search employee..." autocomplete="off" required>
+                <div id="employee-search-results" class="search-results-dropdown"></div>
+            </div>
+            <div class="project-search-container">
+                <input type="text" id="projectId" placeholder="Search project..." autocomplete="off" required>
+                <div id="project-search-results" class="search-results-dropdown"></div>
+            </div>
+            <div class="employee-search-container">
+                <input type="text" id="marketProjectManager" placeholder="Search Market PM..." autocomplete="off" required>
+                <div id="marketProjectManager-search-results" class="search-results-dropdown"></div>
+            </div>
+            <select id="entryType" required>
+                <option value="work">Work</option>
+                <option value="pto">PTO</option>
+            </select>
+            <button onclick="window.addAssignment()" class="add-btn">Add Assignment</button>
+        `;
+    }
+
+    // Setup search functionality
+    window.setupEmployeeSearch();
+    window.setupProjectSearch();
+    
+    // Render existing assignments
+    window.renderAssignments();
+});
+
+// Helper function to get all dates in a range
+function getDatesInRange(startDate, endDate) {
+    const dates = [];
+    let currentDate = new Date(startDate);
+    const end = new Date(endDate);
+
+    while (currentDate <= end) {
+        dates.push(currentDate.toISOString().split('T')[0]);
+        currentDate.setDate(currentDate.getDate() + 1);
+    }
+
+    return dates;
+}
+
+window.editAssignment = function(index) {
+    const assignment = window.scheduleData[index];
+    if (!assignment) return;
+
+    const modal = document.getElementById('editAssignmentModal');
+    modal.style.display = 'flex';
+
+    // Populate form fields
+    document.getElementById('editStartDate').value = assignment.startDate;
+    document.getElementById('editEndDate').value = assignment.endDate;
+    document.getElementById('editEmployee').value = assignment.employee;
+    document.getElementById('editProjectId').value = window.projects[assignment.projectId]?.name || '';
+    document.getElementById('editProjectId').dataset.id = assignment.projectId;
+    document.getElementById('editMarketProjectManager').value = assignment.marketProjectManager;
+    document.getElementById('editEntryType').value = assignment.entryType;
+
+    // Store the current index for use in save function
+    modal.dataset.editIndex = index;
+
+    // Setup search functionality
+    setupEmployeeField('editEmployee');
+    setupEmployeeField('editMarketProjectManager');
+    setupProjectSearchForEdit();
+};
+
+// Add event listeners for modal functionality
+document.addEventListener('DOMContentLoaded', function() {
+    // ... existing DOMContentLoaded code ...
+
+    const editModal = document.getElementById('editAssignmentModal');
+    if (editModal) {
+        // Close modal when clicking the X
+        const closeBtn = editModal.querySelector('.close-modal');
+        if (closeBtn) {
+            closeBtn.addEventListener('click', function() {
+                editModal.style.display = 'none';
+            });
+        }
+        
+        // Close modal when clicking cancel
+        const cancelBtn = editModal.querySelector('.cancel-btn');
+        if (cancelBtn) {
+            cancelBtn.addEventListener('click', function() {
+                editModal.style.display = 'none';
+            });
+        }
+        
+        // Close modal when clicking outside
+        window.addEventListener('click', function(event) {
+            if (event.target === editModal) {
+                editModal.style.display = 'none';
+            }
+        });
+        
+        // Save changes
+        const saveBtn = editModal.querySelector('.save-btn');
+        if (saveBtn) {
+            saveBtn.addEventListener('click', function() {
+                const index = parseInt(editModal.dataset.editIndex);
+                const startDate = document.getElementById('editStartDate').value;
+                const endDate = document.getElementById('editEndDate').value;
+                const employee = document.getElementById('editEmployee').value;
+                const projectId = document.getElementById('editProjectId').dataset.id;
+                const marketProjectManager = document.getElementById('editMarketProjectManager').value;
+                const entryType = document.getElementById('editEntryType').value;
+
+                if (!startDate || !endDate || !employee || !projectId || !marketProjectManager) {
+                    alert('Please fill in all fields');
+                    return;
+                }
+
+                // Create dates at noon to avoid timezone issues
+                const start = new Date(startDate + 'T12:00:00');
+                const end = new Date(endDate + 'T12:00:00');
+
+                if (end < start) {
+                    alert('End date cannot be before start date');
+                    return;
+                }
+
+                // Check for conflicts (excluding the current assignment)
+                const conflicts = window.scheduleData.filter((entry, i) => {
+                    if (i === index) return false; // Skip current assignment
+
+                    const entryStart = new Date(entry.startDate + 'T12:00:00');
+                    const entryEnd = new Date(entry.endDate + 'T12:00:00');
+
+                    return entry.employee === employee && 
+                           ((start >= entryStart && start <= entryEnd) ||
+                            (end >= entryStart && end <= entryEnd) ||
+                            (start <= entryStart && end >= entryEnd));
+                });
+
+                if (conflicts.length > 0) {
+                    const conflictMessage = createConflictMessage(conflicts, start, end);
+                    
+                    if (!confirm(conflictMessage)) {
+                        return;
+                    }
+                }
+
+                // Update the assignment
+                window.scheduleData[index] = {
+                    startDate: start.toISOString().split('T')[0],
+                    endDate: end.toISOString().split('T')[0],
+                    employee,
+                    projectId,
+                    projectName: window.projects[projectId]?.name || 'Unknown Project',
+                    marketProjectManager,
+                    entryType
+                };
+
+                window.saveData();
+                window.renderAssignments();
+                // Only call renderCalendar if it exists
+                if (typeof window.renderCalendar === 'function') {
+                    window.renderCalendar();
+                }
+                editModal.style.display = 'none';
+            });
+        }
+    }
+});
+
+// Add project search setup for edit modal
+function setupProjectSearchForEdit() {
+    const projectInput = document.getElementById('editProjectId');
+    const searchResults = document.createElement('div');
+    searchResults.id = 'edit-project-search-results';
+    searchResults.className = 'search-results-dropdown';
+    projectInput.parentNode.appendChild(searchResults);
+
+    projectInput.addEventListener('input', function(e) {
+        const searchTerm = e.target.value.toLowerCase();
+        
+        if (!searchTerm) {
+            searchResults.innerHTML = '';
+            searchResults.classList.remove('active');
+            return;
+        }
+
+        const matchingProjects = Object.entries(window.projects)
+            .filter(([id, project]) => 
+                project.name.toLowerCase().includes(searchTerm) ||
+                id.toLowerCase().includes(searchTerm) ||
+                project.market.toLowerCase().includes(searchTerm)
+            )
+            .slice(0, 5);
+
+        if (matchingProjects.length > 0) {
+            searchResults.innerHTML = matchingProjects
+                .map(([id, project]) => `
+                    <div class="search-result-item" onclick="window.selectEditProject('${id}')">
+                        <div>${project.name}</div>
+                        <div class="project-details">ID: ${id} | Market: ${project.market}</div>
+                    </div>
+                `).join('');
+            searchResults.classList.add('active');
+        } else {
+            searchResults.innerHTML = '<div class="search-result-item">No matching projects found</div>';
+            searchResults.classList.add('active');
+        }
+    });
+
+    document.addEventListener('click', function(e) {
+        if (!projectInput.contains(e.target) && !searchResults.contains(e.target)) {
+            searchResults.classList.remove('active');
+        }
+    });
+}
+
+// Add project selection for edit modal
+window.selectEditProject = function(projectId) {
+    const project = window.projects[projectId];
+    document.getElementById('editProjectId').value = project.name;
+    document.getElementById('editProjectId').dataset.id = projectId;
+    document.getElementById('edit-project-search-results').classList.remove('active');
+};
