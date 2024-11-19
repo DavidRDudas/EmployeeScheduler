@@ -28,20 +28,20 @@
     <script>
         function handleIframeLoad() {
             const frame = document.getElementById('content-frame');
-            // Trigger initialization in the iframe content
+            //trigger initialization in the iframe content
             if (frame.contentWindow.initializePage) {
                 frame.contentWindow.initializePage();
             }
         }
 
         function switchTab(page, event) {
-            // Update active tab
+            //update active tab
             document.querySelectorAll('.tab-button').forEach(btn => {
                 btn.classList.remove('active');
             });
             event.target.classList.add('active');
 
-            // Load content
+            //load content
             const frame = document.getElementById('content-frame');
             frame.onerror = () => {
                 console.error(`Failed to load ${page}.html`);
