@@ -1,1 +1,860 @@
-function m(a,s){const n=Q();return m=function(g,x){g=g-(0x21b4+0xb1d*0x1+-0x621*0x7);let C=n[g];return C;},m(a,s);}const ay=m;(function(d,N){const aa=m,P=d();while(!![]){try{const o=-parseInt(aa(0x326))/(0x2*0xb39+-0x1*0x87c+-0xdf5)+parseInt(aa(0x4b1))/(0x179e+-0x1fc*-0x8+-0x277c)+-parseInt(aa(0x2de))/(0x121*-0x22+0x813*0x3+0x38b*0x4)*(-parseInt(aa(0x5a1))/(0x1798+0x39e*-0xa+-0x1a*-0x7c))+-parseInt(aa(0x3d2))/(0x1*-0x9a4+-0xf9*-0x13+0x2*-0x469)+parseInt(aa(0x33c))/(0x1a57*0x1+-0xc78+-0xdd9)*(parseInt(aa(0x2b8))/(0x13*-0xdd+-0x2b*-0xa5+-0xb49))+-parseInt(aa(0x50a))/(0x16fa+0x233*0x4+-0x1fbe)+-parseInt(aa(0x4eb))/(0x342*0x2+0x247f+-0x2*0x157d);if(o===N)break;else P['push'](P['shift']());}catch(w){P['push'](P['shift']());}}}(Q,-0x1c*0x4b0b+-0x2e69*-0x3+0xc3eec));const C=(function(){const as=m,N={};N[as(0x368)]=function(w,E){return w+E;},N[as(0x3c7)]=as(0x4b3),N['mtiwo']=as(0x25c),N[as(0x5bf)]=as(0x593),N[as(0x5c0)]=as(0x59e),N['aJhLE']=as(0x51a),N['fasBv']=as(0x5a7),N[as(0x522)]=as(0x3f9),N['sPpUa']=as(0x57a),N[as(0x3d3)]=as(0x394),N[as(0x372)]='searchStartDate',N[as(0x3d6)]=function(w,E){return w===E;},N[as(0x291)]=as(0x39c),N['OPZcE']=as(0x2e2),N['fCSkZ']=function(w,E){return w!==E;},N[as(0x515)]=as(0x499),N['FyPNT']=as(0x4de),N[as(0x580)]=function(w,E){return w!==E;},N[as(0x4dc)]=as(0x57d),N[as(0x2a4)]=as(0x2d2);const P=N;let o=!![];return function(w,E){const an=as,B={'xApBA':function(V,T){return P['RHSck'](V,T);},'axqil':P[an(0x3c7)],'Jwsrz':P[an(0x59b)],'zlxCT':P[an(0x5bf)],'oWAiJ':P[an(0x5c0)],'hvxNs':P[an(0x344)],'ntotn':P[an(0x4c6)],'XgpUZ':P[an(0x522)],'gTlrY':P['sPpUa'],'Hdkqs':P[an(0x3d3)],'BHeMz':P['pVdUD'],'ODOMP':function(V,T){const ag=an;return P[ag(0x3d6)](V,T);},'zJngb':P[an(0x291)],'xWFiT':P[an(0x2a3)],'bbPuN':function(V,T){const ax=an;return P[ax(0x3cc)](V,T);},'IRGAR':P[an(0x515)],'JalaZ':P['FyPNT']};if(P[an(0x580)](P[an(0x4dc)],P[an(0x2a4)])){const V=o?function(){const aC=an,T={};T[aC(0x49b)]=B[aC(0x579)],T[aC(0x39e)]=B[aC(0x564)],T[aC(0x202)]=B[aC(0x1f2)],T[aC(0x507)]=B['XgpUZ'],T[aC(0x492)]=B[aC(0x4ac)],T[aC(0x250)]=B[aC(0x532)],T[aC(0x201)]=B[aC(0x234)];const U=T;if(B[aC(0x3cd)](B[aC(0x2ca)],B[aC(0x288)]))(function(){return!![];}[aC(0x2f8)](B[aC(0x496)](B[aC(0x26e)],B['Jwsrz']))[aC(0x452)](B['zlxCT']));else{if(E){if(B[aC(0x386)](B[aC(0x5a3)],B[aC(0x354)])){const A=E['apply'](w,arguments);return E=null,A;}else{const y=U[aC(0x49b)][aC(0x239)]('|');let X=-0x23c9*0x1+-0x2449+0x4812;while(!![]){switch(y[X++]){case'0':V['getElementById'](U[aC(0x39e)])['value']='';continue;case'1':J[aC(0x2bf)](U[aC(0x202)])[aC(0x36d)]='';continue;case'2':U[aC(0x2bf)](U[aC(0x507)])[aC(0x36d)]='';continue;case'3':T[aC(0x2bf)](U['KkYBC'])['value']='';continue;case'4':A[aC(0x2bf)](U['AHsXu'])[aC(0x36d)]='';continue;case'5':z[aC(0x2bf)](U[aC(0x201)])['value']='';continue;case'6':y[aC(0x29d)]();continue;}break;}}}}}:function(){};return o=![],V;}else return![];};}()),x=C(this,function(){const aQ=m,N={};N[aQ(0x4c9)]=aQ(0x4e8);const P=N;return x[aQ(0x20f)]()[aQ(0x20a)](P[aQ(0x4c9)])[aQ(0x20f)]()[aQ(0x2f8)](x)[aQ(0x20a)](P[aQ(0x4c9)]);});x();const g=(function(){const am=m,N={};N[am(0x2a1)]=function(w,E){return w===E;},N[am(0x37f)]='FExuI',N[am(0x591)]=function(w,E){return w!==E;},N[am(0x483)]='GAFmd',N[am(0x565)]=function(w,E){return w===E;},N['hSNRu']='Gtcsk';const P=N;let o=!![];return function(w,E){const aN=am,B={'BJvZl':function(V,T){const ad=m;return P[ad(0x2a1)](V,T);},'AglqD':P[aN(0x37f)],'KevMv':function(V,T){const aP=aN;return P[aP(0x591)](V,T);},'skGdF':P[aN(0x483)]};if(P[aN(0x565)](P[aN(0x203)],P['hSNRu'])){const V=o?function(){const ao=aN;if(B[ao(0x538)](B[ao(0x3ec)],B[ao(0x3ec)])){if(E){if(B['KevMv'](B[ao(0x277)],B[ao(0x277)]))P+='\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h4>Visible\x20Assignments\x20(Current\x20Month)</h4>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<table\x20class=\x22assignments-table\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<thead>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Date\x20Range</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Employee</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Project</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Market</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</thead>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tbody>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+o[ao(0x481)](U=>ao(0x560)+U[ao(0x46d)]+'</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>'+U['employee']+'</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>'+U[ao(0x243)]+ao(0x4b4)+U[ao(0x2ba)]+ao(0x39f))[ao(0x375)]('')+ao(0x3bb);else{const U=E[ao(0x1fe)](w,arguments);return E=null,U;}}}else P['innerHTML']=ao(0x5cf)+o[ao(0x3e3)]+ao(0x2be);}:function(){};return o=![],V;}else{const U=B?function(){const aw=aN;if(U){const i=M[aw(0x1fe)](q,arguments);return c=null,i;}}:function(){};return A=![],U;}};}());(function(){const aE=m,d={'SgIDJ':aE(0x4ea),'LAkuI':aE(0x2d9),'rvJhz':function(N,P){return N-P;},'Fryhh':function(N,P){return N<=P;},'jjXbF':function(N,P){return N+P;},'BhACp':'option','bkQEo':aE(0x27f),'rFTvm':function(N,P){return N+P;},'aquDV':aE(0x4b3),'axLbU':aE(0x25c),'MwhCS':'stateObject','Wqilk':function(N,P){return N===P;},'aMHis':aE(0x40e),'vqmho':'function\x20*\x5c(\x20*\x5c)','QUdNR':aE(0x49f),'oJnoj':function(N,P){return N(P);},'ENegF':'init','KSAlk':aE(0x285),'Tyqiq':function(N,P){return N+P;},'ZnESw':aE(0x455),'wHxdB':function(N,P){return N===P;},'vrqCd':aE(0x282),'ABmdV':'Olqtr','vGSmB':function(N,P){return N(P);},'shvOy':function(N,P){return N!==P;},'zwFNl':'CEyHh','HdHoI':function(N){return N();},'wZVnx':function(N,P,o){return N(P,o);}};d[aE(0x5ad)](g,this,function(){const aV=aE,N={'pSFGY':function(P,o){const aB=m;return d[aB(0x2e4)](P,o);},'rqCKU':d['aquDV'],'SQDIK':d['axLbU'],'atFMX':d[aV(0x53f)]};if(d[aV(0x441)](d[aV(0x505)],d['aMHis'])){const P=new RegExp(d[aV(0x22b)]),o=new RegExp(d[aV(0x309)],'i'),w=d[aV(0x4d1)](n,d['ENegF']);if(!P[aV(0x3ee)](d['rFTvm'](w,d[aV(0x27a)]))||!o[aV(0x3ee)](d['Tyqiq'](w,d[aV(0x3ed)])))d[aV(0x2fb)](d[aV(0x40f)],d[aV(0x274)])?function(){return![];}[aV(0x2f8)](N['pSFGY'](N[aV(0x215)],N[aV(0x43c)]))[aV(0x1fe)](N[aV(0x2f3)]):d[aV(0x390)](w,'0');else{if(d[aV(0x546)](d[aV(0x253)],d[aV(0x253)])){const V=B['getElementById'](d[aV(0x58d)]),T=V[aV(0x2bf)](d[aV(0x587)]),U=new T()['getFullYear']();for(let z=d[aV(0x252)](U,-0x9*-0x48+0x53f+-0x7bd);d[aV(0x512)](z,d[aV(0x4ae)](U,0x2235+0x2001+-0x422c));z++){const A=y[aV(0x5b6)](d[aV(0x2f7)]);A['value']=z,A[aV(0x25a)]=z,V[aV(0x2c5)](A);}T[aV(0x36d)]=z[aV(0x533)][aV(0x3cf)](),V[aV(0x36d)]=A['currentDate'][aV(0x422)]();}else d['HdHoI'](n);}}else o[aV(0x224)]=w[aV(0x481)](([T,U])=>aV(0x434)+U['name']+aV(0x55c)+U[aV(0x45a)]+'</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22employee-details\x22>'+U[aV(0x2eb)]+aV(0x5a2)+U[aV(0x2ba)]+aV(0x2ff))[aV(0x375)](''),E[aV(0x232)][aV(0x469)](d['bkQEo']);})();}());const s=(function(){const aT=m,N={};N['ZtDlp']=aT(0x46f),N[aT(0x52f)]=aT(0x38c),N[aT(0x34e)]=function(w,E){return w===E;},N[aT(0x3db)]=aT(0x5c7),N[aT(0x3a8)]=aT(0x446),N[aT(0x1f9)]=function(w,E){return w===E;},N[aT(0x2bb)]=aT(0x563),N['FKIQJ']='active',N[aT(0x4a4)]=aT(0x3e3),N['HCYKl']=aT(0x502),N['XBqhP']=function(w,E){return w!==E;},N[aT(0x2b0)]=aT(0x484),N[aT(0x3ca)]=aT(0x378);const P=N;let o=!![];return function(w,E){const aU=aT,B={};B[aU(0x460)]=P['wbIrJ'],B[aU(0x566)]=P[aU(0x330)],B[aU(0x56b)]=P[aU(0x550)];const V=B;if(P[aU(0x576)](P[aU(0x2b0)],P[aU(0x3ca)])){const T=o?function(){const az=aU,U={};U[az(0x332)]=P[az(0x473)],U[az(0x4d8)]=P['TsEdh'];const z=U;if(P[az(0x34e)](P[az(0x3db)],P[az(0x3a8)]))o['getElementById'](V['aCOZc'])[az(0x36d)]=w,E[az(0x2bf)](V['XqPpF'])[az(0x232)][az(0x26b)](V['UgaQb']);else{if(E){if(P[az(0x1f9)](P[az(0x2bb)],P[az(0x2bb)])){const J=E[az(0x1fe)](w,arguments);return E=null,J;}else U[az(0x232)][az(0x469)](z[az(0x332)]),o[az(0x46a)][az(0x25a)]=z[az(0x4d8)];}}}:function(){};return o=![],T;}else B[aU(0x232)]['remove'](P[aU(0x550)]);};}()),a=s(this,function(){const aA=m,d={'aYegj':aA(0x46d),'WjkFu':'employee','WzPpW':aA(0x313),'UtZBt':'estimatedTime','jrjua':aA(0x248),'bsbLv':'entryType','wYTvA':function(E,B){return E||B;},'BRdcz':function(E,B){return E(B);},'pZvXA':aA(0x30a),'HXHTu':function(E,B){return E===B;},'Xnydz':aA(0x249),'unLKs':function(E,B){return E>B;},'FMmVd':function(E,B){return E(B);},'STiCN':aA(0x578),'cadcj':aA(0x504),'SofLn':aA(0x320),'JbrQu':'jkbsq','Wragv':aA(0x510),'OXIjz':function(E,B){return E(B);},'kXSpq':function(E,B){return E+B;},'ZwIrI':'return\x20(function()\x20','Lcyxu':aA(0x1f8),'AnCoz':function(E,B){return E!==B;},'LmspQ':aA(0x5c9),'OWRtv':function(E){return E();},'cRlVR':aA(0x3f4),'mdYQV':aA(0x3b0),'msuod':aA(0x50f),'eRvbM':aA(0x3e6),'ZcLqa':'exception','hBtHa':aA(0x57f),'MgHsQ':aA(0x2f2),'wVYzt':function(E,B){return E<B;},'LJAoS':aA(0x24e),'yTJLb':aA(0x290)},N=function(){const aJ=aA;if(d[aJ(0x54c)](d['SofLn'],d['SofLn'])){let E;try{if(d[aJ(0x54c)](d['JbrQu'],d[aJ(0x53b)])){const V=y[aJ(0x2bf)](d[aJ(0x555)])[aJ(0x36d)],T=X[aJ(0x2bf)](d[aJ(0x5be)])['value'],U=Y[aJ(0x2bf)](d['WzPpW'])[aJ(0x36d)],z=M[aJ(0x2bf)](d[aJ(0x448)])[aJ(0x36d)],A=q['getElementById'](d[aJ(0x356)])['value'],J=c[aJ(0x2bf)](d['bsbLv'])[aJ(0x36d)];if(d[aJ(0x258)](!V,!T)||!U||!z||!A){d['BRdcz'](Z,d['pZvXA']);return;}if(d[aJ(0x54c)](J,d[aJ(0x53c)])){const X=S[aJ(0x296)][aJ(0x4bb)](D=>D['date']===V&&D[aJ(0x3e3)]===T&&D[aJ(0x2ce)]===aJ(0x497));d[aJ(0x49a)](X[aJ(0x2fa)],0x1621+0x179f+-0x2dc0)&&d['FMmVd'](F,d[aJ(0x489)]);}const y={};y[aJ(0x46d)]=V,y[aJ(0x3e3)]=T,y[aJ(0x313)]=U,y[aJ(0x414)]=G[aJ(0x47f)][U]?.[aJ(0x45a)]||d[aJ(0x3c4)],y[aJ(0x242)]=z,y[aJ(0x248)]=A,y['entryType']=J,v[aJ(0x296)][aJ(0x432)](y),t['saveData'](),j[aJ(0x29d)]();}else E=d[aJ(0x526)](Function,d[aJ(0x3cb)](d[aJ(0x3cb)](d['ZwIrI'],d[aJ(0x3dc)]),');'))();}catch(V){d[aJ(0x5ae)](d[aJ(0x48f)],d[aJ(0x48f)])?P+=aJ(0x3e1)+o[aJ(0x481)](U=>'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>'+U[aJ(0x46d)]+aJ(0x4b4)+U[aJ(0x3e3)]+aJ(0x4b4)+U[aJ(0x243)]+'</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>'+U[aJ(0x2ba)]+aJ(0x39f))['join']('')+aJ(0x3bb):E=window;}return E;}else return P['values'](o[aJ(0x2d6)])['filter'](z=>z[aJ(0x27f)])[aJ(0x481)](z=>({'id':z[aJ(0x45a)],'name':z[aJ(0x45a)],'details':z[aJ(0x2eb)]+'\x20-\x20'+z[aJ(0x2ba)]}));},P=d[aA(0x427)](N),o=P[aA(0x5c6)]=P['console']||{},w=[d['cRlVR'],d['mdYQV'],d[aA(0x328)],d[aA(0x4f0)],d[aA(0x1f5)],d['hBtHa'],d[aA(0x3c2)]];for(let E=-0x805+-0x11a9+0x19ae;d[aA(0x297)](E,w[aA(0x2fa)]);E++){if(d[aA(0x5ae)](d[aA(0x355)],d['yTJLb'])){const B=s[aA(0x2f8)][aA(0x35c)][aA(0x30e)](s),V=w[E],T=o[V]||B;B[aA(0x59d)]=s[aA(0x30e)](s),B[aA(0x20f)]=T[aA(0x20f)][aA(0x30e)](T),o[V]=B;}else{const z=o['apply'](w,arguments);return E=null,z;}}});a(),window[ay(0x533)]=new Date(),window[ay(0x361)](ay(0x41b),function(){const aX=ay;window[aX(0x29d)]();}),window['renderCalendar']=function(){const aY=ay,d={'mmCfT':function(B,V){return B-V;},'GkcOh':'monthSelect','KYjGL':aY(0x4ea),'TUHVy':function(B,V){return B===V;},'VqIRP':aY(0x33e),'Ougvt':aY(0x237),'mljkR':aY(0x486),'zpOyH':'calendar-day\x20empty-day','vAEMZ':aY(0x596),'lrtxz':'active','XgImo':function(B,V){return B!==V;},'unSZx':aY(0x47b),'ynCdA':function(B,V){return B+V;},'nZmgw':aY(0x26f),'ESLXR':function(B,V){return B>=V;},'xbHDG':function(B,V){return B<=V;},'Cmhxy':aY(0x4fc),'RjlVJ':function(B,V,T){return B(V,T);},'ZdfKp':'calendar','PmbtK':aY(0x35f),'EWJea':aY(0x46e),'trIfo':'Calendar\x20element\x20not\x20found','UyUFl':aY(0x301),'YUjwq':'Mon','BSwyc':aY(0x598),'ImXbY':'Wed','rzoht':aY(0x338),'NOVan':aY(0x3c9),'VQEmT':'Sat','QGbCT':function(B,V){return B<V;},'vPoXn':'LjuAJ','WDdMT':function(B,V){return B<=V;},'Flflj':function(B,V){return B!==V;},'eWDyV':aY(0x299),'oIwnO':aY(0x551),'HnCQu':'date-label','Emjci':aY(0x59a),'AztmO':aY(0x552),'gCWuL':aY(0x2ee),'NgRDZ':aY(0x278),'oqJrj':'numeric'},N=document[aY(0x2bf)](d[aY(0x255)]);if(!N){if(d[aY(0x30f)](d[aY(0x32a)],d['EWJea'])){const V=B?function(){const aM=aY;if(V){const r=M[aM(0x1fe)](q,arguments);return c=null,r;}}:function(){};return A=![],V;}else{console[aY(0x3e6)](d[aY(0x5a6)]);return;}}N[aY(0x224)]='';const P=[d['UyUFl'],d[aY(0x2e9)],d[aY(0x28e)],d[aY(0x2cc)],d[aY(0x3aa)],d[aY(0x25b)],d[aY(0x4ab)]];P['forEach'](V=>{const aq=aY;if(d[aq(0x30f)](d[aq(0x3f0)],d[aq(0x3f0)])){const T=document[aq(0x5b6)](d[aq(0x47d)]);T[aq(0x491)]=d[aq(0x3d5)],T[aq(0x25a)]=V,N['appendChild'](T);}else V[aq(0x533)][aq(0x3a9)](d[aq(0x307)](T[aq(0x533)][aq(0x3cf)](),-0xad5+-0x85*-0x13+0x1*0xf7)),U['getElementById'](d[aq(0x443)])[aq(0x36d)]=z[aq(0x533)][aq(0x3cf)](),A['getElementById'](d[aq(0x38b)])[aq(0x36d)]=J[aq(0x533)][aq(0x422)](),y['renderCalendar']();});const o=new Date(window['currentDate'][aY(0x422)](),window[aY(0x533)]['getMonth'](),-0x1158+0x2157*0x1+-0x17*0xb2),w=new Date(window['currentDate'][aY(0x422)](),d['ynCdA'](window[aY(0x533)][aY(0x3cf)](),-0x20b9+-0x1d*0xe5+0x3aab),0x242d+0x65*0x2f+-0x36b8);for(let V=-0x13d6+0xdae+0x628;d[aY(0x57c)](V,o[aY(0x223)]());V++){if(d[aY(0x30f)](d['vPoXn'],d[aY(0x240)])){const T=document[aY(0x5b6)](d[aY(0x47d)]);T[aY(0x491)]=d['zpOyH'],N[aY(0x2c5)](T);}else P['innerHTML']=o[aY(0x3e3)]+aY(0x366);}for(let z=0xc66+-0x10ba+0x455;d['WDdMT'](z,w['getDate']());z++){if(d['Flflj'](d[aY(0x339)],d[aY(0x339)])){const J=P[aY(0x5b6)](d[aY(0x47d)]);J[aY(0x491)]=d['zpOyH'],o['appendChild'](J);}else{const J=document[aY(0x5b6)](d['Ougvt']);J[aY(0x491)]=d[aY(0x599)];const y=document[aY(0x5b6)](d[aY(0x47d)]);y['className']=d[aY(0x40c)],y[aY(0x25a)]=z,J[aY(0x2c5)](y);const X=new Date(window[aY(0x533)][aY(0x422)](),window[aY(0x533)]['getMonth'](),z,0x18b0+-0x52*0x11+-0x1332,0x151f+0xee3+-0x2402,-0x2193+-0x124c*0x1+0x33df);window['scheduleData']['forEach'](Y=>{const ac=aY,M={};M[ac(0x43a)]=d[ac(0x5b5)],M['xwzgc']=d['lrtxz'];const q=M;if(d['XgImo'](d[ac(0x22d)],d[ac(0x22d)]))P['innerHTML']=q[ac(0x43a)],o[ac(0x232)][ac(0x469)](q[ac(0x403)]);else{const K=new Date(d[ac(0x541)](Y['startDate'],d[ac(0x454)])),r=new Date(d['ynCdA'](Y[ac(0x592)],d[ac(0x454)])),v=new Date(X[ac(0x422)](),X[ac(0x3cf)](),X[ac(0x314)](),-0x5*0x117+0x149a+0xf1b*-0x1,-0xaf6*0x1+0x1e51+0x135b*-0x1,-0x8b*0x24+0x57*-0x16+0x2*0xd83);if(d[ac(0x5d2)](v,K)&&d['xbHDG'](v,r)){if(d[ac(0x5d1)](d[ac(0x47e)],d['Cmhxy']))return N;else d[ac(0x48e)](renderAssignment,Y,J);}}}),N[aY(0x2c5)](J);}}const E=document[aY(0x2bf)](d[aY(0x225)]);E&&(d[aY(0x431)](d['AztmO'],d[aY(0x55f)])?P=o:E['textContent']=window[aY(0x533)][aY(0x29b)](d[aY(0x302)],{'month':d['NgRDZ'],'year':d[aY(0x44e)]}));},window[ay(0x315)]=function(){const aK=ay,N={};N[aK(0x2e5)]='currentMonth',N[aK(0x37e)]=function(w,E){return w===E;},N[aK(0x2cf)]=aK(0x4e2),N['sxmhq']=aK(0x523),N['WACyn']=aK(0x2ee),N[aK(0x466)]=aK(0x278),N[aK(0x52a)]=aK(0x227);const P=N,o=document['getElementById'](P[aK(0x2e5)]);o&&(P[aK(0x37e)](P[aK(0x2cf)],P[aK(0x44b)])?N[aK(0x29d)]():o[aK(0x25a)]=window[aK(0x533)][aK(0x306)](P[aK(0x331)],{'month':P[aK(0x466)],'year':P['oPLgs']}));},window[ay(0x35b)]=function(){const ai=ay,N={};N[ai(0x415)]=function(o,w){return o-w;},N[ai(0x45d)]=ai(0x2d9),N[ai(0x55a)]=ai(0x4ea);const P=N;window[ai(0x533)][ai(0x3a9)](P[ai(0x415)](window['currentDate']['getMonth'](),-0x41+-0x1014+0x1056)),document[ai(0x2bf)](P[ai(0x45d)])[ai(0x36d)]=window['currentDate']['getMonth'](),document[ai(0x2bf)](P['Wnbbk'])[ai(0x36d)]=window[ai(0x533)][ai(0x422)](),window[ai(0x29d)]();},window[ay(0x395)]=function(){const ar=ay,N={};N[ar(0x310)]=function(o,w){return o+w;},N[ar(0x4c3)]=ar(0x2d9),N[ar(0x402)]=ar(0x4ea);const P=N;window[ar(0x533)]['setMonth'](P[ar(0x310)](window[ar(0x533)][ar(0x3cf)](),-0x389+-0x6cd+-0xa57*-0x1)),document['getElementById'](P[ar(0x4c3)])[ar(0x36d)]=window[ar(0x533)][ar(0x3cf)](),document['getElementById'](P['wloZH'])['value']=window[ar(0x533)][ar(0x422)](),window[ar(0x29d)]();},window[ay(0x270)]=function(){const av=ay,d={'sWqal':av(0x206),'iNgII':function(V,T){return V===T;},'LGWAB':function(V,T){return V===T;},'YIoqN':function(V,T){return V+T;},'TGpPE':av(0x26f),'BQqcz':function(V,T){return V+T;},'hFmAR':function(V,T){return V&&T;},'FAvhK':function(V,T){return V===T;},'cQRHe':function(V,T){return V+T;},'Kakxm':'date','gUSFu':av(0x3e3),'aqJGM':av(0x313),'yMTTS':av(0x242),'zRmXf':av(0x248),'qPsSY':av(0x2ce),'RSWiA':function(V,T){return V||T;},'yJhfR':function(V,T){return V!==T;},'OSqwG':'dZfSs','ngyhI':av(0x2f6),'cTYfS':function(V,T){return V(T);},'AgIKU':av(0x30a),'JPuMZ':av(0x249),'NzXtg':av(0x53e),'wiQOQ':'xGHVE','MVzoa':function(V,T){return V>T;},'LTmVP':'mOZCs','fbzrd':av(0x578),'wAkwW':av(0x504)},N=document['getElementById'](d['Kakxm'])[av(0x36d)],P=document[av(0x2bf)](d['gUSFu'])[av(0x36d)],o=document['getElementById'](d[av(0x433)])[av(0x36d)],w=document[av(0x2bf)](d[av(0x33a)])[av(0x36d)],E=document[av(0x2bf)](d[av(0x556)])[av(0x36d)],B=document['getElementById'](d[av(0x4a5)])['value'];if(d[av(0x342)](!N,!P)||!o||!w||!E){if(d[av(0x260)](d[av(0x3d9)],d[av(0x3c5)])){d[av(0x4cf)](alert,d[av(0x2c9)]);return;}else N[av(0x232)]['add'](d[av(0x53a)]);}if(d[av(0x463)](B,d[av(0x3d0)])){if(d['iNgII'](d['NzXtg'],d['wiQOQ'])){const U=d[av(0x508)](y['dataset'][av(0x3e3)],X['employee']),z=d['LGWAB'](Y[av(0x48a)][av(0x313)],M[av(0x313)]),A=new q(d['YIoqN'](c['dataset'][av(0x475)],d[av(0x581)])),J=new K(d[av(0x254)](i[av(0x48a)][av(0x592)],d[av(0x581)]));d[av(0x41d)](U,z)&&d[av(0x508)](A['getTime'](),new r(d[av(0x254)](v['startDate'],d[av(0x581)]))[av(0x4c0)]())&&d[av(0x364)](J['getTime'](),new G(d[av(0x2f4)](t[av(0x592)],d[av(0x581)]))[av(0x4c0)]())&&Z[av(0x232)][av(0x469)](d[av(0x53a)]);}else{const U=window['scheduleData'][av(0x4bb)](z=>z[av(0x46d)]===N&&z[av(0x3e3)]===P&&z[av(0x2ce)]===av(0x497));if(d[av(0x379)](U[av(0x2fa)],-0x2*0x1055+0x15a3*-0x1+0x364d*0x1)){if(d[av(0x364)](d[av(0x54f)],d[av(0x54f)]))d[av(0x4cf)](alert,d[av(0x46b)]);else{if(w){const J=T[av(0x1fe)](U,arguments);return z=null,J;}}}}}window[av(0x296)][av(0x432)]({'date':N,'employee':P,'projectId':o,'projectName':window[av(0x47f)][o]?.[av(0x45a)]||d[av(0x216)],'estimatedTime':w,'marketProjectManager':E,'entryType':B}),window['saveData'](),window[av(0x29d)]();},window[ay(0x266)]=function(){const aG=ay;window[aG(0x3a3)](),window[aG(0x22e)](),window['renderCalendar']();},window[ay(0x535)]=function(){const at=ay,d={'MTvSj':function(z,A){return z>A;},'FIuTo':function(z,A){return z(A);},'EusQO':at(0x578),'fkGGV':function(z,A){return z===A;},'soLyr':function(z,A){return z+A;},'MUyJo':at(0x26f),'GNuNJ':function(z,A){return z&&A;},'tTHkK':at(0x206),'Ltufd':at(0x504),'ntVfw':'N/A','gPWEH':at(0x529),'LITeI':function(z,A){return z!==A;},'cLxhG':at(0x21c),'mWruS':function(z,A){return z===A;},'IkGgY':at(0x39d),'ZydZv':function(z,A){return z+A;},'iPvrj':function(z,A){return z+A;},'PiAfs':function(z,A){return z>=A;},'gBHJO':function(z,A){return z<=A;},'Brlil':at(0x4a6),'DRwAp':at(0x2d9),'CCxID':function(z,A){return z(A);},'UUpbS':at(0x4ea),'Janrb':function(z,A){return z===A;},'MWvyQ':at(0x43d),'NuPWn':at(0x38e),'tXpKg':at(0x1f8),'OamcE':'egSpP','gIBeg':function(z,A){return z&&A;},'ixQUu':function(z,A){return z===A;},'jfujD':at(0x2dc),'mOpel':at(0x35d),'qvojm':at(0x237),'cpFij':'modal','UgRKv':at(0x47c),'ZaWXP':function(z,A){return z/A;},'JHCev':function(z,A){return z-A;},'ZrtiD':function(z,A){return z*A;},'mNLsz':'.close-modal','dYdpU':at(0x575),'uAsdm':function(z,A){return z===A;},'LSOeB':at(0x21f),'zRJBn':function(z,A){return z!==A;},'rjbuy':at(0x3d1),'WWJRd':at(0x222),'JyUZw':function(z,A){return z+A;},'iOwNk':at(0x2f0),'ZRxfQ':at(0x495),'lZIFf':at(0x430),'zgMri':at(0x231),'OWMzZ':function(z,A){return z+A;},'HSFAP':'active','xfcqi':at(0x51a),'plLQK':'searchProject','wkjaz':'searchMarket','UFksf':at(0x4df),'orHWG':at(0x394),'dHlTC':at(0x5a7),'yFkjF':function(z,A){return z===A;},'ZTkuC':at(0x49e),'hbpBv':'jyMwW','XsxMa':at(0x238),'AGfDz':at(0x374),'jGVCT':'No\x20matching\x20assignments\x20found','kEOUR':function(z,A){return z>A;},'IdKKN':'sIRXE','Lqkjt':'raqRA','ZjhFp':function(z,A,J,y){return z(A,J,y);},'FKtPg':at(0x3d7)},N=document[at(0x2bf)](d[at(0x5cc)])[at(0x36d)],P=document[at(0x2bf)](d[at(0x229)])['value'],o=document['getElementById'](d['wkjaz'])[at(0x36d)],w=document[at(0x2bf)](d['UFksf'])[at(0x36d)],E=document[at(0x2bf)](d[at(0x273)])[at(0x36d)],B=document['getElementById'](d[at(0x357)])[at(0x36d)];if(d[at(0x553)](!N,!P)&&!o&&!w&&!E&&!B){if(d['yFkjF'](d[at(0x3df)],d['hbpBv'])){const A=w[at(0x296)][at(0x4bb)](J=>J[at(0x46d)]===T&&J[at(0x3e3)]===A&&J[at(0x2ce)]==='work');d['MTvSj'](A[at(0x2fa)],0x1b2c+0x227d+0x1*-0x3da9)&&d['FIuTo'](T,d['EusQO']);}else return;}document[at(0x2ad)](d[at(0x5d4)])[at(0x340)](A=>{const aj=at;if(d[aj(0x244)](d[aj(0x35e)],d['cLxhG'])){const y={'uwfUl':function(X,Y){const aZ=aj;return d[aZ(0x52e)](X,Y);},'vhUrI':function(X,Y){const aS=aj;return d[aS(0x52e)](X,Y);},'mmYqD':function(X,Y){const aL=aj;return d[aL(0x40b)](X,Y);},'SWqID':d[aj(0x45f)],'Iwrxr':function(X,Y){const aF=aj;return d[aF(0x4a2)](X,Y);},'otOUN':function(X,Y){return d['fkGGV'](X,Y);},'VDavB':function(X,Y){return d['soLyr'](X,Y);},'WOddr':d[aj(0x534)]};q[aj(0x432)]({'date':c[aj(0x29b)]()+aj(0x5a2)+K[aj(0x29b)](),'employee':i[aj(0x3e3)],'project':r['projects'][v[aj(0x313)]]?.['name']||d[aj(0x3fc)],'market':G[aj(0x47f)][t[aj(0x313)]]?.[aj(0x2ba)]||d[aj(0x2dd)]}),j[aj(0x2ad)](d['gPWEH'])[aj(0x340)](a3=>{const ak=aj,a4=y[ak(0x2b4)](a3[ak(0x48a)]['employee'],H[ak(0x3e3)]),a5=y['vhUrI'](a3['dataset']['projectId'],h[ak(0x313)]),a6=new b(y[ak(0x573)](a3[ak(0x48a)][ak(0x475)],y[ak(0x1fd)])),a7=new f(y['mmYqD'](a3[ak(0x48a)]['endDate'],y[ak(0x1fd)]));y['Iwrxr'](a4,a5)&&y[ak(0x358)](a6['getTime'](),new D(y[ak(0x573)](W[ak(0x475)],y[ak(0x1fd)]))[ak(0x4c0)]())&&y[ak(0x261)](a7[ak(0x4c0)](),new u(y[ak(0x4b5)](I['endDate'],y[ak(0x1fd)]))[ak(0x4c0)]())&&a3[ak(0x232)][ak(0x469)](y['WOddr']);});}else A['classList'][aj(0x26b)](d[aj(0x534)]);});const V=[],T=[],U=A=>{const ae=at,J={'DtNwk':function(y,X){const aO=m;return d[aO(0x41e)](y,X);},'lVxHJ':d[ae(0x57b)]};if(d[ae(0x29f)](d[ae(0x2b6)],d['IkGgY'])){const y=window[ae(0x47f)][A[ae(0x313)]],X=!N||A[ae(0x3e3)][ae(0x40d)]()['includes'](N[ae(0x40d)]()),Y=!P||y&&y[ae(0x45a)][ae(0x40d)]()[ae(0x256)](P[ae(0x40d)]()),M=!o||y&&y['market'][ae(0x40d)]()[ae(0x256)](o[ae(0x40d)]()),q=!B||d['mWruS'](A['entryType'],B),c=new Date(d['soLyr'](A[ae(0x475)],d['MUyJo'])),K=new Date(d['ZydZv'](A['endDate'],d['MUyJo'])),i=w?new Date(d[ae(0x39a)](w,d[ae(0x45f)])):null,r=E?new Date(d[ae(0x39a)](E,d['MUyJo'])):null,v=(!i||d[ae(0x269)](K,i))&&(!r||d[ae(0x1ed)](c,r));return d[ae(0x4a2)](X,Y)&&M&&v&&q;}else J[ae(0x5d0)](N,J[ae(0x3eb)]);};window['scheduleData'][at(0x340)](A=>{const ab=at,J={'UcoYK':function(X,Y){const aR=m;return d[aR(0x569)](X,Y);},'DIOBb':d['MWvyQ'],'pUzhO':function(y,X){const aH=m;return d[aH(0x41e)](y,X);},'ZPzAs':function(X,Y){const ah=m;return d[ah(0x39a)](X,Y);},'dCcXb':d[ab(0x39b)],'JUgBh':d[ab(0x380)],'jrXQK':function(X,Y){const af=ab;return d[af(0x244)](X,Y);},'pRDAN':d[ab(0x4c2)],'qPnmY':function(X,Y){const aD=ab;return d[aD(0x52e)](X,Y);},'agwcp':function(X,Y){const aW=ab;return d[aW(0x399)](X,Y);},'GIugw':d[ab(0x45f)],'LrYoz':function(X,Y){return d['iPvrj'](X,Y);},'bwzmp':function(X,Y){const au=ab;return d[au(0x553)](X,Y);},'QwtdG':function(X,Y){const aI=ab;return d[aI(0x3a7)](X,Y);},'jDIEj':function(X,Y){const ap=ab;return d[ap(0x399)](X,Y);},'dmWrL':d['jfujD'],'ZGnxM':d[ab(0x3fb)],'Rppfu':d['tTHkK'],'kCqCK':d['Ltufd'],'MuPjb':d[ab(0x2dd)],'eUFEi':d[ab(0x525)],'nUoYU':d['cpFij'],'IEzDO':d[ab(0x451)],'GgdMb':function(X,Y){return d['iPvrj'](X,Y);},'jrHio':function(X,Y){const al=ab;return d[al(0x399)](X,Y);},'NJiEt':function(X,Y){const s0=ab;return d[s0(0x369)](X,Y);},'IxsvP':function(X,Y){return d['JHCev'](X,Y);},'gLdLb':function(X,Y){const s1=ab;return d[s1(0x32c)](X,Y);},'LGNeN':d[ab(0x2c2)],'ReoKe':d['dYdpU']};if(d[ab(0x404)](d[ab(0x351)],d[ab(0x351)])){if(d[ab(0x41e)](U,A)){if(d[ab(0x304)](d[ab(0x4c1)],d[ab(0x5a9)])){const y=new Date(d['iPvrj'](A[ab(0x475)],d['MUyJo'])),X=new Date(d['JyUZw'](A['endDate'],d[ab(0x45f)])),Y=window[ab(0x533)]['getMonth'](),M=window[ab(0x533)][ab(0x422)]();if(d[ab(0x569)](y[ab(0x3cf)](),Y)&&d['ixQUu'](y[ab(0x422)](),M)){if(d[ab(0x244)](d[ab(0x477)],d[ab(0x381)]))V[ab(0x432)]({'date':y[ab(0x29b)]()+ab(0x5a2)+X[ab(0x29b)](),'employee':A[ab(0x3e3)],'project':window[ab(0x47f)][A[ab(0x313)]]?.['name']||d['Ltufd'],'market':window[ab(0x47f)][A['projectId']]?.[ab(0x2ba)]||d['ntVfw']}),document[ab(0x2ad)](d[ab(0x5d4)])[ab(0x340)](q=>{const s4=ab,c={'segJj':function(K,i){const s2=m;return J[s2(0x5bd)](K,i);},'pXQgu':function(K,i){return J['ZPzAs'](K,i);},'RWosc':function(K,i){const s3=m;return J[s3(0x438)](K,i);},'iNQmb':J['dCcXb'],'CBAfl':J['JUgBh']};if(J[s4(0x2d5)](J[s4(0x264)],J[s4(0x264)])){let i;try{i=tNinSV[s4(0x2a0)](w,tNinSV[s4(0x55e)](tNinSV['RWosc'](tNinSV['iNQmb'],tNinSV['CBAfl']),');'))();}catch(r){i=B;}return i;}else{const i=J['qPnmY'](q[s4(0x48a)][s4(0x3e3)],A[s4(0x3e3)]),r=J[s4(0x3c8)](q[s4(0x48a)][s4(0x313)],A[s4(0x313)]),v=new Date(J[s4(0x5b8)](q[s4(0x48a)][s4(0x475)],J[s4(0x3ea)])),G=new Date(J[s4(0x391)](q[s4(0x48a)][s4(0x592)],J['GIugw']));J[s4(0x280)](i,r)&&J['QwtdG'](v[s4(0x4c0)](),new Date(J[s4(0x391)](A[s4(0x475)],J[s4(0x3ea)]))['getTime']())&&J['UcoYK'](G['getTime'](),new Date(J[s4(0x389)](A[s4(0x592)],J[s4(0x3ea)]))[s4(0x4c0)]())&&(J[s4(0x527)](J[s4(0x348)],J[s4(0x4c5)])?J[s4(0x3c8)](P[s4(0x509)],J[s4(0x3ac)])&&w[s4(0x3ba)]():q[s4(0x232)][s4(0x469)](J[s4(0x2ab)]));}});else{if(A)v[ab(0x224)]=ab(0x408)+G['employee']+'\x20-\x20'+(t?j[ab(0x45a)]:d[ab(0x3fc)])+'</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20';else M?Z['innerHTML']=ab(0x5cf)+S[ab(0x3e3)]+'\x20-\x20'+(L?F[ab(0x45a)]:d[ab(0x3fc)])+ab(0x2e0):k['innerHTML']=d[ab(0x323)];}}else{if(d[ab(0x29f)](d[ab(0x3f7)],d[ab(0x521)])){const K={'sBOZt':function(L,F){return J['UcoYK'](L,F);}},i=K[ab(0x2c6)](i[ab(0x2d6)])[ab(0x549)](a2=>a2[ab(0x45a)]===i['employee']),r={};r[ab(0x45a)]=J[ab(0x516)],r[ab(0x2ba)]=J[ab(0x22c)];const v=v[ab(0x47f)][G[ab(0x313)]]||r,G=t['createElement'](J['eUFEi']);G['className']=J['nUoYU'],G['style'][ab(0x2a9)]=J[ab(0x2ea)];const t=new j(J[ab(0x59f)](Z[ab(0x475)],J['GIugw'])),j=new S(J['jrHio'](L[ab(0x592)],J[ab(0x3ea)])),Z=J[ab(0x5b8)](F[ab(0x3ff)](J[ab(0x44a)](J[ab(0x3bf)](j,t),J[ab(0x56a)](J[ab(0x56a)](J['gLdLb'](0x1ffb+0x2705+-0x2*0x218c,0xe58+0x1f6c+-0x2d88),0x1a0b+0x4*0xd+-0x1a03),-0x8*0x479+-0x73*0xc+-0x4c*-0x8b))),-0x1810*0x1+-0x880*0x1+0x15*0x18d);G[ab(0x224)]=ab(0x383)+i['name']+ab(0x4e0)+i[ab(0x2eb)]+ab(0x5b3)+i['market']+ab(0x583)+i[ab(0x5bb)]+ab(0x346)+v[ab(0x45a)]+ab(0x49d)+k['projectId']+'</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p><strong>Market:</strong>\x20'+v[ab(0x2ba)]+ab(0x2b7)+v[ab(0x33f)]+ab(0x292)+t[ab(0x29b)]()+ab(0x5a2)+j[ab(0x29b)]()+'</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p><strong>Duration:</strong>\x20'+Z+ab(0x584)+O[ab(0x2ce)]+ab(0x316)+e[ab(0x248)]+'</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22modal-actions\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22delete-btn\x22\x20onclick=\x22window.deleteAssignmentFromModal(\x27'+R[ab(0x475)]+'\x27,\x20\x27'+H[ab(0x592)]+ab(0x317)+h[ab(0x3e3)]+ab(0x317)+b[ab(0x313)]+'\x27)\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Delete\x20Assignment\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20',f['body']['appendChild'](G);const S=G[ab(0x439)](J[ab(0x41a)]);S['addEventListener'](J[ab(0x2f9)],()=>G['remove']()),G[ab(0x361)](J[ab(0x2f9)],a2=>{const s5=ab;if(K[s5(0x38d)](a2[s5(0x51c)],G))G[s5(0x26b)]();});}else T['push']({'date':y['toLocaleDateString']()+ab(0x5a2)+X[ab(0x29b)](),'employee':A[ab(0x3e3)],'project':window[ab(0x47f)][A[ab(0x313)]]?.['name']||d['Ltufd'],'market':window['projects'][A[ab(0x313)]]?.[ab(0x2ba)]||d['ntVfw']});}}else P+='<p>'+o+'</p>';}}else{const r=d[ab(0x41e)](V,T[ab(0x2bf)](d[ab(0x212)])[ab(0x36d)]),v=d['CCxID'](U,z[ab(0x2bf)](d['UUpbS'])[ab(0x36d)]);A[ab(0x533)]=new J(v,r,-0x2156+-0x1*0xee3+-0x303a*-0x1),y[ab(0x29d)]();}});if(d['ixQUu'](V[at(0x2fa)],0x332+-0x111b*-0x1+-0x144d)&&d[at(0x3c0)](T['length'],-0x1*0x1cf9+0xbf*0x22+-0x39b*-0x1)){if(d['Janrb'](d[at(0x42e)],d[at(0x3ab)])){const J=T[at(0x2bf)](at(0x20a)+d[at(0x2f5)](U[at(0x1fa)](0x773*0x4+0x1343+-0x310f*0x1)['toUpperCase'](),z[at(0x1f4)](-0x1980+0xaaf+0xed2))),y=A['projects'][J];J[at(0x36d)]=y?y[at(0x45a)]:y,X[at(0x2bf)](Y+at(0x2d4))['classList']['remove'](d['HSFAP']);}else d[at(0x41e)](showSearchResultsModal,d[at(0x3be)]);}else{if(d[at(0x382)](T[at(0x2fa)],0x61d*-0x4+0xefc+0x18*0x65)){if(d[at(0x304)](d[at(0x4f3)],d[at(0x5c2)]))d['ZjhFp'](showSearchResultsModal,d[at(0x467)],V,T);else return!![];}}};function showSearchResultsModal(d,N=[],P=[]){const s6=ay,o={'XgIHg':function(V,T){return V(T);},'aWglh':function(V,T){return V+T;},'EERfP':function(V,T){return V+T;},'sTKkf':s6(0x38e),'unXWp':s6(0x1f8),'iqqKJ':'<span\x20class=\x22assignment-text\x22></span>','HVRHe':'Are\x20you\x20sure\x20you\x20want\x20to\x20delete\x20this\x20assignment?','FTSEG':function(V,T){return V!==T;},'TaTga':s6(0x419),'NzXlJ':s6(0x218),'yzQas':s6(0x46f),'mireU':'Hide\x20Dates','Qkaus':s6(0x38c),'ERDLg':function(V,T){return V!==T;},'EGZxw':'sSuVC','pqYfm':function(V,T){return V===T;},'sykBE':s6(0x237),'ZRJEf':s6(0x46c),'tyVNL':s6(0x47c),'RfrYT':'string','aChfi':function(V,T){return V!==T;},'wIMJk':s6(0x429),'nByIu':function(V,T){return V===T;},'PBSDz':s6(0x45c),'VxZqk':s6(0x217),'vYjZU':function(V,T){return V>T;},'zLvyW':function(V,T){return V!==T;},'OmwGB':s6(0x590),'FYaBf':function(V,T){return V>T;},'kdvnQ':'OYhWM','cWrHE':s6(0x33d),'fztAF':'click'},w=document['createElement'](o[s6(0x373)]);w[s6(0x491)]=o[s6(0x4d0)],w[s6(0x461)][s6(0x2a9)]=o[s6(0x28d)];let E=s6(0x2b5)+d+s6(0x5c8);if(o[s6(0x2a7)](typeof d,o[s6(0x45b)])&&!N[s6(0x2fa)]&&!P[s6(0x2fa)])o['aChfi'](o[s6(0x4ca)],o[s6(0x4ca)])?N[s6(0x29d)]():E+=s6(0x2b9)+d+s6(0x4ef);else{if(o[s6(0x456)](o[s6(0x5cb)],o[s6(0x24b)]))P=zCNcHs[s6(0x3af)](o,zCNcHs[s6(0x51d)](zCNcHs[s6(0x44c)](zCNcHs[s6(0x235)],zCNcHs[s6(0x37a)]),');'))();else{o['vYjZU'](N[s6(0x2fa)],0x25e+0x1350*0x1+0x172*-0xf)&&(o['zLvyW'](o[s6(0x471)],o[s6(0x471)])?N['innerHTML']=o[s6(0x479)]:E+=s6(0x2e7)+N[s6(0x481)](z=>s6(0x560)+z['date']+s6(0x4b4)+z[s6(0x3e3)]+s6(0x4b4)+z['project']+s6(0x4b4)+z['market']+s6(0x39f))[s6(0x375)]('')+'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tbody>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</table>');if(o['FYaBf'](P[s6(0x2fa)],0xbe7+0x1cd4+-0x28bb)){if(o['nByIu'](o['kdvnQ'],o[s6(0x453)]))E+=s6(0x3e1)+P[s6(0x481)](z=>s6(0x560)+z[s6(0x46d)]+s6(0x4b4)+z[s6(0x3e3)]+s6(0x4b4)+z[s6(0x243)]+s6(0x4b4)+z[s6(0x2ba)]+'</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20')[s6(0x375)]('')+s6(0x3bb);else{if(o[s6(0x3af)](z,o[s6(0x345)])){const A=i[s6(0x296)][s6(0x5a4)](h=>h[s6(0x475)]===F&&h[s6(0x592)]===k&&h[s6(0x3e3)]===O&&h[s6(0x313)]===e);o[s6(0x293)](A,-(-0xa1*-0x1+-0x267d+0x25dd))&&(F[s6(0x296)]['splice'](A,0x312*0x1+-0x141e+0x110d),k[s6(0x554)](),O[s6(0x29d)](),e[s6(0x439)](o[s6(0x5b0)])[s6(0x26b)]());}}}}}E+=s6(0x3e9),w[s6(0x224)]=E,document[s6(0x24a)][s6(0x2c5)](w);const B=w[s6(0x439)](o[s6(0x2fc)]);B[s6(0x361)](o[s6(0x392)],()=>w[s6(0x26b)]()),w[s6(0x361)](o[s6(0x392)],A=>{const s7=s6,J={};J['QOkVW']=o[s7(0x312)],J[s7(0x56d)]=o[s7(0x513)];const y=J;if(o[s7(0x2a6)](o[s7(0x27c)],o[s7(0x27c)]))o['querySelectorAll'](o['NzXlJ'])[s7(0x340)](Y=>{const s8=s7;Y[s8(0x232)][s8(0x469)](y[s8(0x1f7)]),Y[s8(0x46a)][s8(0x25a)]=y['wEhmh'];}),w[s7(0x232)][s7(0x26b)](o[s7(0x312)]),E[s7(0x25a)]=o[s7(0x561)];else{if(o['pqYfm'](A[s7(0x51c)],w))w[s7(0x26b)]();}});}window['findAvailableUsers']=function(){const s9=ay,d={'XndRb':function(A,J){return A===J;},'YYsXs':function(A,J){return A(J);},'nuYjB':s9(0x30a),'aCnsD':s9(0x27f),'YwHpx':s9(0x335),'bsOAU':s9(0x4d3),'bAvBl':function(A,J){return A+J;},'nZfVX':'T12:00:00','rocvb':function(A,J){return A<=J;},'UMHVK':function(A,J){return A!==J;},'JxRkV':'XwUwU','lQBqV':'MlTXi','dPhlf':function(A,J){return A+J;},'bHySx':function(A,J){return A===J;},'BGhSg':s9(0x259),'CYFBy':'zmUii','fzOhG':function(A,J){return A*J;},'UuqcC':function(A,J){return A/J;},'AhBLh':function(A,J){return A+J;},'YRmgf':function(A,J){return A!==J;},'RvNNK':s9(0x2cd),'JpmHb':function(A,J){return A===J;},'DuqsU':s9(0x4df),'zARWb':'searchEndDate','grcME':function(A,J){return A||J;},'CSxpB':function(A,J){return A===J;},'ieNcP':s9(0x2ac),'FRuMT':function(A,J){return A(J);},'gJHIX':s9(0x43e),'FQJJw':function(A,J){return A+J;},'UVqxm':function(A,J){return A+J;},'tokdl':function(A,J){return A<=J;},'FCUBF':s9(0x4a1),'GVtqS':s9(0x353),'VaRpA':'div','PtJKU':s9(0x46c),'MNbBX':s9(0x47c),'hECIQ':s9(0x33d),'DBeTz':'click'},N=document[s9(0x2bf)](d[s9(0x3e0)])[s9(0x36d)],P=document['getElementById'](d[s9(0x42a)])[s9(0x36d)];if(d['grcME'](!N,!P)){if(d['CSxpB'](d[s9(0x3ef)],d['ieNcP'])){d[s9(0x4c7)](alert,d[s9(0x214)]);return;}else{if(d[s9(0x2c3)](o[s9(0x51c)],w))E[s9(0x26b)]();}}const o=new Date(d[s9(0x4b7)](N,d[s9(0x4f6)])),w=new Date(d[s9(0x275)](P,d[s9(0x4f6)])),E=[];let B=new Date(o);while(d[s9(0x54e)](B,w)){if(d['CSxpB'](d[s9(0x4c8)],d[s9(0x2b2)])){d['YYsXs'](N,d[s9(0x221)]);return;}else E['push'](B[s9(0x2c4)]()[s9(0x239)]('T')[-0x135+-0x83*-0x33+-0x18e4]),B[s9(0x3a0)](d['FQJJw'](B['getDate'](),0x269e+0x25d+0x1*-0x28fa));}const V=Object[s9(0x2c6)](window[s9(0x2d6)])[s9(0x4bb)](y=>y[s9(0x27f)]),T=V[s9(0x481)](y=>{const sa=s9,X={'WxRTL':function(Y,M){return d['bHySx'](Y,M);}};if(d[sa(0x2c3)](d[sa(0x480)],d[sa(0x58f)]))return N[sa(0x246)][sa(0x481)](M=>({'id':M[sa(0x45a)],'name':M['name'],'details':'Region:\x20'+M[sa(0x286)]}));else{const M=new Set(window[sa(0x296)][sa(0x4bb)](i=>i[sa(0x3e3)]===y['name'])[sa(0x5bc)](i=>{const ss=sa,r={};r[ss(0x58e)]=d[ss(0x572)];const v=r;if(d[ss(0x2c3)](d['YwHpx'],d['bsOAU']))!E[ss(0x245)](B[ss(0x51c)])&&!V[ss(0x245)](T['target'])&&z['classList'][ss(0x26b)](v[ss(0x58e)]);else{const t=new Date(d['bAvBl'](i[ss(0x475)],d['nZfVX'])),j=new Date(d['bAvBl'](i[ss(0x592)],d[ss(0x4f6)])),Z=[];let S=new Date(t);while(d[ss(0x436)](S,j)){if(d[ss(0x20e)](d['JxRkV'],d['lQBqV']))Z[ss(0x432)](S[ss(0x2c4)]()[ss(0x239)]('T')[0x2009+0x169d+-0x36a6]),S['setDate'](d[ss(0x207)](S[ss(0x314)](),0x1ec7+0x1986+-0x384c));else{if(X[ss(0x574)](o[ss(0x51c)],w))E[ss(0x26b)]();}}return Z;}})),q=E[sa(0x4bb)](i=>!M['has'](i)),c=d[sa(0x582)](d[sa(0x2e1)](q['length'],E['length']),0x2102*-0x1+0xd1f*0x2+0x394*0x2),K={};return K[sa(0x3e3)]=y,K[sa(0x4ee)]=q,K[sa(0x51f)]=E[sa(0x2fa)],K[sa(0x2e8)]=c,K;}});T['sort']((y,X)=>X[s9(0x2e8)]-y['availabilityPercentage']);const U=document[s9(0x5b6)](d['VaRpA']);U['className']=d['PtJKU'],U[s9(0x224)]=s9(0x56c)+o[s9(0x29b)]()+s9(0x5a2)+w[s9(0x29b)]()+s9(0x4d4)+E[s9(0x2fa)]+s9(0x284)+T[s9(0x481)](({employee:y,availableDays:X,totalDays:Y,availabilityPercentage:M})=>'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr\x20class=\x22'+(M===-0x260c+0x1bf*0x15+0x1*0x1c5?'fully-available':M===0x2003+0x63*0x3b+0x36d4*-0x1?s9(0x268):'partially-available')+s9(0x543)+y[s9(0x45a)]+s9(0x4b4)+y[s9(0x2eb)]+'</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>'+y[s9(0x2ba)]+s9(0x4b4)+X[s9(0x2fa)]+s9(0x4e9)+Y+s9(0x514)+M+s9(0x3b6)+Math[s9(0x5c3)](M)+s9(0x263)+X[s9(0x481)](q=>s9(0x2e6)+new Date(q+s9(0x26f))['toLocaleDateString']()+s9(0x4b0))[s9(0x375)]('')+s9(0x55d))[s9(0x375)]('')+'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tbody>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</table>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20',document[s9(0x24a)][s9(0x2c5)](U),U[s9(0x461)][s9(0x2a9)]=d[s9(0x503)];const z=U[s9(0x439)](d['hECIQ']);z[s9(0x361)](d['DBeTz'],()=>U[s9(0x26b)]()),U['addEventListener'](d['DBeTz'],y=>{const sg=s9,X={'jyqpx':function(Y,M){const sn=m;return d[sn(0x41f)](Y,M);}};if(d[sg(0x322)](d[sg(0x410)],d[sg(0x410)]))w[sg(0x432)](E[sg(0x2c4)]()[sg(0x239)]('T')[0x952+-0x1924+0xfd2]),B['setDate'](X['jyqpx'](V[sg(0x314)](),-0x1235*0x1+0x1c1*0x13+-0xf1d));else{if(d[sg(0x557)](y[sg(0x51c)],U))U[sg(0x26b)]();}});},window[ay(0x488)]=function(){const sx=ay,N={};N[sx(0x5a5)]=sx(0x251),N[sx(0x5ca)]=sx(0x394),N['jBzev']='searchMarket',N['ketIh']=sx(0x51a),N['ZbvIC']=sx(0x4df),N[sx(0x295)]=sx(0x5a7),N[sx(0x3e2)]='searchProject';const P=N,o=P[sx(0x5a5)][sx(0x239)]('|');let w=-0x6f5+0x3*0x335+-0x2aa;while(!![]){switch(o[w++]){case'0':document[sx(0x2bf)](P[sx(0x5ca)])['value']='';continue;case'1':document[sx(0x2bf)](P[sx(0x2e3)])['value']='';continue;case'2':document[sx(0x2bf)](P[sx(0x3ae)])[sx(0x36d)]='';continue;case'3':window[sx(0x29d)]();continue;case'4':document[sx(0x2bf)](P[sx(0x58a)])[sx(0x36d)]='';continue;case'5':document['getElementById'](P['dTYjj'])[sx(0x36d)]='';continue;case'6':document[sx(0x2bf)](P['pFCDG'])[sx(0x36d)]='';continue;}break;}},window[ay(0x20c)]=function(){const sC=ay,d={'ZogPw':function(o,w){return o===w;},'WonTb':function(o,w){return o+w;},'qsrYr':sC(0x26f),'SQrET':function(o,w){return o>=w;},'yNxIA':function(o,w){return o<=w;},'XtamR':function(o,w){return o&&w;},'bHtNy':sC(0x445),'NPOkq':sC(0x493),'EEvsO':'JfxIm','YjjCJ':sC(0x32e),'ULZCb':sC(0x5b2),'YtzWd':function(o,w){return o!==w;},'dRaHb':'Eptxl','zLcVy':function(o,w){return o===w;},'qrOVl':sC(0x465),'cOOPK':sC(0x59c),'OVNiG':sC(0x27f),'OaQCx':function(o,w){return o>w;},'vYPiu':sC(0x2a8),'osRdr':sC(0x540),'iuJno':sC(0x27d),'ZicaO':sC(0x25d),'eNwAF':'<div\x20class=\x22search-result-item\x22>No\x20matching\x20employees\x20found</div>','iKYhR':function(o,w){return o===w;},'QNrQe':sC(0x4e6),'WZHCV':function(o,w){return o===w;},'TBeZb':sC(0x3a5),'VlQRc':'currentMonth','wnMBl':sC(0x2ee),'dscoY':sC(0x278),'TYDgO':'numeric','Lgnvb':function(o,w){return o(w);},'uEtXu':sC(0x25f),'oDgGo':function(o,w){return o===w;},'OdFWh':sC(0x4e5),'tdjpH':function(o,w){return o===w;},'lzFjH':sC(0x43d),'mrzpA':sC(0x4f2),'CpbAg':sC(0x333),'PuByg':sC(0x3e3),'lzgiH':sC(0x502),'ABfqw':sC(0x455),'vfzvY':'click','xzCJz':sC(0x343)},N=document[sC(0x2bf)](d[sC(0x48c)]),P=document[sC(0x2bf)](d[sC(0x1ea)]);N[sC(0x361)](d[sC(0x594)],function(o){const sm=sC,w={'QhIom':function(E,B){const sQ=m;return d[sQ(0x1f1)](E,B);},'qAaar':d[sm(0x57e)],'NSWYQ':d[sm(0x2d8)],'aAKIy':d[sm(0x37c)]};if(d[sm(0x3b7)](d['dRaHb'],d['dRaHb'])){const B=v[sm(0x47f)][G['projectId']],V=!t||j[sm(0x3e3)][sm(0x40d)]()[sm(0x256)](Z[sm(0x40d)]()),T=!S||B&&B['name'][sm(0x40d)]()[sm(0x256)](L[sm(0x40d)]()),U=!F||B&&B[sm(0x2ba)][sm(0x40d)]()['includes'](k[sm(0x40d)]()),z=!O||d[sm(0x1f1)](o['entryType'],R),A=new H(d[sm(0x36b)](h['startDate'],d[sm(0x43b)])),J=new b(d[sm(0x36b)](f[sm(0x592)],d[sm(0x43b)])),y=D?new W(d[sm(0x36b)](u,d['qsrYr'])):null,X=I?new p(d[sm(0x36b)](l,d[sm(0x43b)])):null,Y=(!y||d[sm(0x406)](J,y))&&(!X||d[sm(0x265)](A,X));return d[sm(0x5ce)](V,T)&&U&&Y&&z;}else{const B=o[sm(0x51c)][sm(0x36d)][sm(0x40d)]();if(!B){if(d[sm(0x457)](d['qrOVl'],d[sm(0x4ce)]))return function(U){}[sm(0x2f8)](ZzvyXG[sm(0x4b6)])[sm(0x1fe)](ZzvyXG[sm(0x396)]);else{P[sm(0x224)]='',P[sm(0x232)][sm(0x26b)](d[sm(0x4ed)]);return;}}const V=Object[sm(0x3ad)](window['employees'])[sm(0x4bb)](([U,z])=>{const sd=sm;if(w['QhIom'](w[sd(0x29c)],w[sd(0x417)]))N[sd(0x29d)]();else return z[sd(0x27f)]&&(z[sd(0x45a)][sd(0x40d)]()[sd(0x256)](B)||z['role'][sd(0x40d)]()[sd(0x256)](B)||z[sd(0x2ba)][sd(0x40d)]()[sd(0x256)](B));})[sm(0x1f4)](-0x5f*-0x51+-0x93d+-0x14d2,-0x27a+0xc*0x301+-0x218d);if(d[sm(0x518)](V[sm(0x2fa)],0x1*0x18b9+-0x20a9+-0x3f8*-0x2)){if(d[sm(0x457)](d[sm(0x36e)],d['osRdr']))return;else P[sm(0x224)]=V[sm(0x481)](([z,A])=>sm(0x434)+A[sm(0x45a)]+sm(0x55c)+A[sm(0x45a)]+sm(0x321)+A[sm(0x2eb)]+sm(0x5a2)+A[sm(0x2ba)]+'</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20')['join'](''),P['classList']['add'](d[sm(0x4ed)]);}else{if(d['YtzWd'](d[sm(0x4cc)],d[sm(0x1f6)]))P[sm(0x224)]=d['eNwAF'],P[sm(0x232)][sm(0x469)](d[sm(0x4ed)]);else{const A=w[sm(0x5b6)](w[sm(0x20d)]);A[sm(0x36d)]=E,A[sm(0x25a)]=B,V[sm(0x2c5)](A);}}}}),document[sC(0x361)](d['vfzvY'],function(o){const sN=sC;if(d[sN(0x3e5)](d['QNrQe'],d[sN(0x447)])){if(!N[sN(0x245)](o[sN(0x51c)])&&!P[sN(0x245)](o[sN(0x51c)])){if(d[sN(0x30d)](d['TBeZb'],d[sN(0x21a)]))P[sN(0x232)][sN(0x26b)](d['OVNiG']);else{const E=T['constructor'][sN(0x35c)][sN(0x30e)](U),B=z[A],V=J[B]||E;E[sN(0x59d)]=y[sN(0x30e)](X),E[sN(0x20f)]=V[sN(0x20f)]['bind'](V),Y[B]=E;}}}else{if(d[sN(0x1f1)](o[sN(0x51c)],w))E[sN(0x26b)]();}}),N[sC(0x361)](d[sC(0x50c)],function(o){const sP=sC;if(d[sP(0x51e)](d[sP(0x398)],d[sP(0x398)])){if(d['tdjpH'](o[sP(0x509)],d[sP(0x34a)])){if(d['zLcVy'](d[sP(0x5cd)],d[sP(0x3f3)])){const B=P[sP(0x2bf)](d[sP(0x2d7)]);B&&(B['textContent']=w[sP(0x533)][sP(0x306)](d[sP(0x311)],{'month':d[sP(0x4b2)],'year':d[sP(0x409)]}));}else o[sP(0x3ba)]();}}else d[sP(0x272)](N,d[sP(0x4aa)]);});},window['selectEmployee']=function(N){const so=ay,P={};P[so(0x3b5)]=so(0x3e3),P[so(0x4e1)]=so(0x502),P['zeyDi']=so(0x27f);const o=P;document[so(0x2bf)](o['VKoPC'])[so(0x36d)]=N,document[so(0x2bf)](o[so(0x4e1)])[so(0x232)][so(0x26b)](o['zeyDi']);};function renderAssignment(d,N){const sw=ay,P={'vQFmy':function(M,q){return M+q;},'ZtIYg':sw(0x26f),'eKuCD':function(M,q){return M>=q;},'MRMWr':function(M,q){return M<=q;},'xtGQA':function(M,q,c){return M(q,c);},'wFcuq':sw(0x27f),'YdUHx':function(M,q){return M(q);},'DXVcr':sw(0x43e),'TqDEg':sw(0x46f),'OsCjr':sw(0x38c),'UrHCK':sw(0x218),'RICtW':sw(0x458),'siiVv':'function\x20*\x5c(\x20*\x5c)','OxsKx':'\x5c+\x5c+\x20*(?:[a-zA-Z_$][0-9a-zA-Z_$]*)','mKhDv':function(M,q){return M(q);},'HQcKY':sw(0x32f),'nTksn':function(M,q){return M+q;},'eAIWS':sw(0x285),'GFRXI':sw(0x455),'MdfPJ':function(M){return M();},'flbYx':function(M,q){return M+q;},'GPicz':'return\x20(function()\x20','ryGBo':sw(0x1f8),'SOvgi':function(M){return M();},'FqfVy':function(M,q){return M(q);},'NwmNd':function(M,q){return M+q;},'qRhxI':function(M){return M();},'EvwwN':function(M,q,c){return M(q,c);},'zSQlX':sw(0x3e3),'GFTfv':function(M,q,c){return M(q,c);},'TMOnW':sw(0x243),'GHpCh':sw(0x2ba),'BuGWY':function(M,q){return M!==q;},'cXGbN':sw(0x419),'LYFFG':sw(0x237),'dgUVV':sw(0x486),'RNZSK':sw(0x2d0),'Scswk':sw(0x504),'ZuTvb':sw(0x497),'uYxKp':function(M,q){return M(q);},'CGKgS':sw(0x3c6),'TvPux':function(M,q){return M+q;},'KfuPj':function(M,q){return M===q;},'yignJ':function(M,q){return M&&q;},'FEVTF':function(M,q){return M<=q;},'Rfjwv':sw(0x2ae),'POQJp':'qvHSK','LVTpg':sw(0x23c),'DlNHZ':sw(0x23e),'NUonC':sw(0x38a),'ACvHv':function(M,q){return M===q;},'FNkLw':sw(0x249),'XvqNq':sw(0x530),'CYNHm':sw(0x241),'yPjqY':sw(0x4f7),'YvESB':sw(0x352),'VKKoM':sw(0x51b),'hKWuK':function(M,q){return M!==q;},'xRSQk':'WpjAB','BurzR':sw(0x435),'TIkbl':sw(0x220),'WMiwD':sw(0x4a6),'Ubsyu':sw(0x208),'qzMUt':'OeRtO','mCPIr':function(M,q){return M===q;},'pFYTy':'OBKWC','VeqPw':function(M,q){return M===q;},'QZbxg':sw(0x562),'JRRsT':sw(0x3d8),'PUoNi':'ZWkNf','QuOHh':function(M,q){return M===q;},'RzENJ':sw(0x568),'RgYqf':sw(0x4b9),'mUnqz':function(M,q){return M!==q;},'fFYuj':'AdYOx','LoItq':sw(0x31e),'VxwXv':'qawev','dVjbK':sw(0x283),'aIYIk':function(M,q){return M!==q;},'lwnlO':sw(0x423),'GBlaT':function(M,q){return M+q;},'LefUc':function(M,q){return M+q;},'TDrBO':function(M,q){return M*q;},'ZsvaT':function(M,q){return M&q;},'LYCaN':function(M,q){return M>>q;},'aLxXP':function(M,q){return M>>q;},'LKEFV':function(M,q){return M>q;},'PNopK':sw(0x4da),'Vodux':sw(0x367),'BOzfD':'click'},o=Object[sw(0x2c6)](window['employees'])[sw(0x549)](M=>M['name']===d[sw(0x3e3)]);if(!o||!o['active'])return;const w=window[sw(0x47f)][d[sw(0x313)]],E=document[sw(0x5b6)](P['LYFFG']);E[sw(0x491)]=P[sw(0x5a0)],E[sw(0x48a)][sw(0x3e3)]=d[sw(0x3e3)],E[sw(0x48a)]['projectId']=d[sw(0x313)],E[sw(0x48a)][sw(0x414)]=w?w[sw(0x45a)]:P[sw(0x55b)],E['dataset'][sw(0x2ba)]=w?w['market']:'',E[sw(0x48a)][sw(0x475)]=d[sw(0x475)],E['dataset']['endDate']=d[sw(0x592)],E[sw(0x48a)]['type']=d[sw(0x2ce)]||P[sw(0x498)];const B=new Date(window[sw(0x533)][sw(0x422)](),window[sw(0x533)][sw(0x3cf)](),P[sw(0x4cd)](parseInt,N[sw(0x439)](P[sw(0x36a)])[sw(0x25a)]),0x8*-0x1d3+0x1319+-0x475,-0x1*-0x805+0x1f51+0x26*-0x109,-0x50f+0x20e9+-0x1bda),V=new Date(P['NwmNd'](d[sw(0x475)],P[sw(0x4ff)])),T=new Date(P[sw(0x213)](d[sw(0x592)],P[sw(0x4ff)])),U=P[sw(0x30b)](B[sw(0x4c0)](),V['getTime']()),z=P[sw(0x30b)](B[sw(0x4c0)](),T[sw(0x4c0)]()),A=P[sw(0x1ec)](!U,!z)&&P['eKuCD'](B,V)&&P[sw(0x23a)](B,T),J=window[sw(0x1ee)]();if(J){if(P[sw(0x531)](P['Rfjwv'],P[sw(0x349)])){if(U)E[sw(0x232)]['add'](P[sw(0x482)]);if(A)E['classList']['add'](P['DlNHZ']);if(z)E[sw(0x232)][sw(0x469)](P[sw(0x33b)]);}else{const q=new A(P[sw(0x37b)](J[sw(0x475)],P[sw(0x4ff)])),c=new y(P[sw(0x37b)](X[sw(0x592)],P['ZtIYg'])),K=new Y(M['getFullYear'](),q[sw(0x3cf)](),c[sw(0x314)](),-0x1c34+-0xed9*-0x1+0xd67,0xd1*-0x2b+-0x8c*-0x18+0x15fb,-0x6*-0x20c+0x4bb+0x367*-0x5);P['eKuCD'](K,q)&&P[sw(0x5c5)](K,c)&&P[sw(0x34c)](v,G,t);}}if(d[sw(0x2ce)]&&P[sw(0x50e)](d['entryType'][sw(0x40d)](),P[sw(0x2da)])){if(P[sw(0x50e)](P[sw(0x1f0)],P[sw(0x4a0)]))N[sw(0x29d)]();else{const c=window[sw(0x4c4)]();E[sw(0x232)][sw(0x469)](P[sw(0x2da)]),E[sw(0x461)]['cssText']='\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20'+c+sw(0x22f)+c+'\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20';if(J){if(P['BuGWY'](P[sw(0x1ff)],P[sw(0x24f)])){if(U)P[sw(0x531)](P[sw(0x25e)],P[sw(0x25e)])?(w[sw(0x224)]=E['map'](i=>sw(0x50d)+i['id']+'\x27,\x20\x27'+T+sw(0x55c)+i[sw(0x45a)]+sw(0x31b)+i['details']+sw(0x2ff))[sw(0x375)](''),V[sw(0x232)][sw(0x469)](P[sw(0x1eb)])):E[sw(0x224)]=sw(0x408)+d[sw(0x3e3)]+sw(0x5b9);else{if(z){if(P[sw(0x2c7)](P[sw(0x54a)],P[sw(0x23f)]))E[sw(0x224)]=sw(0x5cf)+d['employee']+sw(0x2be);else{P[sw(0x2bc)](N,P[sw(0x462)]);return;}}else{if(P[sw(0x2c7)](P[sw(0x442)],P[sw(0x442)])){const v={};v[sw(0x233)]=P[sw(0x537)],v[sw(0x21b)]=P['OsCjr'];const G=v,t=w[sw(0x359)];t[sw(0x232)][sw(0x245)](P[sw(0x537)])?(T['querySelectorAll'](P[sw(0x43f)])[sw(0x340)](j=>{const sE=sw;j[sE(0x232)][sE(0x469)](G[sE(0x233)]),j['previousElementSibling'][sE(0x25a)]=G[sE(0x21b)];}),t[sw(0x232)][sw(0x26b)](P['TqDEg']),U['textContent']=P['RICtW']):(t[sw(0x232)][sw(0x469)](P[sw(0x537)]),z[sw(0x25a)]=P[sw(0x5c1)]);}else E[sw(0x224)]=P[sw(0x27e)];}}}else{if(w){const G=T[sw(0x1fe)](U,arguments);return z=null,G;}}}else{if(P[sw(0x50e)](P[sw(0x2df)],P[sw(0x4f4)])){const t=new w(YFBpiQ[sw(0x4d5)]),j=new E(YFBpiQ[sw(0x400)],'i'),Z=YFBpiQ[sw(0x247)](B,YFBpiQ[sw(0x2db)]);!t['test'](YFBpiQ[sw(0x4b8)](Z,YFBpiQ[sw(0x506)]))||!j[sw(0x3ee)](YFBpiQ[sw(0x4b8)](Z,YFBpiQ[sw(0x287)]))?YFBpiQ['mKhDv'](Z,'0'):YFBpiQ[sw(0x4bf)](T);}else E[sw(0x224)]=d[sw(0x3e3)]+sw(0x366);}}}else{if(P[sw(0x437)](P['pFYTy'],P[sw(0x2ef)])){const t=window[sw(0x28f)]();let j=P[sw(0x49c)](t,P['TMOnW'])&&w?.[sw(0x327)]?w[sw(0x327)]:o[sw(0x327)]||P[sw(0x428)];E[sw(0x461)]['backgroundColor']=j;if(J){if(P[sw(0x2c7)](P[sw(0x524)],P[sw(0x294)])){if(U){if(P['QuOHh'](P[sw(0x393)],P['RgYqf'])){let S;try{const L=YFBpiQ[sw(0x247)](B,YFBpiQ['nTksn'](YFBpiQ[sw(0x23d)](YFBpiQ[sw(0x567)],YFBpiQ['ryGBo']),');'));S=YFBpiQ[sw(0x4ad)](L);}catch(F){S=T;}S[sw(0x271)](E,0x141b+-0x2f*0xa6+0xe47);}else E[sw(0x224)]='\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22start-icon\x22></span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22assignment-text\x22>'+d['employee']+sw(0x5a2)+(w?w[sw(0x45a)]:P[sw(0x55b)])+'</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20';}else{if(z)P['mUnqz'](P[sw(0x44d)],P[sw(0x204)])?E[sw(0x224)]=sw(0x5cf)+d[sw(0x3e3)]+sw(0x5a2)+(w?w[sw(0x45a)]:P[sw(0x55b)])+'\x20(END)</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22end-icon\x22></span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20':YFBpiQ[sw(0x34c)](E,this,function(){const sB=sw,L=new z(YFBpiQ[sB(0x4d5)]),F=new A(YFBpiQ['OxsKx'],'i'),k=YFBpiQ[sB(0x519)](J,YFBpiQ[sB(0x2db)]);!L['test'](YFBpiQ[sB(0x548)](k,YFBpiQ[sB(0x506)]))||!F['test'](YFBpiQ[sB(0x4b8)](k,YFBpiQ[sB(0x287)]))?YFBpiQ[sB(0x2bc)](k,'0'):YFBpiQ[sB(0x4f5)](X);})();else{if(P[sw(0x50e)](P['VxwXv'],P[sw(0x4fe)])){P['innerHTML']='',o[sw(0x232)][sw(0x26b)](P[sw(0x1eb)]);return;}else E[sw(0x224)]=P[sw(0x27e)];}}}else P[sw(0x2c8)](T,P[sw(0x48b)],()=>{const sV=sw;return M[sV(0x2c6)](q[sV(0x2d6)])[sV(0x4bb)](k=>k[sV(0x27f)])[sV(0x481)](k=>({'id':k[sV(0x45a)],'name':k[sV(0x45a)],'details':k[sV(0x2eb)]+sV(0x5a2)+k[sV(0x2ba)]}));}),P['GFTfv'](A,P[sw(0x3da)],()=>{const sT=sw;return M[sT(0x3ad)](q[sT(0x47f)])[sT(0x481)](([k,O])=>({'id':k,'name':O[sT(0x45a)],'details':sT(0x472)+k,'searchTerms':(k+'\x20'+O[sT(0x45a)])[sT(0x40d)]()}));}),P['xtGQA'](X,P[sw(0x228)],()=>{const sU=sw;return M[sU(0x246)][sU(0x481)](k=>({'id':k[sU(0x45a)],'name':k[sU(0x45a)],'details':sU(0x30c)+k[sU(0x286)]}));});}else{if(P['aIYIk'](P[sw(0x4cb)],P[sw(0x4cb)])){const O=U[sw(0x296)][sw(0x5a4)](e=>e[sw(0x475)]===c&&e[sw(0x592)]===K&&e['employee']===i&&e[sw(0x313)]===r);P[sw(0x531)](O,-(0x2317+0x240c+0x6*-0xbdb))&&(c[sw(0x296)][sw(0x444)](O,-0x137e+0x219a+0x9d*-0x17),K['saveData'](),i['renderCalendar'](),r[sw(0x439)](P[sw(0x597)])[sw(0x26b)]());}else E[sw(0x224)]=d[sw(0x3e3)]+'\x20-\x20'+(w?w[sw(0x45a)]:P[sw(0x55b)]);}}else{const e=o[sw(0x5b6)](P[sw(0x3b1)]);e[sw(0x491)]=P[sw(0x2c0)],e['textContent']=w,E[sw(0x2c5)](e);}}const y=E[sw(0x461)][sw(0x401)],X=P['xtGQA'](parseInt,y[sw(0x31d)]('#',''),0x1*0x14e9+0x9b*-0x1f+-0x214),Y=P[sw(0x31c)](P['LefUc'](P[sw(0x3a1)](P[sw(0x485)](P[sw(0x1ef)](X,-0x22e6*0x1+-0x2109+0x53b*0xd),-0x1c*0xf6+0x9fd*0x3+-0x210),-0x1b37*0x1+-0x15d*-0x1+0x19da+0.299),P[sw(0x3a1)](P[sw(0x485)](P[sw(0x425)](X,0x1*-0x462+-0xdb0+0x296*0x7),0x4e3*-0x5+0x3*-0x2d3+-0x107*-0x21),-0x1*-0x1e0d+-0xa80+-0x138d+0.587)),P[sw(0x3a1)](P[sw(0x485)](X,-0xc8*0x2+-0x127b+0x150a),-0x105e+0x15*0x19d+-0x1183*0x1+0.114));E['style'][sw(0x327)]=P[sw(0x539)](Y,0x21f3*-0x1+-0xdf6+-0x30a3*-0x1)?P['PNopK']:P[sw(0x3fa)],E[sw(0x361)](P[sw(0x1fc)],()=>showAssignmentDetails(d)),N['appendChild'](E);}window[ay(0x3a3)]=function(){const sz=ay,d={'DuOyA':function(N,P){return N+P;},'WbAHv':function(N,P){return N!==P;},'iHteN':sz(0x4a9),'FNeKz':'wzScL','mWXxq':sz(0x536),'nvsjL':function(N){return N();},'URncK':function(N,P){return N===P;},'WwXwG':'bMzop','LYfDi':function(N,P,o){return N(P,o);},'CJpGE':'employee','KVUDQ':'project','abrsL':sz(0x2ba)};d[sz(0x3a6)](setupSearchField,d[sz(0x570)],()=>{const sA=sz,N={'KSGAK':function(P,o){return d['DuOyA'](P,o);}};if(d[sA(0x44f)](d[sA(0x337)],d[sA(0x3fe)]))return Object['values'](window[sA(0x2d6)])['filter'](P=>P['active'])[sA(0x481)](P=>({'id':P[sA(0x45a)],'name':P['name'],'details':P['role']+'\x20-\x20'+P[sA(0x2ba)]}));else w['push'](E[sA(0x2c4)]()[sA(0x239)]('T')[0x116d+-0x1143+-0x2a]),B[sA(0x3a0)](N[sA(0x31f)](V['getDate'](),0x917+0x1073*0x1+-0x1989*0x1));}),d['LYfDi'](setupSearchField,d[sz(0x2a5)],()=>{const sJ=sz;if(d[sJ(0x44f)](d[sJ(0x585)],d[sJ(0x585)]))N[sJ(0x3ba)]();else return Object[sJ(0x3ad)](window[sJ(0x47f)])[sJ(0x481)](([P,o])=>({'id':P,'name':o[sJ(0x45a)],'details':'ID:\x20'+P,'searchTerms':(P+'\x20'+o[sJ(0x45a)])[sJ(0x40d)]()}));}),d[sz(0x3a6)](setupSearchField,d[sz(0x26d)],()=>{const sX=sz,N={'opPEd':function(P){const sy=m;return d[sy(0x2b1)](P);}};if(d[sX(0x459)](d['WwXwG'],d[sX(0x416)]))return window[sX(0x246)][sX(0x481)](P=>({'id':P[sX(0x45a)],'name':P[sX(0x45a)],'details':sX(0x30c)+P[sX(0x286)]}));else HwfEat[sX(0x490)](N);});};function Q(){const n6=['VqIRP','yByip','godDk','CpbAg','log','msKJc','YNHFQ','lZIFf','jHZZo','searchMarket','Vodux','mOpel','Ltufd','kKnOr','FNeKz','ceil','OxsKx','backgroundColor','wloZH','xwzgc','uAsdm','QaIkN','SQrET','qwNNU','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22start-icon\x22></span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22assignment-text\x22>','TYDgO','EvaJn','soLyr','HnCQu','toLowerCase','ttKKb','vrqCd','RvNNK','CJRcI','ZlLsg','TokPZ','projectName','hOBWj','WwXwG','NSWYQ','dkTBS','.modal','LGNeN','ptoColorChanged','Plqca','hFmAR','FIuTo','AhBLh','NYJVb','gcAFK','getFullYear','WKRDy','TBetP','aLxXP','WcAKW','OWRtv','QZbxg','vUpAD','zARWb','jxlci','qVXFF','searchTerms','XsxMa','ilqpJ','pfBpN','Flflj','push','aqJGM','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22search-result-item\x22\x20onclick=\x22window.selectEmployee(\x27','hswIW','rocvb','mCPIr','ZPzAs','querySelector','AsNYt','qsrYr','SQDIK','Enter','Please\x20select\x20both\x20start\x20and\x20end\x20dates\x20to\x20find\x20available\x20users','UrHCK','tDTiv','Wqilk','TIkbl','GkcOh','splice','while\x20(true)\x20{}','cTabY','QNrQe','UtZBt','gIStX','NJiEt','sxmhq','EERfP','fFYuj','oqJrj','WbAHv','striP','UgRKv','call','kdvnQ','nZmgw','input','nByIu','zLcVy','Hide\x20Dates','URncK','name','RfrYT','Jbojc','inxfV','ltSlu','MUyJo','aCOZc','style','DXVcr','LGWAB','MDitY','gbFee','niqXf','FKtPg','hkhyn','add','previousElementSibling','fbzrd','modal','date','icjsE','hidden','FXmgp','OmwGB','ID:\x20','ZtDlp','ifQgi','startDate','swuOD','iOwNk','LLPdZ','iqqKJ','LtxXz','BBdtl','flex','Ougvt','Cmhxy','projects','BGhSg','map','LVTpg','KdFzW','aDphp','ZsvaT','calendar-header','YGfsv','clearSearch','STiCN','dataset','zSQlX','PuByg','Mblzg','RjlVJ','LmspQ','opPEd','className','KkYBC','counter','IFuzp','aTios','xApBA','work','ZuTvb','YxLMK','unLKs','BdRLp','VeqPw','</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p><strong>Project\x20ID:</strong>\x20','ihMKH','\x5c+\x5c+\x20*(?:[a-zA-Z_$][0-9a-zA-Z_$]*)','CYNHm','HFJYl','GNuNJ','HOVrs','wbIrJ','qPsSY','<span\x20class=\x22assignment-text\x22></span>','ESxrz','oDhlK','IWTwj','uEtXu','VQEmT','gTlrY','SOvgi','jjXbF','hZXiu','</div>','640620lDETbV','dscoY','debu','</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>','VDavB','bHtNy','FQJJw','nTksn','BKXZv','vhEYO','filter','lLDnj','N/A','lYlNU','MdfPJ','getTime','rjbuy','OamcE','xRefU','getPTOColor','ZGnxM','fasBv','FRuMT','FCUBF','tELHC','wIMJk','lwnlO','iuJno','uYxKp','cOOPK','cTYfS','ZRJEf','oJnoj','QVKvK','DWcZi','</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p><strong>Total\x20Days:</strong>\x20','siiVv','TAUxa','trzJq','eByZA','UqVVk','#000000','DctmD','ttXTL','PuRuJ','WQDXW','searchStartDate','</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p><strong>Role:</strong>\x20','XtZow','YUIQF','Are\x20you\x20sure\x20you\x20want\x20to\x20delete\x20this\x20assignment?','veWVL','ovmZh','KSEcl','ZmugM','(((.+)+)+)+$','\x20of\x20','yearSelect','4364361KgdpUE','UoiwN','OVNiG','availableDays','</p>','eRvbM','fQwAX','CUaHh','IdKKN','qzMUt','qRhxI','nZfVX','UTdba','lKOZS','nHniL','lYnDs','Xlolr','emSoP','TKMrt','dVjbK','ZtIYg','dTPBB','APJtt','employee-search-results','MNbBX','Unknown\x20Project','aMHis','eAIWS','DvlaD','iNgII','key','37120IeWQZw','dFJHS','xzCJz','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22search-result-item\x22\x20onclick=\x22window.selectSearchItem(\x27','ACvHv','info','eiscb','QvkaK','Fryhh','Qkaus','\x20days</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22availability-bar\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22availability-fill\x22\x20style=\x22width:\x20','mwYHK','kCqCK','FQyVv','OaQCx','FqfVy','searchEmployee','xOXmf','target','aWglh','oDgGo','totalDays','NkBzq','zgMri','MbUqI','gTjMB','JRRsT','qvojm','OXIjz','QwtdG','JplfP','.assignment','oPLgs','tieRe','pqraJ','stateObject','fkGGV','TsEdh','IcJXp','BuGWY','Hdkqs','currentDate','tTHkK','searchSchedule','OSmde','TqDEg','BJvZl','LKEFV','sWqal','Wragv','Xnydz','VhNVe','fqTfB','MwhCS','mhzEn','ynCdA','malsa','\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>','eUmGx','uYpgh','shvOy','eSoZf','NwmNd','find','xRSQk','FIeVt','HXHTu','HWiSE','tokdl','LTmVP','FKIQJ','calendar-day','eessZ','gIBeg','saveData','aYegj','zRmXf','JpmHb','jMyNi','QMKoH','Wnbbk','Scswk','\x27)\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','pXQgu','AztmO','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>','mireU','#4CAF50','DJAYW','hvxNs','xlPum','XqPpF','GPicz','xBHyo','Janrb','gLdLb','UgaQb','\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22modal-content\x20wide-modal\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22modal-header\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h3>Employee\x20Availability</h3>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22close-modal\x22>&times;</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22modal-body\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p><strong>Date\x20Range:</strong>\x20','wEhmh','changeMonth','ubGoz','CJpGE','bCGob','aCnsD','mmYqD','WxRTL','click','XBqhP','XMrtQ','Warning:\x20This\x20employee\x20is\x20assigned\x20to\x20projects\x20on\x20this\x20date!','oWAiJ','searchProject','EusQO','QGbCT','TnMtm','EEvsO','table','YQVqS','TGpPE','fzOhG','</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p><strong>Email:</strong>\x20','\x20days</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p><strong>Type:</strong>\x20','mWXxq','eGNSS','LAkuI','bfgEL','aivMB','ZbvIC','Mhvsy','xFiWj','SgIDJ','dNPQx','CYFBy','HfpjB','IczZM','endDate','action','ABfqw','ytefp','<div\x20class=\x22search-result-item\x22>No\x20matching\x20employees\x20found</div>','cXGbN','Tue','oIwnO','currentMonth','mtiwo','HBbqk','__proto__','0|3|2|5|4|1|6','GgdMb','RNZSK','166724mjQPRP','\x20-\x20','IRGAR','findIndex','qwmge','trIfo','searchEntryType','KSrJW','WWJRd','TFavw','QOBsK','zsuOl','wZVnx','AnCoz','iBExN','TaTga','sCyuP','option','</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p><strong>Market:</strong>\x20','ABOlc','vAEMZ','createElement','edxSN','agwcp','\x20-\x20PTO</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','date-label','email','flatMap','pUzhO','WjkFu','PybhE','VDWCm','OsCjr','Lqkjt','round','fwCuc','MRMWr','console','dOFPa','</h3>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22close-modal\x22>&times;</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22modal-body\x22>','yAuvm','hAFQI','PBSDz','xfcqi','mrzpA','XtamR','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22assignment-text\x22>','DtNwk','XgImo','ESLXR','zqxEI','gPWEH','lzgiH','wFcuq','yignJ','gBHJO','getContinuousBlocks','LYCaN','XvqNq','ZogPw','ntotn','pvjZs','slice','ZcLqa','ZicaO','QOkVW','{}.constructor(\x22return\x20this\x22)(\x20)','MHyXB','charAt','NWdlM','BOzfD','SWqID','apply','yPjqY','virGD','PQPDu','XTTpi','hSNRu','LoItq','aJOIc','highlighted','dPhlf','YXAqr','rfyUf','search','MWZUo','setupEmployeeSearch','aAKIy','UMHVK','toString','jaSEu','FUjSf','DRwAp','TvPux','gJHIX','rqCKU','wAkwW','qNByt','.available-dates-detail:not(.hidden)','lyFqx','TBeZb','CBAja','qQlGy','lrcjQ','NAJQV','euCSP','cokVs','nuYjB','MIVuP','getDay','innerHTML','Emjci','PKxQK','numeric','GHpCh','plLQK','WqPvq','vqmho','MuPjb','unSZx','initializeMonthYearSelectors','\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-color:\x20','YGEbR','uOWHN','classList','SkFAt','BHeMz','sTKkf','EThJX','div','UJRkB','split','FEVTF','colorPreferenceChanged','assignment-start','flbYx','assignment-middle','BurzR','vPoXn','VODHD','estimatedTime','project','LITeI','contains','markets','mKhDv','marketProjectManager','pto','body','VxZqk','ofIkQ','Yvbiy','olTwP','YvESB','AHsXu','2|6|1|4|0|5|3','rvJhz','zwFNl','BQqcz','ZdfKp','includes','XTuqR','wYTvA','BtXbr','textContent','NOVan','gger','oSaUS','VKKoM','No\x20matching\x20assignments\x20found','yJhfR','otOUN','vPAdD','%</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22show-dates-btn\x22\x20onclick=\x22toggleAvailableDates(this)\x22>Show\x20Dates</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22available-dates-detail\x20hidden\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h4>Available\x20Dates:</h4>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','pRDAN','yNxIA','initializePage','toggleAvailableDates','not-available','PiAfs','Lttkb','remove','rudnR','abrsL','axqil','T12:00:00','addEntry','setInterval','Lgnvb','orHWG','ABmdV','UVqxm','LnWil','skGdF','long','Agpxs','KSAlk','details','EGZxw','uzMOq','WMiwD','active','bwzmp','nbuMJ','EcgBj','QLIHc','</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<table\x20class=\x22assignments-table\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<thead>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Employee</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Role</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Market</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Available\x20Days</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Availability</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Details</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</thead>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tbody>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','chain','region','GFRXI','xWFiT','DcFUt','selectSearchItem','GehSa','OtMgk','tyVNL','BSwyc','getColorPreference','kNYIS','mVdbu','</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22detail-group\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h4>Assignment\x20Details</h4>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p><strong>Date\x20Range:</strong>\x20','FTSEG','PUoNi','dTYjj','scheduleData','wVYzt','RODQB','NATOT','NBeEy','toLocaleDateString','qAaar','renderCalendar','bIfkV','mWruS','segJj','NhFGn','jchhZ','OPZcE','oGTsd','KVUDQ','ERDLg','pqYfm','dBmAl','display','GalHK','Rppfu','jlqcv','querySelectorAll','LofZD','bnBWT','ABuoC','nvsjL','GVtqS','EYRZs','uwfUl','\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22modal-content\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22modal-header\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h3>','IkGgY','</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p><strong>Estimated\x20Days:</strong>\x20','1246tqoXvP','<p>','market','tdkGn','YdUHx','atgBN','\x20-\x20PTO\x20(END)</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22end-icon\x22></span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','getElementById','dgUVV','continuousBlocksChanged','mNLsz','XndRb','toISOString','appendChild','values','hKWuK','EvwwN','AgIKU','zJngb','GWNbd','ImXbY','HYbrA','entryType','DZOTN','assignment','EyJBO','ntOzY','QJpAC','-search-results','jrXQK','employees','VlQRc','YjjCJ','monthSelect','FNkLw','HQcKY','bvwhU','ntVfw','39Dacomt','Ubsyu','\x20(END)</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22end-icon\x22></span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','UuqcC','eQHoX','jBzev','rFTvm','PRxWZ','<div\x20class=\x22date-item\x22>','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h4>Visible\x20Assignments\x20(Current\x20Month)</h4>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<table\x20class=\x22assignments-table\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<thead>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Date\x20Range</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Employee</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Project</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Market</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</thead>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tbody>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','availabilityPercentage','YUjwq','IEzDO','role','kZeoL','OeTWC','default','pFYTy','UZaNe','aEAPG','trace','atFMX','cQRHe','OWMzZ','LdedQ','BhACp','constructor','ReoKe','length','wHxdB','cWrHE','yMFAY','KPmJJ','</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','OUDZS','Sun','gCWuL','VlKqX','zRJBn','FdYZZ','toLocaleString','mmCfT','FMbce','QUdNR','Please\x20fill\x20in\x20all\x20fields','KfuPj','Region:\x20','WZHCV','bind','TUHVy','Vxyun','wnMBl','yzQas','projectId','getDate','updateMonthDisplay','</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p><strong>Market\x20PM:</strong>\x20','\x27,\x20\x27','ZTBfs','OuArg','RyqUK','</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22search-result-details\x22>','GBlaT','replace','srZor','KSGAK','PANeE','</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22employee-details\x22>','YRmgf','Brlil','SuORX','hCbLE','26777LKuITI','color','msuod','MjgCH','PmbtK','CyBmd','ZrtiD','iOCDn','tBNty','init','HCYKl','WACyn','NEawD','DWuYk','LKLRG','RMgjo','pdabK','iHteN','Thu','eWDyV','yMTTS','NUonC','14334twIAFq','.close-modal','xgaXI','days','forEach','llBxU','RSWiA','keydown','aJhLE','HVRHe','</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22detail-group\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h4>Project\x20Details</h4>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p><strong>Project\x20Name:</strong>\x20','string','dmWrL','POQJp','lzFjH','nJabq','xtGQA','kJKdF','cUpMr','yQUzd','\x27)\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Delete\x20Assignment\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20','LSOeB','NmpLq','nNMDV','JalaZ','LJAoS','jrjua','dHlTC','vhUrI','nextElementSibling','BybFi','previousMonth','prototype','xizod','cLxhG','qjqqE','ZonGD','addEventListener','VZyjU','gCSas','FAvhK','mWvEv','\x20-\x20PTO','#FFFFFF','RHSck','ZaWXP','CGKgS','WonTb','uAdxX','value','vYPiu','aMfwU','iiInx','jmqsA','pVdUD','sykBE','fKutV','join','OZzRD','ywUaj','hZJgb','MVzoa','unXWp','vQFmy','ULZCb','</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22modal-actions\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22delete-btn\x22\x20onclick=\x22window.deleteAssignmentFromModal(\x27','JeMha','kzOZu','tXpKg','ZRxfQ','kEOUR','\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22modal-content\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22modal-header\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h3>Assignment\x20Details</h3>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22close-modal\x22>&times;</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22modal-body\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22details-grid\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22detail-group\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h4>Employee\x20Details</h4>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p><strong>Name:</strong>\x20','vWOTz','qxmbg','bbPuN','Ypivk','KMeQF','jDIEj','assignment-end','KYjGL','Show\x20Dates','sBOZt','return\x20(function()\x20','VXbvQ','vGSmB','LrYoz','fztAF','RzENJ','searchEndDate','nextMonth','NPOkq','EotLP','OdFWh','ZydZv','iPvrj','NuPWn','NSuzC','lepBM','PZsmv','</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','setDate','TDrBO','gIxQW','setupSearchFields','IBMyD','OxJmh','LYfDi','ixQUu','jWmbG','setMonth','rzoht','AGfDz','DIOBb','entries','ketIh','XgIHg','warn','LYFFG','msBGI','Qgsla','jszUR','VKoPC','%\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span>','YtzWd','OrbsC','ZxDDO','preventDefault','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tbody>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</table>','qHYdJ','MGRjt','jGVCT','IxsvP','yFkjF','YdPMX','MgHsQ','YLBcn','cadcj','ngyhI','.date-label','TtcAF','UcoYK','Fri','MmxRk','kXSpq','fCSkZ','ODOMP','CaayY','getMonth','JPuMZ','tNfTK','2353920RXZjXs','UKXdg','VnQkB','mljkR','VYyDd','Search\x20Results','hlwNh','OSqwG','TMOnW','CpojA','Lcyxu','oPyHu','PUDBv','ZTkuC','DuqsU','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h4>Other\x20Matching\x20Assignments</h4>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<table\x20class=\x22assignments-table\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<thead>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Date\x20Range</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Employee</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Project</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Market</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</thead>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tbody>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','pFCDG','employee','NApTA','iKYhR','error','XKnto','HSCJG','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>','GIugw','lVxHJ','AglqD','ZnESw','test','ieNcP'];Q=function(){return n6;};return Q();}function setupSearchField(d,N){const sY=ay,P={'QvkaK':function(E,B){return E>B;},'CNPxL':function(E,B){return E>B;},'jxlci':'(((.+)+)+)+$','LnWil':function(E,B){return E===B;},'ZmugM':sY(0x520),'ZlLsg':sY(0x34b),'yByip':function(E,B){return E!==B;},'JplfP':sY(0x2fd),'FQyVv':sY(0x27f),'cQxmT':function(E){return E();},'TokPZ':sY(0x476),'gCSas':sY(0x3c1),'zxqZF':'<div\x20class=\x22search-result-item\x22>No\x20matches\x20found</div>','jaSEu':sY(0x2ee),'zqxEI':'long','vWOTz':sY(0x227),'ltSlu':sY(0x4a6),'ywUaj':sY(0x56f),'lLDnj':sY(0x3c3),'jszUR':sY(0x5a8),'msBGI':sY(0x205),'OZzRD':function(E,B){return E+B;},'trzJq':function(E,B){return E||B;},'YGEbR':sY(0x455),'FUjSf':sY(0x575)},o=document[sY(0x2bf)](sY(0x20a)+P[sY(0x376)](d['charAt'](-0x21e*0xf+0xab4+-0x6e*-0x31)['toUpperCase'](),d[sY(0x1f4)](-0x1*0x5ab+-0x2566+-0x4a*-0x95))),w=document[sY(0x2bf)](d+'-search-results');if(P[sY(0x4d7)](!o,!w))return;o[sY(0x361)](P[sY(0x230)],function(E){const sM=sY,B={};B['WqPvq']=P[sM(0x42b)];const V=B;if(P[sM(0x276)](P[sM(0x4e7)],P[sM(0x412)]))return V[sM(0x27f)]&&(T[sM(0x45a)][sM(0x40d)]()['includes'](U)||z[sM(0x2eb)][sM(0x40d)]()[sM(0x256)](A)||J['market'][sM(0x40d)]()[sM(0x256)](y));else{const U=E[sM(0x51c)]['value'][sM(0x40d)]();if(!U){if(P['yByip'](P[sM(0x528)],P['JplfP'])){const J=o['apply'](w,arguments);return E=null,J;}else{w['innerHTML']='',w[sM(0x232)][sM(0x26b)](P[sM(0x517)]);return;}}const z=P['cQxmT'](N)[sM(0x4bb)](J=>J[sM(0x42d)]&&J['searchTerms'][sM(0x256)](U)||J['name']['toLowerCase']()[sM(0x256)](U)||J[sM(0x27b)][sM(0x40d)]()[sM(0x256)](U))[sM(0x1f4)](0x2c*-0x6e+0x1*0x1328+-0x40,-0xd1f*0x2+0x213e+-0x6fb);if(P['QvkaK'](z['length'],-0x1*0xe6c+0x74a+0x722)){if(P[sM(0x276)](P[sM(0x413)],P['TokPZ']))w[sM(0x224)]=z['map'](J=>sM(0x50d)+J['id']+sM(0x317)+d+sM(0x55c)+J['name']+sM(0x31b)+J[sM(0x27b)]+'</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20')[sM(0x375)](''),w[sM(0x232)][sM(0x469)](P['FQyVv']);else return P[sM(0x20f)]()[sM(0x20a)](qmTLys[sM(0x22a)])[sM(0x20f)]()[sM(0x2f8)](o)[sM(0x20a)](qmTLys[sM(0x22a)]);}else P[sM(0x3f1)](P[sM(0x363)],P[sM(0x363)])?(P[sM(0x511)](B[sM(0x2fa)],-0x12cf+0x1c7d+0x2*-0x4d7)&&(J+=sM(0x2e7)+y[sM(0x481)](q=>sM(0x560)+q[sM(0x46d)]+'</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>'+q[sM(0x3e3)]+sM(0x4b4)+q[sM(0x243)]+sM(0x4b4)+q[sM(0x2ba)]+sM(0x39f))[sM(0x375)]('')+sM(0x3bb)),P['CNPxL'](U['length'],0x26*0xe9+-0x21ad+-0xe9)&&(X+='\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h4>Other\x20Matching\x20Assignments</h4>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<table\x20class=\x22assignments-table\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<thead>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Date\x20Range</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Employee</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Project</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Market</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</thead>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tbody>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+Y[sM(0x481)](q=>sM(0x560)+q[sM(0x46d)]+'</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>'+q[sM(0x3e3)]+sM(0x4b4)+q[sM(0x243)]+'</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>'+q[sM(0x2ba)]+'</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20')[sM(0x375)]('')+'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tbody>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</table>')):(w[sM(0x224)]=P['zxqZF'],w['classList'][sM(0x469)](P['FQyVv']));}}),document['addEventListener'](P[sY(0x211)],function(E){const sq=sY,B={};B['EYRZs']=P[sq(0x210)],B[sq(0x26a)]=P[sq(0x5d3)],B[sq(0x3d4)]=P[sq(0x384)],B[sq(0x2fe)]=P[sq(0x45e)];const V=B;P[sq(0x3f1)](P[sq(0x377)],P[sq(0x4bc)])?!o[sq(0x245)](E['target'])&&!w['contains'](E[sq(0x51c)])&&(P[sq(0x3f1)](P[sq(0x3b4)],P[sq(0x3b2)])?w['classList'][sq(0x26b)](P[sq(0x517)]):P[sq(0x25a)]=o[sq(0x533)]['toLocaleString'](V[sq(0x2b3)],{'month':V['Lttkb'],'year':V['VnQkB']})):N['innerHTML']=V[sq(0x2fe)];});}window[ay(0x28a)]=function(N,P){const sc=ay,o={};o[sc(0x4fa)]=function(V,T){return V+T;},o[sc(0x2cb)]='active';const w=o,E=document[sc(0x2bf)](sc(0x20a)+w[sc(0x4fa)](P['charAt'](-0x11e+0xe6f+-0x7*0x1e7)['toUpperCase'](),P[sc(0x1f4)](-0x1d0a+-0x5*-0x139+0x16ee))),B=window[sc(0x47f)][N];E['value']=B?B[sc(0x45a)]:N,document[sc(0x2bf)](P+sc(0x2d4))['classList']['remove'](w[sc(0x2cb)]);},window['showAssignmentDetails']=function(P){const sK=ay,o={};o[sK(0x397)]=function(X,Y){return X===Y;},o[sK(0x54b)]=sK(0x50b),o[sK(0x3bd)]='CMKZP',o[sK(0x2af)]=function(X,Y){return X===Y;},o['QaIkN']=sK(0x504),o[sK(0x2f1)]=sK(0x4bd),o['FdYZZ']=sK(0x237),o[sK(0x40a)]=sK(0x46c),o['ifQgi']=sK(0x47c),o[sK(0x385)]=function(X,Y){return X+Y;},o[sK(0x571)]='T12:00:00',o[sK(0x20b)]=function(X,Y){return X+Y;},o['BybFi']=function(X,Y){return X/Y;},o[sK(0x279)]=function(X,Y){return X-Y;},o['Xlolr']=function(X,Y){return X*Y;},o['lrcjQ']=sK(0x33d),o[sK(0x281)]=sK(0x575);const w=o,E=Object[sK(0x2c6)](window[sK(0x2d6)])[sK(0x549)](y=>y['name']===P[sK(0x3e3)]),B={};B[sK(0x45a)]=w[sK(0x405)],B[sK(0x2ba)]=w[sK(0x2f1)];const V=window['projects'][P[sK(0x313)]]||B,T=document[sK(0x5b6)](w[sK(0x305)]);T[sK(0x491)]=w[sK(0x40a)],T[sK(0x461)][sK(0x2a9)]=w[sK(0x474)];const U=new Date(w['qxmbg'](P[sK(0x475)],w['bCGob'])),z=new Date(w[sK(0x385)](P[sK(0x592)],w[sK(0x571)])),A=w['MWZUo'](Math['ceil'](w[sK(0x35a)](w[sK(0x279)](z,U),w[sK(0x4fb)](w[sK(0x4fb)](w[sK(0x4fb)](-0x2c7*-0x9+-0x1166+-0x3b1,-0x1*-0x1b42+0x1ad5+0x1*-0x35db),0x183a+0xcb3+-0x3*0xc3b),0x16d5+0x19a*0x7+-0xb51*0x3))),-0x1799+0x8*-0x4d6+-0x8e6*-0x7);T['innerHTML']=sK(0x383)+E['name']+sK(0x4e0)+E['role']+sK(0x5b3)+E[sK(0x2ba)]+sK(0x583)+E[sK(0x5bb)]+sK(0x346)+V[sK(0x45a)]+sK(0x49d)+P['projectId']+sK(0x5b3)+V[sK(0x2ba)]+'</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p><strong>Estimated\x20Days:</strong>\x20'+V[sK(0x33f)]+'</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22detail-group\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h4>Assignment\x20Details</h4>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p><strong>Date\x20Range:</strong>\x20'+U['toLocaleDateString']()+'\x20-\x20'+z[sK(0x29b)]()+'</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p><strong>Duration:</strong>\x20'+A+sK(0x584)+P[sK(0x2ce)]+sK(0x316)+P['marketProjectManager']+sK(0x37d)+P['startDate']+sK(0x317)+P['endDate']+sK(0x317)+P[sK(0x3e3)]+'\x27,\x20\x27'+P[sK(0x313)]+sK(0x350),document[sK(0x24a)][sK(0x2c5)](T);const J=T[sK(0x439)](w[sK(0x21d)]);J[sK(0x361)](w['nbuMJ'],()=>T[sK(0x26b)]()),T['addEventListener'](w[sK(0x281)],y=>{const si=sK;if(w[si(0x397)](w[si(0x54b)],w[si(0x3bd)])){const Y=o[si(0x1fe)](w,arguments);return E=null,Y;}else{if(w[si(0x2af)](y['target'],T))T[si(0x26b)]();}});},(function(){const sr=ay,d={'ytefp':function(P,o,w){return P(o,w);},'qVXFF':sr(0x206),'XECLm':function(P,o){return P!==o;},'NAJQV':sr(0x468),'atgBN':function(P,o){return P(o);},'LLPdZ':function(P,o){return P+o;},'MjgCH':sr(0x38e),'iiInx':sr(0x1f8),'NWdlM':function(P){return P();},'Yvbiy':function(P,o){return P===o;},'uxATO':sr(0x4d2),'VmToz':sr(0x4d6)};let N;try{if(d['XECLm'](d[sr(0x21e)],d[sr(0x21e)]))d[sr(0x595)](o,w,E);else{const o=d[sr(0x2bd)](Function,d[sr(0x478)](d[sr(0x478)](d[sr(0x329)],d[sr(0x370)]),');'));N=d[sr(0x1fb)](o);}}catch(w){d[sr(0x24d)](d['uxATO'],d['VmToz'])?N['classList'][sr(0x26b)](d[sr(0x42c)]):N=window;}N[sr(0x271)](n,0xca*-0x2d+0x4*-0x869+0x490e);}()),window['deleteAssignmentFromModal']=function(d,N,P,o){const sv=ay,w={'oPyHu':function(E,B){return E(B);},'TKMrt':sv(0x4e3),'vPAdD':function(E,B){return E!==B;},'IBMyD':sv(0x559),'TzAgp':function(E,B){return E!==B;},'OUDZS':'RzHqR','virGD':sv(0x3f5),'yGtWu':sv(0x419)};if(w[sv(0x3dd)](confirm,w[sv(0x4fd)])){if(w['vPAdD'](w['IBMyD'],w[sv(0x3a4)]))P[sv(0x224)]=sv(0x408)+o[sv(0x3e3)]+sv(0x5b9);else{const B=window[sv(0x296)][sv(0x5a4)](V=>V[sv(0x475)]===d&&V['endDate']===N&&V[sv(0x3e3)]===P&&V[sv(0x313)]===o);if(w[sv(0x262)](B,-(-0x1*-0x347+-0x1999*0x1+0x1653))){if(w['TzAgp'](w[sv(0x300)],w[sv(0x200)]))window['scheduleData'][sv(0x444)](B,-0x362+0x2*-0x38d+0x37f*0x3),window['saveData'](),window[sv(0x29d)](),document[sv(0x439)](w['yGtWu'])[sv(0x26b)]();else{const T=B?function(){const sG=sv;if(T){const i=M[sG(0x1fe)](q,arguments);return c=null,i;}}:function(){};return A=![],T;}}}}},window[ay(0x267)]=function(N){const st=ay,P={};P[st(0x494)]=st(0x2ee),P[st(0x5b7)]=st(0x278),P['rudnR']=st(0x227),P['QJpAC']=function(E,B){return E===B;},P[st(0x500)]='UXtVv',P[st(0x209)]=st(0x46f),P[st(0x421)]=st(0x38c),P['Mhvsy']=st(0x27f),P[st(0x4f8)]=function(E,B){return E!==B;},P[st(0x29a)]='yadRo',P[st(0x34f)]=st(0x303),P['IRGMP']='.available-dates-detail:not(.hidden)',P[st(0x3b8)]='Hide\x20Dates',P[st(0x3bc)]=function(E,B){return E!==B;},P[st(0x334)]=st(0x2ec),P[st(0x470)]=st(0x36f);const o=P,w=N[st(0x359)];w['classList']['contains'](o[st(0x209)])?o[st(0x4f8)](o[st(0x29a)],o[st(0x34f)])?(document[st(0x2ad)](o['IRGMP'])[st(0x340)](E=>{const sj=st;o[sj(0x2d3)](o[sj(0x500)],o[sj(0x500)])?(E[sj(0x232)][sj(0x469)](o['rfyUf']),E[sj(0x46a)][sj(0x25a)]=o[sj(0x421)]):P[sj(0x25a)]=o[sj(0x533)][sj(0x29b)](o['IFuzp'],{'month':o[sj(0x5b7)],'year':o[sj(0x26c)]});}),w['classList'][st(0x26b)](o[st(0x209)]),N[st(0x25a)]=o[st(0x3b8)]):P=o:o[st(0x3bc)](o[st(0x334)],o[st(0x470)])?(w[st(0x232)]['add'](o[st(0x209)]),N['textContent']=o[st(0x421)]):N[st(0x232)]['remove'](o[st(0x58b)]);},window[ay(0x361)](ay(0x41b),function(){const sZ=ay;window[sZ(0x29d)]();}),window[ay(0x361)](ay(0x23b),function(){const sS=ay;window[sS(0x29d)]();}),window[ay(0x361)](ay(0x2c1),function(){const sL=ay;window[sL(0x29d)]();}),window[ay(0x22e)]=function(){const sF=ay,d={'uYpgh':function(w,E){return w(E);},'VhNVe':sF(0x4ea),'jmqsA':'monthSelect','tNWsZ':function(w,E){return w-E;},'uAdxX':function(w,E){return w<=E;},'gIxQW':function(w,E){return w+E;},'aivMB':function(w,E){return w===E;},'eSoZf':'OdSHY','CaayY':'option'},N=document[sF(0x2bf)](d[sF(0x53d)]),P=document[sF(0x2bf)](d[sF(0x371)]),o=new Date()[sF(0x422)]();for(let w=d['tNWsZ'](o,-0x1ea4*-0x1+0x1f58+0x1ef9*-0x2);d[sF(0x36c)](w,d[sF(0x3a2)](o,-0x1*0xb4f+-0x6e*-0x1a+-0x9*-0x5));w++){if(d[sF(0x589)](d['eSoZf'],d[sF(0x547)])){const E=document[sF(0x5b6)](d[sF(0x3ce)]);E[sF(0x36d)]=w,E[sF(0x25a)]=w,N[sF(0x2c5)](E);}else uyfISe[sF(0x545)](N,'0');}P[sF(0x36d)]=window[sF(0x533)]['getMonth'](),N[sF(0x36d)]=window[sF(0x533)][sF(0x422)]();},window[ay(0x56e)]=function(){const sk=ay,d={'tTWOx':function(o,w){return o(w);},'LtxXz':sk(0x2d9),'oDhlK':function(o,w){return o(w);},'ESxrz':'yearSelect'},N=d['tTWOx'](parseInt,document[sk(0x2bf)](d[sk(0x47a)])['value']),P=d[sk(0x4a8)](parseInt,document[sk(0x2bf)](d[sk(0x4a7)])[sk(0x36d)]);window[sk(0x533)]=new Date(P,N,0xb*-0x175+0x5*-0x2fc+-0x1c*-0x11b),window[sk(0x29d)]();};function n(d){const sO=ay,N={'bfgEL':function(o,w){return o+w;},'godDk':sO(0x26f),'UqVVk':function(o,w){return o+w;},'pdabK':function(o,w){return o<=w;},'EThJX':function(o,w){return o*w;},'hCbLE':function(o,w){return o/w;},'xFiWj':'.modal','pvjZs':function(o,w){return o!==w;},'EyJBO':sO(0x41c),'KTlSI':sO(0x407),'LZNlq':function(o,w){return o>=w;},'veWVL':function(o,w){return o<=w;},'CyBmd':function(o,w,E){return o(w,E);},'HWiSE':sO(0x237),'GehSa':sO(0x551),'DctmD':sO(0x5ba),'QOBsK':function(o,w){return o+w;},'GalHK':'Calendar\x20element\x20not\x20found','XTuqR':function(o,w){return o(w);},'jHZZo':function(o,w){return o===w;},'Qgsla':'oFCOT','MRYMO':sO(0x387),'TBetP':'<div\x20class=\x22search-result-item\x22>No\x20matches\x20found</div>','QCQAJ':sO(0x27f),'OtMgk':function(o,w){return o===w;},'VZyjU':sO(0x5af),'UvrPq':sO(0x324),'APJtt':function(o,w){return o===w;},'JcjbO':sO(0x347),'kKnOr':sO(0x418),'ilqpJ':sO(0x5aa),'fwCuc':sO(0x445),'DcFUt':sO(0x493),'RODQB':sO(0x24c),'PUDBv':function(o,w){return o!==w;},'bfeGK':sO(0x2fa),'OuArg':function(o,w){return o===w;},'mWvEv':function(o,w){return o%w;},'sCyuP':function(o,w){return o!==w;},'XKnto':sO(0x29e),'fQwAX':function(o,w){return o+w;},'NApTA':sO(0x4b3),'HSCJG':'gger','KMeQF':sO(0x593),'ZTBfs':function(o,w){return o!==w;},'eUmGx':'RLvuq','GYHLu':sO(0x4f9),'PKxQK':function(o,w){return o+w;},'pqraJ':sO(0x52d),'llBxU':function(o,w){return o(w);},'RyqUK':function(o,w,E,B){return o(w,E,B);},'oCvjW':sO(0x3d7),'tDTiv':function(o,w){return o+w;},'UoiwN':function(o,w){return o+w;},'gIStX':sO(0x38e),'OeTWC':'{}.constructor(\x22return\x20this\x22)(\x20)','ZxDDO':function(o){return o();},'malsa':'wVDFS','vhEYO':sO(0x3f6),'iOCDn':'EIzWo','HOVrs':sO(0x4dd),'kJKdF':sO(0x4be)};function P(o){const se=sO,w={'Mblzg':function(E,B){return N['QOBsK'](E,B);},'WcAKW':N[se(0x3f2)],'jchhZ':function(E,B){const sR=se;return N[sR(0x4d9)](E,B);},'zsuOl':function(E,B){const sH=se;return N[sH(0x336)](E,B);},'CJRcI':function(E,B){const sh=se;return N[sh(0x5ab)](E,B);},'wNHdX':N[se(0x2aa)],'ABOlc':function(E,B){const sb=se;return N[sb(0x257)](E,B);},'striP':function(E,B){const sf=se;return N[sf(0x3f8)](E,B);},'THGmj':N[se(0x3b3)],'YGfsv':N['MRYMO'],'ORgrS':N[se(0x424)],'NYJVb':N['QCQAJ']};if(N['OtMgk'](N[se(0x362)],N['UvrPq'])){const B=new E(w[se(0x48d)](B[se(0x475)],w[se(0x426)])),V=new V(w[se(0x2a2)](T['endDate'],w['WcAKW'])),T=[];let U=new U(B);while(w[se(0x5ac)](U,V)){T[se(0x432)](U['toISOString']()[se(0x239)]('T')[-0x449*-0x1+0x195d*0x1+-0x1da6]),U[se(0x3a0)](w[se(0x411)](U[se(0x314)](),0x36*0x85+-0x4fb*0x1+-0x1712));}return T;}else{if(N[se(0x501)](typeof o,N['JcjbO'])){if(N[se(0x1f3)](N[se(0x3fd)],N[se(0x42f)]))return function(B){}[se(0x2f8)](N[se(0x5c4)])[se(0x1fe)](N[se(0x289)]);else{const V={'HLUwi':function(J,X){const sD=se;return N[sD(0x588)](J,X);},'VXbvQ':N[se(0x3f2)],'jMyNi':function(J,X){const sW=se;return N[sW(0x4d9)](J,X);},'eGNSS':function(J,X){const su=se;return N[su(0x336)](J,X);},'tieRe':function(J,X){const sI=se;return N[sI(0x4d9)](J,X);}},T=new z(A[se(0x296)][se(0x4bb)](t=>t[se(0x3e3)]===T[se(0x45a)])[se(0x5bc)](L=>{const sp=se,F=new T(V['HLUwi'](L['startDate'],V['VXbvQ'])),k=new U(V[sp(0x558)](L[sp(0x592)],V[sp(0x38f)])),O=[];let e=new z(F);while(V[sp(0x586)](e,k)){O[sp(0x432)](e[sp(0x2c4)]()[sp(0x239)]('T')[0x13f+0x1*0x20a2+-0x21e1]),e['setDate'](V[sp(0x52b)](e['getDate'](),0x1*-0xcf4+-0x947*-0x1+-0x2*-0x1d7));}return O;})),U=M[se(0x4bb)](t=>!T['has'](t)),z=N[se(0x236)](N[se(0x325)](U[se(0x2fa)],q['length']),0x2268+0x20e5+-0x42e9),A={};return A[se(0x3e3)]=c,A['availableDays']=U,A[se(0x51f)]=K['length'],A['availabilityPercentage']=z,A;}}else{if(N['APJtt'](N[se(0x298)],N[se(0x298)])){if(N[se(0x3de)](N[se(0x588)]('',N[se(0x325)](o,o))[N['bfeGK']],-0x1e34+-0x265e+-0xdb7*-0x5)||N[se(0x319)](N[se(0x365)](o,0x7f*0x22+0x11a2+-0x2*0x1136),0x1d3f*-0x1+-0x1061+0x2da0)){if(N[se(0x5b1)](N[se(0x3e7)],N[se(0x3e7)])){N[se(0x3e6)](w['wNHdX']);return;}else(function(){const n0=se,T={'MDitY':function(U,z){const sl=m;return w[sl(0x5b4)](U,z);}};if(w[n0(0x450)](w['THGmj'],w[n0(0x487)]))T[n0(0x464)](N,0x2054+-0x21b9+0x165);else return!![];}['constructor'](N[se(0x4f1)](N[se(0x3e4)],N[se(0x3e8)]))[se(0x452)](N[se(0x388)]));}else N[se(0x318)](N[se(0x544)],N['GYHLu'])?function(){const n1=se,T={};T['gyOKx']=N[n1(0x58c)];const U=T;if(N['pvjZs'](N[n1(0x2d1)],N['KTlSI']))return![];else E[n1(0x296)][n1(0x444)](B,-0x1936+0x3*0x4aa+0xb39),V[n1(0x554)](),T[n1(0x29d)](),U[n1(0x439)](U['gyOKx'])[n1(0x26b)]();}[se(0x2f8)](N[se(0x226)](N[se(0x3e4)],N[se(0x3e8)]))[se(0x1fe)](N[se(0x52c)]):(P['innerHTML']=w['ORgrS'],o[se(0x232)][se(0x469)](w[se(0x420)]));}else{const z={'FMbce':function(Y,M){const n2=se;return N[n2(0x4d9)](Y,M);},'lyFqx':N[se(0x3f2)],'XMrtQ':function(Y,M){return N['LZNlq'](Y,M);},'ZonGD':function(Y,M){const n3=se;return N[n3(0x4e4)](Y,M);},'hZXiu':function(Y,M,q){const n4=se;return N[n4(0x32b)](Y,M,q);}},A=y['createElement'](N[se(0x54d)]);A[se(0x491)]=N[se(0x28b)];const J=X['createElement'](N['HWiSE']);J[se(0x491)]=N[se(0x4db)],J[se(0x25a)]=Y,A[se(0x2c5)](J);const X=new M(q['currentDate'][se(0x422)](),c['currentDate']['getMonth'](),K,-0x3b3*-0x2+0x263a+-0x2d94,0x23b7+0x1c91*0x1+0xf2*-0x44,-0xb96+0x1953+0xdbd*-0x1);i[se(0x296)][se(0x340)](h=>{const n5=se,b=new A(z[n5(0x308)](h[n5(0x475)],z[n5(0x219)])),f=new J(z[n5(0x308)](h['endDate'],z[n5(0x219)])),D=new X(X[n5(0x422)](),X[n5(0x3cf)](),X['getDate'](),0x7*0xad+-0x1379+0x2*0x765,-0x3*0x36e+0x1*-0x219e+-0xa*-0x464,-0x1c94+0x1*0x945+0x1*0x134f);z[n5(0x577)](D,b)&&z[n5(0x360)](D,f)&&z[n5(0x4af)](k,h,A);}),j[se(0x2c5)](A);}}N[se(0x341)](P,++o);}}try{if(N[sO(0x28c)](N[sO(0x542)],N['malsa'])){if(d){if(N['PUDBv'](N[sO(0x4ba)],N[sO(0x32d)]))return P;else N[sO(0x31a)](o,N['oCvjW'],w,E);}else N['PUDBv'](N[sO(0x4a3)],N[sO(0x34d)])?N['XTuqR'](P,0xaa1*0x2+-0x93*0x1+-0x14af):(o[sO(0x3a3)](),w[sO(0x22e)](),E['renderCalendar']());}else{const B=N[sO(0x257)](P,N[sO(0x440)](N[sO(0x4ec)](N[sO(0x449)],N[sO(0x2ed)]),');'));o=N[sO(0x3b9)](B);}}catch(B){}}
+window.currentDate = new Date();
+
+window.addEventListener('ptoColorChanged', function() {
+    window.renderCalendar();
+});
+
+window.renderCalendar = function() {
+    const calendar = document.getElementById('calendar');
+    if (!calendar) {
+        console.error('Calendar element not found');
+        return;
+    }
+
+    calendar.innerHTML = '';
+
+    // Add day headers
+    const days = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
+    days.forEach(day => {
+        const header = document.createElement('div');
+        header.className = 'calendar-header';
+        header.textContent = day;
+        calendar.appendChild(header);
+    });
+
+    // Get first day of month and number of days
+    const firstDay = new Date(window.currentDate.getFullYear(), window.currentDate.getMonth(), 1);
+    const lastDay = new Date(window.currentDate.getFullYear(), window.currentDate.getMonth() + 1, 0);
+    
+    // Add empty cells for days before start of month
+    for (let i = 0; i < firstDay.getDay(); i++) {
+        const emptyDay = document.createElement('div');
+        emptyDay.className = 'calendar-day empty-day';
+        calendar.appendChild(emptyDay);
+    }
+
+    // Add days of month
+    for (let date = 1; date <= lastDay.getDate(); date++) {
+        const dayCell = document.createElement('div');
+        dayCell.className = 'calendar-day';
+        
+        const dateLabel = document.createElement('div');
+        dateLabel.className = 'date-label';
+        dateLabel.textContent = date;
+        dayCell.appendChild(dateLabel);
+
+        const currentDate = new Date(window.currentDate.getFullYear(), window.currentDate.getMonth(), date, 12, 0, 0);
+        
+        // Add assignments for this day
+        window.scheduleData.forEach(assignment => {
+            // Create dates at noon to avoid timezone issues
+            const startDate = new Date(assignment.startDate + 'T12:00:00');
+            const endDate = new Date(assignment.endDate + 'T12:00:00');
+            
+            // Set currentDate to noon as well for consistent comparison
+            const currentCellDate = new Date(currentDate.getFullYear(), currentDate.getMonth(), currentDate.getDate(), 12, 0, 0);
+
+            if (currentCellDate >= startDate && currentCellDate <= endDate) {
+                renderAssignment(assignment, dayCell);
+            }
+        });
+
+        calendar.appendChild(dayCell);
+    }
+
+    // Update month display
+    const monthDisplay = document.getElementById('currentMonth');
+    if (monthDisplay) {
+        monthDisplay.textContent = window.currentDate.toLocaleDateString('default', { 
+            month: 'long', 
+            year: 'numeric' 
+        });
+    }
+};
+
+window.updateMonthDisplay = function() {
+    const monthDisplay = document.getElementById('currentMonth');
+    if (monthDisplay) {
+        monthDisplay.textContent = window.currentDate.toLocaleString('default', { month: 'long', year: 'numeric' });
+    }
+};
+
+window.previousMonth = function() {
+    window.currentDate.setMonth(window.currentDate.getMonth() - 1);
+    // Update the dropdown selectors to match the new date
+    document.getElementById('monthSelect').value = window.currentDate.getMonth();
+    document.getElementById('yearSelect').value = window.currentDate.getFullYear();
+    window.renderCalendar();
+};
+
+window.nextMonth = function() {
+    window.currentDate.setMonth(window.currentDate.getMonth() + 1);
+    // Update the dropdown selectors to match the new date
+    document.getElementById('monthSelect').value = window.currentDate.getMonth();
+    document.getElementById('yearSelect').value = window.currentDate.getFullYear();
+    window.renderCalendar();
+};
+
+window.addEntry = function() {
+    const date = document.getElementById('date').value;
+    const employee = document.getElementById('employee').value;
+    const projectId = document.getElementById('projectId').value;
+    const estimatedTime = document.getElementById('estimatedTime').value;
+    const marketProjectManager = document.getElementById('marketProjectManager').value;
+    const entryType = document.getElementById('entryType').value;
+
+    if (!date || !employee || !projectId || !estimatedTime || !marketProjectManager) {
+        alert('Please fill in all fields');
+        return;
+    }
+
+    // Check for PTO conflicts
+    if (entryType === 'pto') {
+        const conflicts = window.scheduleData.filter(entry => 
+            entry.date === date && 
+            entry.employee === employee && 
+            entry.entryType === 'work'
+        );
+
+        if (conflicts.length > 0) {
+            alert('Warning: This employee is assigned to projects on this date!');
+        }
+    }
+
+    window.scheduleData.push({
+        date,
+        employee,
+        projectId,
+        projectName: window.projects[projectId]?.name || 'Unknown Project',
+        estimatedTime,
+        marketProjectManager,
+        entryType
+    });
+
+    window.saveData();
+    window.renderCalendar();
+};
+
+window.initializePage = function() {
+    window.setupSearchFields();
+    window.initializeMonthYearSelectors();
+    window.renderCalendar();
+};
+
+window.searchSchedule = function() {
+    const employee = document.getElementById('searchEmployee').value;
+    const projectSearch = document.getElementById('searchProject').value;
+    const market = document.getElementById('searchMarket').value;
+    const startDate = document.getElementById('searchStartDate').value;
+    const endDate = document.getElementById('searchEndDate').value;
+    const entryType = document.getElementById('searchEntryType').value;
+
+    // If no search criteria entered, don't perform search
+    if (!employee && !projectSearch && !market && !startDate && !endDate && !entryType) {
+        return;
+    }
+
+    // Clear any previous highlights
+    document.querySelectorAll('.assignment').forEach(el => {
+        el.classList.remove('highlighted');
+    });
+
+    // Find all matching assignments
+    const visibleAssignments = [];
+    const hiddenAssignments = [];
+
+    // Helper function to check if an assignment matches search criteria
+    const matchesSearch = (assignment) => {
+        const project = window.projects[assignment.projectId];
+        const matchesEmployee = !employee || assignment.employee.toLowerCase().includes(employee.toLowerCase());
+        const matchesProject = !projectSearch || (project && project.name.toLowerCase().includes(projectSearch.toLowerCase()));
+        const matchesMarket = !market || (project && project.market.toLowerCase().includes(market.toLowerCase()));
+        const matchesType = !entryType || assignment.entryType === entryType;
+        
+        // Date matching
+        const assignmentStart = new Date(assignment.startDate + 'T12:00:00');
+        const assignmentEnd = new Date(assignment.endDate + 'T12:00:00');
+        const searchStart = startDate ? new Date(startDate + 'T12:00:00') : null;
+        const searchEnd = endDate ? new Date(endDate + 'T12:00:00') : null;
+        
+        const matchesDate = (!searchStart || assignmentEnd >= searchStart) && 
+                           (!searchEnd || assignmentStart <= searchEnd);
+
+        return matchesEmployee && matchesProject && matchesMarket && matchesDate && matchesType;
+    };
+
+    // Process all assignments
+    window.scheduleData.forEach(assignment => {
+        if (matchesSearch(assignment)) {
+            // Check if assignment is in current month
+            const assignmentStart = new Date(assignment.startDate + 'T12:00:00');
+            const assignmentEnd = new Date(assignment.endDate + 'T12:00:00');
+            const currentMonth = window.currentDate.getMonth();
+            const currentYear = window.currentDate.getFullYear();
+
+            if (assignmentStart.getMonth() === currentMonth && 
+                assignmentStart.getFullYear() === currentYear) {
+                visibleAssignments.push({
+                    date: `${assignmentStart.toLocaleDateString()} - ${assignmentEnd.toLocaleDateString()}`,
+                    employee: assignment.employee,
+                    project: window.projects[assignment.projectId]?.name || 'Unknown Project',
+                    market: window.projects[assignment.projectId]?.market || 'N/A'
+                });
+                
+                // Find and highlight the assignment elements
+                document.querySelectorAll('.assignment').forEach(el => {
+                    const matchesEmployee = el.dataset.employee === assignment.employee;
+                    const matchesProject = el.dataset.projectId === assignment.projectId;
+                    const assignmentStart = new Date(el.dataset.startDate + 'T12:00:00');
+                    const assignmentEnd = new Date(el.dataset.endDate + 'T12:00:00');
+                    
+                    // If the element represents the same assignment (matches employee and project)
+                    // and falls within the assignment date range, highlight it
+                    if (matchesEmployee && matchesProject && 
+                        assignmentStart.getTime() === new Date(assignment.startDate + 'T12:00:00').getTime() &&
+                        assignmentEnd.getTime() === new Date(assignment.endDate + 'T12:00:00').getTime()) {
+                        el.classList.add('highlighted');
+                    }
+                });
+            } else {
+                // Add to hidden assignments if not in current month
+                hiddenAssignments.push({
+                    date: `${assignmentStart.toLocaleDateString()} - ${assignmentEnd.toLocaleDateString()}`,
+                    employee: assignment.employee,
+                    project: window.projects[assignment.projectId]?.name || 'Unknown Project',
+                    market: window.projects[assignment.projectId]?.market || 'N/A'
+                });
+            }
+        }
+    });
+
+    // Show results modal only if:
+    // 1. No matches found at all
+    // 2. There are hidden assignments (in other months)
+    if (visibleAssignments.length === 0 && hiddenAssignments.length === 0) {
+        showSearchResultsModal('No matching assignments found');
+    } else if (hiddenAssignments.length > 0) {
+        showSearchResultsModal('Search Results', visibleAssignments, hiddenAssignments);
+    }
+    // If only visible assignments are found, they're already highlighted, so no modal needed
+};
+
+function showSearchResultsModal(title, visibleAssignments = [], hiddenAssignments = []) {
+    const modal = document.createElement('div');
+    modal.className = 'modal';
+    modal.style.display = 'flex';
+    
+    let content = `
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3>${title}</h3>
+                <span class="close-modal">&times;</span>
+            </div>
+            <div class="modal-body">`;
+
+    if (typeof title === 'string' && !visibleAssignments.length && !hiddenAssignments.length) {
+        content += `<p>${title}</p>`;
+    } else {
+        if (visibleAssignments.length > 0) {
+            content += `
+                <h4>Visible Assignments (Current Month)</h4>
+                <table class="assignments-table">
+                    <thead>
+                        <tr>
+                            <th>Date Range</th>
+                            <th>Employee</th>
+                            <th>Project</th>
+                            <th>Market</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        ${visibleAssignments.map(a => `
+                            <tr>
+                                <td>${a.date}</td>
+                                <td>${a.employee}</td>
+                                <td>${a.project}</td>
+                                <td>${a.market}</td>
+                            </tr>
+                        `).join('')}
+                    </tbody>
+                </table>`;
+        }
+
+        if (hiddenAssignments.length > 0) {
+            content += `
+                <h4>Other Matching Assignments</h4>
+                <table class="assignments-table">
+                    <thead>
+                        <tr>
+                            <th>Date Range</th>
+                            <th>Employee</th>
+                            <th>Project</th>
+                            <th>Market</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        ${hiddenAssignments.map(a => `
+                            <tr>
+                                <td>${a.date}</td>
+                                <td>${a.employee}</td>
+                                <td>${a.project}</td>
+                                <td>${a.market}</td>
+                            </tr>
+                        `).join('')}
+                    </tbody>
+                </table>`;
+        }
+    }
+
+    content += `
+            </div>
+        </div>`;
+
+    modal.innerHTML = content;
+    document.body.appendChild(modal);
+
+    // Add close button functionality
+    const closeBtn = modal.querySelector('.close-modal');
+    closeBtn.addEventListener('click', () => modal.remove());
+
+    // Close when clicking outside
+    modal.addEventListener('click', (e) => {
+        if (e.target === modal) modal.remove();
+    });
+}
+
+window.findAvailableUsers = function() {
+    const startDate = document.getElementById('searchStartDate').value;
+    const endDate = document.getElementById('searchEndDate').value;
+
+    if (!startDate || !endDate) {
+        alert('Please select both start and end dates to find available users');
+        return;
+    }
+
+    // Create dates at noon to avoid timezone issues
+    const start = new Date(startDate + 'T12:00:00');
+    const end = new Date(endDate + 'T12:00:00');
+    
+    // Get all dates in the range
+    const dateRange = [];
+    let currentDate = new Date(start);
+    while (currentDate <= end) {
+        dateRange.push(currentDate.toISOString().split('T')[0]);
+        currentDate.setDate(currentDate.getDate() + 1);
+    }
+
+    // Get all active employees
+    const allEmployees = Object.values(window.employees)
+        .filter(emp => emp.active);
+
+    // Calculate availability for each employee
+    const employeeAvailability = allEmployees.map(employee => {
+        const busyDates = new Set(
+            window.scheduleData
+                .filter(assignment => assignment.employee === employee.name)
+                .flatMap(assignment => {
+                    const assignmentStart = new Date(assignment.startDate + 'T12:00:00');
+                    const assignmentEnd = new Date(assignment.endDate + 'T12:00:00');
+                    const dates = [];
+                    let current = new Date(assignmentStart);
+                    while (current <= assignmentEnd) {
+                        dates.push(current.toISOString().split('T')[0]);
+                        current.setDate(current.getDate() + 1);
+                    }
+                    return dates;
+                })
+        );
+
+        const availableDays = dateRange.filter(date => !busyDates.has(date));
+        const availabilityPercentage = (availableDays.length / dateRange.length) * 100;
+
+        return {
+            employee,
+            availableDays,
+            totalDays: dateRange.length,
+            availabilityPercentage
+        };
+    });
+
+    // Sort by availability percentage (highest first)
+    employeeAvailability.sort((a, b) => b.availabilityPercentage - a.availabilityPercentage);
+
+    // Create modal to display results
+    const modal = document.createElement('div');
+    modal.className = 'modal';
+    modal.innerHTML = `
+        <div class="modal-content wide-modal">
+            <div class="modal-header">
+                <h3>Employee Availability</h3>
+                <span class="close-modal">&times;</span>
+            </div>
+            <div class="modal-body">
+                <p><strong>Date Range:</strong> ${start.toLocaleDateString()} - ${end.toLocaleDateString()}</p>
+                <p><strong>Total Days:</strong> ${dateRange.length}</p>
+                
+                <table class="assignments-table">
+                    <thead>
+                        <tr>
+                            <th>Employee</th>
+                            <th>Role</th>
+                            <th>Market</th>
+                            <th>Available Days</th>
+                            <th>Availability</th>
+                            <th>Details</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        ${employeeAvailability.map(({employee, availableDays, totalDays, availabilityPercentage}) => `
+                            <tr class="${availabilityPercentage === 100 ? 'fully-available' : availabilityPercentage === 0 ? 'not-available' : 'partially-available'}">
+                                <td>${employee.name}</td>
+                                <td>${employee.role}</td>
+                                <td>${employee.market}</td>
+                                <td>${availableDays.length} of ${totalDays} days</td>
+                                <td>
+                                    <div class="availability-bar">
+                                        <div class="availability-fill" style="width: ${availabilityPercentage}%"></div>
+                                        <span>${Math.round(availabilityPercentage)}%</span>
+                                    </div>
+                                </td>
+                                <td>
+                                    <button class="show-dates-btn" onclick="toggleAvailableDates(this)">Show Dates</button>
+                                    <div class="available-dates-detail hidden">
+                                        <h4>Available Dates:</h4>
+                                        ${availableDays
+                                            .map(date => `<div class="date-item">${new Date(date + 'T12:00:00').toLocaleDateString()}</div>`)
+                                            .join('')}
+                                    </div>
+                                </td>
+                            </tr>
+                        `).join('')}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    `;
+
+    document.body.appendChild(modal);
+    modal.style.display = 'flex';
+
+    // Add close button functionality
+    const closeBtn = modal.querySelector('.close-modal');
+    closeBtn.addEventListener('click', () => modal.remove());
+
+    // Close when clicking outside
+    modal.addEventListener('click', (e) => {
+        if (e.target === modal) modal.remove();
+    });
+};
+
+window.clearSearch = function() {
+    // Clear search inputs
+    document.getElementById('searchEmployee').value = '';
+    document.getElementById('searchProject').value = '';
+    document.getElementById('searchMarket').value = '';
+    document.getElementById('searchStartDate').value = '';
+    document.getElementById('searchEndDate').value = '';
+    document.getElementById('searchEntryType').value = '';
+    
+    // Refresh calendar with all data
+    window.renderCalendar();
+};
+
+window.setupEmployeeSearch = function() {
+    const employeeInput = document.getElementById('employee');
+    const searchResults = document.getElementById('employee-search-results');
+
+    employeeInput.addEventListener('input', function(e) {
+        const searchTerm = e.target.value.toLowerCase();
+        
+        // Clear results if search term is empty
+        if (!searchTerm) {
+            searchResults.innerHTML = '';
+            searchResults.classList.remove('active');
+            return;
+        }
+
+        // Filter employees based on search term
+        const matchingEmployees = Object.entries(window.employees)
+            .filter(([id, employee]) => {
+                return employee.active && ( // Only show active employees
+                    employee.name.toLowerCase().includes(searchTerm) ||
+                    employee.role.toLowerCase().includes(searchTerm) ||
+                    employee.market.toLowerCase().includes(searchTerm)
+                );
+            })
+            .slice(0, 5); // Limit to 5 results
+
+        // Show results
+        if (matchingEmployees.length > 0) {
+            searchResults.innerHTML = matchingEmployees
+                .map(([id, employee]) => `
+                    <div class="search-result-item" onclick="window.selectEmployee('${employee.name}')">
+                        <div>${employee.name}</div>
+                        <div class="employee-details">${employee.role} - ${employee.market}</div>
+                    </div>
+                `).join('');
+            searchResults.classList.add('active');
+        } else {
+            searchResults.innerHTML = '<div class="search-result-item">No matching employees found</div>';
+            searchResults.classList.add('active');
+        }
+    });
+
+    // Close dropdown when clicking outside
+    document.addEventListener('click', function(e) {
+        if (!employeeInput.contains(e.target) && !searchResults.contains(e.target)) {
+            searchResults.classList.remove('active');
+        }
+    });
+
+    // Prevent form submission on enter
+    employeeInput.addEventListener('keydown', function(e) {
+        if (e.key === 'Enter') {
+            e.preventDefault();
+        }
+    });
+};
+
+window.selectEmployee = function(employeeName) {
+    document.getElementById('employee').value = employeeName;
+    document.getElementById('employee-search-results').classList.remove('active');
+};
+
+function renderAssignment(assignment, cell) {
+    const employee = Object.values(window.employees).find(e => e.name === assignment.employee);
+    if (!employee || !employee.active) return;
+
+    const project = window.projects[assignment.projectId];
+    const assignmentDiv = document.createElement('div');
+    assignmentDiv.className = 'assignment';
+    
+    // Add data attributes for searching
+    assignmentDiv.dataset.employee = assignment.employee;
+    assignmentDiv.dataset.projectId = assignment.projectId;
+    assignmentDiv.dataset.projectName = project ? project.name : 'Unknown Project';
+    assignmentDiv.dataset.market = project ? project.market : '';
+    assignmentDiv.dataset.startDate = assignment.startDate;
+    assignmentDiv.dataset.endDate = assignment.endDate;
+    assignmentDiv.dataset.type = assignment.entryType || 'work';
+    
+    // Get the current cell's date
+    const cellDate = new Date(window.currentDate.getFullYear(), window.currentDate.getMonth(), parseInt(cell.querySelector('.date-label').textContent), 12, 0, 0);
+    const startDate = new Date(assignment.startDate + 'T12:00:00');
+    const endDate = new Date(assignment.endDate + 'T12:00:00');
+    
+    // Determine if this is start, middle, or end of assignment
+    const isStart = cellDate.getTime() === startDate.getTime();
+    const isEnd = cellDate.getTime() === endDate.getTime();
+    const isMiddle = !isStart && !isEnd && cellDate >= startDate && cellDate <= endDate;
+    const isContinuousMode = window.getContinuousBlocks();
+    
+    // Add appropriate class
+    if (isContinuousMode) {
+        if (isStart) assignmentDiv.classList.add('assignment-start');
+        if (isMiddle) assignmentDiv.classList.add('assignment-middle');
+        if (isEnd) assignmentDiv.classList.add('assignment-end');
+    }
+    
+    // Handle PTO entries
+    if (assignment.entryType && assignment.entryType.toLowerCase() === 'pto') {
+        const ptoColor = window.getPTOColor();
+        assignmentDiv.classList.add('pto');
+        assignmentDiv.style.cssText = `
+            background-color: ${ptoColor} !important;
+            border-color: ${ptoColor} !important;
+        `;
+        
+        if (isContinuousMode) {
+            if (isStart) {
+                assignmentDiv.innerHTML = `
+                    <span class="start-icon"></span>
+                    <span class="assignment-text">${assignment.employee} - PTO</span>
+                `;
+            } else if (isEnd) {
+                assignmentDiv.innerHTML = `
+                    <span class="assignment-text">${assignment.employee} - PTO (END)</span>
+                    <span class="end-icon"></span>
+                `;
+            } else {
+                assignmentDiv.innerHTML = '<span class="assignment-text"></span>';
+            }
+        } else {
+            // Non-continuous mode - show text for every block
+            assignmentDiv.innerHTML = `${assignment.employee} - PTO`;
+        }
+    } 
+    // Handle regular assignments
+    else {
+        const colorPreference = window.getColorPreference();
+        let color = colorPreference === 'project' && project?.color ? 
+            project.color : 
+            (employee.color || '#4CAF50');
+
+        assignmentDiv.style.backgroundColor = color;
+        
+        if (isContinuousMode) {
+            if (isStart) {
+                assignmentDiv.innerHTML = `
+                    <span class="start-icon"></span>
+                    <span class="assignment-text">${assignment.employee} - ${project ? project.name : 'Unknown Project'}</span>
+                `;
+            } else if (isEnd) {
+                assignmentDiv.innerHTML = `
+                    <span class="assignment-text">${assignment.employee} - ${project ? project.name : 'Unknown Project'} (END)</span>
+                    <span class="end-icon"></span>
+                `;
+            } else {
+                assignmentDiv.innerHTML = '<span class="assignment-text"></span>';
+            }
+        } else {
+            // Non-continuous mode - show text for every block
+            assignmentDiv.innerHTML = `${assignment.employee} - ${project ? project.name : 'Unknown Project'}`;
+        }
+    }
+
+    // Calculate text color based on background brightness
+    const bgColor = assignmentDiv.style.backgroundColor;
+    const rgb = parseInt(bgColor.replace('#', ''), 16);
+    const brightness = ((rgb >> 16) & 255) * 0.299 + 
+                      ((rgb >> 8) & 255) * 0.587 + 
+                      (rgb & 255) * 0.114;
+    assignmentDiv.style.color = brightness > 186 ? '#000000' : '#FFFFFF';
+    
+    assignmentDiv.addEventListener('click', () => showAssignmentDetails(assignment));
+    cell.appendChild(assignmentDiv);
+}
+
+window.setupSearchFields = function() {
+    // Setup employee search
+    setupSearchField('employee', () => {
+        return Object.values(window.employees)
+            .filter(emp => emp.active)
+            .map(emp => ({
+                id: emp.name,
+                name: emp.name,
+                details: `${emp.role} - ${emp.market}`
+            }));
+    });
+
+    // Setup project search
+    setupSearchField('project', () => {
+        return Object.entries(window.projects)
+            .map(([id, project]) => ({
+                id: id,
+                name: project.name,
+                details: `ID: ${id}`,
+                searchTerms: `${id} ${project.name}`.toLowerCase()
+            }));
+    });
+
+    // Setup market search
+    setupSearchField('market', () => {
+        return window.markets.map(market => ({
+            id: market.name,
+            name: market.name,
+            details: `Region: ${market.region}`
+        }));
+    });
+};
+
+function setupSearchField(fieldId, getSearchData) {
+    const input = document.getElementById(`search${fieldId.charAt(0).toUpperCase() + fieldId.slice(1)}`);
+    const searchResults = document.getElementById(`${fieldId}-search-results`);
+    
+    if (!input || !searchResults) return;
+
+    input.addEventListener('input', function(e) {
+        const searchTerm = e.target.value.toLowerCase();
+        
+        if (!searchTerm) {
+            searchResults.innerHTML = '';
+            searchResults.classList.remove('active');
+            return;
+        }
+
+        const matchingItems = getSearchData()
+            .filter(item => 
+                (item.searchTerms && item.searchTerms.includes(searchTerm)) ||
+                item.name.toLowerCase().includes(searchTerm) ||
+                item.details.toLowerCase().includes(searchTerm)
+            )
+            .slice(0, 5); // Limit to 5 results
+
+        if (matchingItems.length > 0) {
+            searchResults.innerHTML = matchingItems
+                .map(item => `
+                    <div class="search-result-item" onclick="window.selectSearchItem('${item.id}', '${fieldId}')">
+                        <div>${item.name}</div>
+                        <div class="search-result-details">${item.details}</div>
+                    </div>
+                `).join('');
+            searchResults.classList.add('active');
+        } else {
+            searchResults.innerHTML = '<div class="search-result-item">No matches found</div>';
+            searchResults.classList.add('active');
+        }
+    });
+
+    // Close dropdown when clicking outside
+    document.addEventListener('click', function(e) {
+        if (!input.contains(e.target) && !searchResults.contains(e.target)) {
+            searchResults.classList.remove('active');
+        }
+    });
+}
+
+window.selectSearchItem = function(value, fieldId) {
+    const input = document.getElementById(`search${fieldId.charAt(0).toUpperCase() + fieldId.slice(1)}`);
+    const project = window.projects[value];
+    input.value = project ? project.name : value; // Use project name if it's a project, otherwise use the value directly
+    document.getElementById(`${fieldId}-search-results`).classList.remove('active');
+};
+
+window.showAssignmentDetails = function(assignment) {
+    const employee = Object.values(window.employees).find(e => e.name === assignment.employee);
+    const project = window.projects[assignment.projectId] || { name: 'Unknown Project', market: 'N/A' };
+    
+    // Create modal
+    const modal = document.createElement('div');
+    modal.className = 'modal';
+    modal.style.display = 'flex';
+    
+    // Calculate date range
+    const startDate = new Date(assignment.startDate + 'T12:00:00');
+    const endDate = new Date(assignment.endDate + 'T12:00:00');
+    const daysDiff = Math.ceil((endDate - startDate) / (1000 * 60 * 60 * 24)) + 1;
+    
+    modal.innerHTML = `
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3>Assignment Details</h3>
+                <span class="close-modal">&times;</span>
+            </div>
+            <div class="modal-body">
+                <div class="details-grid">
+                    <div class="detail-group">
+                        <h4>Employee Details</h4>
+                        <p><strong>Name:</strong> ${employee.name}</p>
+                        <p><strong>Role:</strong> ${employee.role}</p>
+                        <p><strong>Market:</strong> ${employee.market}</p>
+                        <p><strong>Email:</strong> ${employee.email}</p>
+                    </div>
+                    
+                    <div class="detail-group">
+                        <h4>Project Details</h4>
+                        <p><strong>Project Name:</strong> ${project.name}</p>
+                        <p><strong>Project ID:</strong> ${assignment.projectId}</p>
+                        <p><strong>Market:</strong> ${project.market}</p>
+                        <p><strong>Estimated Days:</strong> ${project.days}</p>
+                    </div>
+                    
+                    <div class="detail-group">
+                        <h4>Assignment Details</h4>
+                        <p><strong>Date Range:</strong> ${startDate.toLocaleDateString()} - ${endDate.toLocaleDateString()}</p>
+                        <p><strong>Duration:</strong> ${daysDiff} days</p>
+                        <p><strong>Type:</strong> ${assignment.entryType}</p>
+                        <p><strong>Market PM:</strong> ${assignment.marketProjectManager}</p>
+                    </div>
+                </div>
+                
+                <div class="modal-actions">
+                    <button class="delete-btn" onclick="window.deleteAssignmentFromModal('${assignment.startDate}', '${assignment.endDate}', '${assignment.employee}', '${assignment.projectId}')">
+                        Delete Assignment
+                    </button>
+                </div>
+            </div>
+        </div>
+    `;
+    
+    document.body.appendChild(modal);
+    
+    // Add close button functionality
+    const closeBtn = modal.querySelector('.close-modal');
+    closeBtn.addEventListener('click', () => modal.remove());
+    
+    // Close when clicking outside
+    modal.addEventListener('click', (e) => {
+        if (e.target === modal) modal.remove();
+    });
+};
+
+// Add delete functionality from modal
+window.deleteAssignmentFromModal = function(startDate, endDate, employee, projectId) {
+    if (confirm('Are you sure you want to delete this assignment?')) {
+        const index = window.scheduleData.findIndex(a => 
+            a.startDate === startDate && 
+            a.endDate === endDate && 
+            a.employee === employee && 
+            a.projectId === projectId
+        );
+        
+        if (index !== -1) {
+            window.scheduleData.splice(index, 1);
+            window.saveData();
+            window.renderCalendar();
+            
+            // Close the modal
+            document.querySelector('.modal').remove();
+        }
+    }
+};
+
+// Add this new function to handle showing/hiding dates
+window.toggleAvailableDates = function(button) {
+    const detailsDiv = button.nextElementSibling;
+    if (detailsDiv.classList.contains('hidden')) {
+        // Hide any other open details first
+        document.querySelectorAll('.available-dates-detail:not(.hidden)').forEach(div => {
+            div.classList.add('hidden');
+            div.previousElementSibling.textContent = 'Show Dates';
+        });
+        
+        detailsDiv.classList.remove('hidden');
+        button.textContent = 'Hide Dates';
+    } else {
+        detailsDiv.classList.add('hidden');
+        button.textContent = 'Show Dates';
+    }
+};
+
+// Add event listeners for both color preference and PTO color changes
+window.addEventListener('ptoColorChanged', function() {
+    window.renderCalendar();
+});
+
+window.addEventListener('colorPreferenceChanged', function() {
+    window.renderCalendar();
+});
+
+// Add event listener for continuous blocks changes
+window.addEventListener('continuousBlocksChanged', function() {
+    window.renderCalendar();
+});
+
+// Add this to your initialization code
+window.initializeMonthYearSelectors = function() {
+    const yearSelect = document.getElementById('yearSelect');
+    const monthSelect = document.getElementById('monthSelect');
+    
+    // Set up year options (current year ± 10 years)
+    const currentYear = new Date().getFullYear();
+    for (let year = currentYear - 10; year <= currentYear + 10; year++) {
+        const option = document.createElement('option');
+        option.value = year;
+        option.textContent = year;
+        yearSelect.appendChild(option);
+    }
+    
+    // Set initial values
+    monthSelect.value = window.currentDate.getMonth();
+    yearSelect.value = window.currentDate.getFullYear();
+};
+
+window.changeMonth = function() {
+    const month = parseInt(document.getElementById('monthSelect').value);
+    const year = parseInt(document.getElementById('yearSelect').value);
+    
+    window.currentDate = new Date(year, month, 1);
+    window.renderCalendar();
+};
